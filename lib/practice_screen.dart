@@ -74,38 +74,32 @@ class _PracticeScreenState extends State<PracticeScreen> {
     return Colors.blue;
   }
 
-  @override
-  Widget build(BuildContext context) {
-    Question currentQuestion = widget.questions[currentQuestionIndex];
-    var currentQuestionChoices = shuffledChoicesList.map((entry) {
-      int choiceIndex = entry.key;
-      String choiceText = entry.value;
-      return ListTile(
-        title: ElevatedButton(
-          onPressed: () {
-            if (!showFeedback) {
-              answerQuestion(choiceIndex);
-            }
-          },
-          style: ElevatedButton.styleFrom(
-            foregroundColor: Colors.white,
-            backgroundColor: showFeedback
-                ? getButtonColor(choiceIndex, selectedAnswers.last,
-                    currentQuestion.correctAnswerIndex)
-                : Colors.blue,
-          ),
-          child: Text(
-            choiceText,
-            style: const TextStyle(
-              fontSize: 18.0,
-            ),
-          ),
+  ElevatedButton buildQuestionButton(
+      int choiceIndex, Question currentQuestion, String choiceText) {
+    return ElevatedButton(
+      onPressed: () {
+        if (!showFeedback) {
+          answerQuestion(choiceIndex);
+        }
+      },
+      style: ElevatedButton.styleFrom(
+        foregroundColor: Colors.white,
+        backgroundColor: showFeedback
+            ? getButtonColor(choiceIndex, selectedAnswers.last,
+                currentQuestion.correctAnswerIndex)
+            : Colors.blue,
+      ),
+      child: Text(
+        choiceText,
+        style: const TextStyle(
+          fontSize: 18.0,
         ),
-      );
-    }).toList();
+      ),
+    );
+  }
 
-    return Scaffold(
-      appBar: AppBar(
+  AppBar buildAppBar() {
+    return AppBar(
         title: Text(
           'Practice - ${widget.topic}',
           style: const TextStyle(
@@ -119,8 +113,68 @@ class _PracticeScreenState extends State<PracticeScreen> {
           onPressed: () {
             Navigator.pop(context);
           },
+        ));
+  }
+
+  Card buildHintCard(Question currentQuestion) {
+    return Card(
+      // You can use a Card for the hint window
+      elevation: 4, // Adjust elevation as needed
+      child: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          children: [
+            const Text(
+              'Hint:',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            Text(
+              currentQuestion.choicesHints[selectedAnswers
+                  .last], // Show the hint for the selected incorrect choice
+              style: const TextStyle(
+                fontSize: 16.0,
+              ),
+            ),
+          ],
         ),
       ),
+    );
+  }
+
+  ElevatedButton buildNextButton() {
+    return ElevatedButton(
+      onPressed: () {
+        if (showFeedback) {
+          nextQuestion();
+        }
+      },
+      style: ElevatedButton.styleFrom(
+        foregroundColor: Colors.white,
+        backgroundColor: Colors.blue,
+      ),
+      child: const Text(
+        'Next',
+        style: TextStyle(
+          fontSize: 18.0,
+        ),
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    Question currentQuestion = widget.questions[currentQuestionIndex];
+    var currentQuestionChoices = shuffledChoicesList.map((entry) {
+      int choiceIndex = entry.key;
+      String choiceText = entry.value;
+      return ListTile(
+          title: buildQuestionButton(choiceIndex, currentQuestion, choiceText));
+    }).toList();
+
+    return Scaffold(
+      appBar: buildAppBar(),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: SingleChildScrollView(
@@ -156,51 +210,12 @@ class _PracticeScreenState extends State<PracticeScreen> {
                   visible: showFeedback &&
                       selectedAnswers.last !=
                           currentQuestion.correctAnswerIndex,
-                  child: Card(
-                    // You can use a Card for the hint window
-                    elevation: 4, // Adjust elevation as needed
-                    child: Padding(
-                      padding: const EdgeInsets.all(16.0),
-                      child: Column(
-                        children: [
-                          const Text(
-                            'Hint:',
-                            style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                            ),
-                          ),
-                          Text(
-                            currentQuestion.choicesHints[selectedAnswers
-                                .last], // Show the hint for the selected incorrect choice
-                            style: const TextStyle(
-                              fontSize: 16.0,
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ),
+                  child: buildHintCard(currentQuestion),
                 ),
               const SizedBox(height: 16.0),
               if (showFeedback)
                 Center(
-                  child: ElevatedButton(
-                    onPressed: () {
-                      if (showFeedback) {
-                        nextQuestion();
-                      }
-                    },
-                    style: ElevatedButton.styleFrom(
-                      foregroundColor: Colors.white,
-                      backgroundColor: Colors.blue,
-                    ),
-                    child: const Text(
-                      'Next',
-                      style: TextStyle(
-                        fontSize: 18.0,
-                      ),
-                    ),
-                  ),
+                  child: buildNextButton(),
                 ),
             ],
           ),

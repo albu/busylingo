@@ -42,9 +42,46 @@ class _ResultsScreenState extends State<ResultsScreen> {
     Navigator.pushAndRemoveUntil(
       context,
       MaterialPageRoute(builder: (BuildContext context) {
-        return TopicListScreen();
+        return const TopicListScreen();
       }),
       (route) => false,
+    );
+  }
+
+  Widget buildResultsText() {
+    return AnimatedContainer(
+      duration: const Duration(seconds: 1),
+      curve: Curves.easeInOut,
+      decoration: BoxDecoration(
+        color: correctAnswers < widget.questions.length
+            ? Colors.red
+            : Colors.green,
+        borderRadius: BorderRadius.circular(12),
+      ),
+      padding: const EdgeInsets.all(12.0),
+      child: Text(
+        correctAnswers < widget.questions.length
+            ? 'Repeat the theory'
+            : 'Well done',
+        style: const TextStyle(
+          fontSize: 22.0,
+          color: Colors.white,
+        ),
+      ),
+    );
+  }
+
+  AppBar buildAppBar() {
+    return AppBar(
+      title: Text(
+        'Results - ${widget.topic}',
+        style: const TextStyle(
+          fontSize: 20.0,
+          fontWeight: FontWeight.bold,
+        ),
+      ),
+      backgroundColor: Colors.blue,
+      automaticallyImplyLeading: false,
     );
   }
 
@@ -52,74 +89,11 @@ class _ResultsScreenState extends State<ResultsScreen> {
   Widget build(BuildContext context) {
     return WillPopScope(
       child: Scaffold(
-        appBar: AppBar(
-          title: Text(
-            'Results - ${widget.topic}',
-            style: const TextStyle(
-              fontSize: 20.0,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-          backgroundColor: Colors.blue,
-          automaticallyImplyLeading: false,
-        ),
+        appBar: buildAppBar(),
         body: Center(
           child: SingleChildScrollView(
             padding: const EdgeInsets.all(16.0),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Text(
-                  'Results for ${widget.topic}',
-                  style: const TextStyle(
-                    fontSize: 28.0,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.blue,
-                  ),
-                ),
-                const SizedBox(height: 16.0),
-                Text(
-                  'Correct Answers: $correctAnswers out of ${widget.questions.length}',
-                  style: const TextStyle(
-                    fontSize: 22.0,
-                    color: Colors.green,
-                  ),
-                ),
-                const SizedBox(height: 16.0),
-                AnimatedContainer(
-                  duration: const Duration(seconds: 1),
-                  curve: Curves.easeInOut,
-                  decoration: BoxDecoration(
-                    color: correctAnswers < widget.questions.length
-                        ? Colors.red
-                        : Colors.green,
-                    borderRadius: BorderRadius.circular(12),
-                  ),
-                  padding: const EdgeInsets.all(12.0),
-                  child: Text(
-                    correctAnswers < widget.questions.length
-                        ? 'Repeat the theory'
-                        : 'Well done',
-                    style: const TextStyle(
-                      fontSize: 22.0,
-                      color: Colors.white,
-                    ),
-                  ),
-                ),
-                const SizedBox(height: 16.0),
-                ...buildResultsList(),
-                const SizedBox(height: 24.0),
-                ElevatedButton(
-                  onPressed: toHomeScreen,
-                  child: const Text(
-                    "Return to home page",
-                    style: TextStyle(
-                      fontSize: 18.0,
-                    ),
-                  ),
-                ),
-              ],
-            ),
+            child: buildResults(),
           ),
         ),
       ),
@@ -127,6 +101,44 @@ class _ResultsScreenState extends State<ResultsScreen> {
         toHomeScreen();
         return false;
       },
+    );
+  }
+
+  Widget buildResults() {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        Text(
+          'Results for ${widget.topic}',
+          style: const TextStyle(
+            fontSize: 28.0,
+            fontWeight: FontWeight.bold,
+            color: Colors.blue,
+          ),
+        ),
+        const SizedBox(height: 16.0),
+        Text(
+          'Correct Answers: $correctAnswers out of ${widget.questions.length}',
+          style: const TextStyle(
+            fontSize: 22.0,
+            color: Colors.green,
+          ),
+        ),
+        const SizedBox(height: 16.0),
+        buildResultsText(),
+        const SizedBox(height: 16.0),
+        ...buildResultsList(),
+        const SizedBox(height: 24.0),
+        ElevatedButton(
+          onPressed: toHomeScreen,
+          child: const Text(
+            "Return to home page",
+            style: TextStyle(
+              fontSize: 18.0,
+            ),
+          ),
+        ),
+      ],
     );
   }
 

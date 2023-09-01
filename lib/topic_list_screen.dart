@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:busylingo/questions_by_topic.dart';
+import 'package:busylingo/data/questions_by_topic.dart';
 import 'package:busylingo/theory_screen.dart';
 // import 'package:badges/badges.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class TopicListScreen extends StatefulWidget {
+  const TopicListScreen({super.key});
+
   @override
   _TopicListScreenState createState() => _TopicListScreenState();
 }
@@ -58,12 +60,12 @@ class _TopicListScreenState extends State<TopicListScreen> {
             ),
             trailing: correctAnswerCounts.containsKey(topics[index])
                 ? Text(
-                    correctAnswerCounts[topics[index]].toString() + '/10',
+                    '${correctAnswerCounts[topics[index]]}/10',
                     style: (correctAnswerCounts[topics[index]] ?? 0) > 7
-                        ? TextStyle(color: Colors.green)
-                        : TextStyle(color: Colors.red),
+                        ? const TextStyle(color: Colors.green)
+                        : const TextStyle(color: Colors.red),
                   )
-                : Text('0'),
+                : const Text('0'),
             onTap: () {
               Navigator.push(
                 context,
