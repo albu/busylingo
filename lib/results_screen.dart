@@ -52,20 +52,16 @@ class _ResultsScreenState extends State<ResultsScreen> {
     return AnimatedContainer(
       duration: const Duration(seconds: 1),
       curve: Curves.easeInOut,
-      decoration: BoxDecoration(
-        color: correctAnswers < widget.questions.length
-            ? Colors.red
-            : Colors.green,
-        borderRadius: BorderRadius.circular(12),
-      ),
       padding: const EdgeInsets.all(12.0),
       child: Text(
         correctAnswers < widget.questions.length
             ? 'Repeat the theory'
             : 'Well done',
-        style: const TextStyle(
+        style: TextStyle(
           fontSize: 22.0,
-          color: Colors.white,
+          color: correctAnswers < widget.questions.length
+              ? Colors.red
+              : Colors.green,
         ),
       ),
     );

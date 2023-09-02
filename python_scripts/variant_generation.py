@@ -72,7 +72,10 @@ class Variant:
         verb_forming_explanation = {
             VerbType.T1: "Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. ",
             VerbType.T2: "Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. ",
-            VerbType.T3: "Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! "
+            VerbType.T3: "Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! ",
+            VerbType.T4: "Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. ",
+            VerbType.T5: "Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! ",
+            VerbType.T6: "Verb of type 6. This type of verb ends in -eta/-etä. To find the infinitive stem for verbtype 6, you remove the final -ta/-tä. To this stem, you then add -ne- before adding the personal ending. "
         }
         basic_explanation = f"Conjugation form ({self.conjugated}) is a {'correct' if self.is_correct else 'incorrect'} form of " \
                             f"({self.word.infinitive}) in a {form_names[self.form]} form. "

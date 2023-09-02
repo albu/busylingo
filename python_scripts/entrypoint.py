@@ -4,6 +4,7 @@ from question import Question
 from verb_class import Verb, Personal, VerbType
 from typing import List
 from random import choice, seed
+import libvoikko
 
 seed(0)
 phrases = [
@@ -146,6 +147,71 @@ phrases = [
     "(unohtaa) avaimet kotiin. - To forget the keys at home.",
     "(vaatia) oikeutta. - To demand justice.",
     "(ymmärtää) vaikeaa matematiikkaa. - To understand difficult mathematics.",
+"(avata) kirje varovasti. - To open the letter carefully.",
+"(erota) pitkän suhteen jälkeen. - To divorce after a long relationship.",
+"(hakata) puuta kirveellä. - To beat wood with an axe.",
+"(haluta) enemmän elämältä. - To want more from life.",
+"(herätä) aikaisin aamulla. - To wake up early in the morning.",
+"(huomata) salaisuus. - To notice a secret.",
+"(hypätä) korkealta. - To jump from a high place.",
+"(juoruta) naapureista. - To gossip about neighbors.",
+"(kadota) pimeyteen. - To disappear into the darkness.",
+"(lakata) sataamasta. - To stop raining.",
+"(luvata) pitää lupaus. - To keep a promise.",
+"(maata) rannalla aurinkoa ottaen. - To lie down at the beach sunbathing.",
+"(pelata) jalkapalloa iltaisin. - To play football in the evenings.",
+"(pelätä) pimeää. - To be scared of the dark.",
+"(siivota) koti perusteellisesti. - To clean the home thoroughly.",
+"(tavata) vanhoja ystäviä. - To meet old friends.",
+"(tilata) ruokaa ravintolasta. - To order food from a restaurant.",
+"(tykätä) hyvästä musiikista. - To like good music.",
+"(vastata) kysymykseen. - To answer a question.",
+"(älytä) oivallus. - To get a realization.",
+"(avata) oven vieraille. - To open the door for guests.",
+"(erota) yhteisestä projektista. - To separate from a joint project.",
+"(hakata) kananmunia kulhoon. - To beat eggs in a bowl.",
+"(haluta) matkustaa maailmalla. - To want to travel the world.",
+"(herätä) aamulla auringonpaisteeseen. - To wake up to sunshine in the morning.",
+"(huomata) virhe ajoissa. - To notice a mistake in time.",
+"(hypätä) esteen yli. - To jump over an obstacle.",
+"(juoruta) työpaikalla. - To gossip at work.",
+"(kadota) historian hämäriin. - To disappear into the mists of history.",
+"(lakata) satamasta. - To cease from the harbor.",
+"(luvata) tehdä hyvää työtä. - To promise to do good work.",
+"(maata) mukavassa sängyssä. - To lie down in a comfortable bed.",
+"(määrätä) tulevaisuuden suuntaa. - To determine the direction of the future.",
+"(pelata) shakkia taitavasti. - To play chess skillfully.",
+"(pelätä) hämähäkkejä. - To be scared of spiders.",
+"(piffata) itsensä viikonloppuna. - To treat oneself over the weekend.",
+"(pihdata) rahaa tarpeettomista ostoksista. - To skimp money on unnecessary purchases.",
+"(pudota) korkealta puusta. - To fall from a tall tree.",
+"(siivota) huone kunnolla. - To clean the room thoroughly.",
+"(tarjota) apua tarvitseville. - To offer help to those in need.",
+"(tavata) uusia ihmisiä matkoilla. - To meet new people while traveling.",
+"(tilata) lehti vuosiksi eteenpäin. - To subscribe to a magazine for years ahead.",
+"(tykätä) ulkoilusta. - To like outdoor activities.",
+"(vastata) sähköpostiviestiin. - To respond to an email message.",
+"(älytä) ongelman ratkaisu. - To understand the solution to a problem.",
+"(hallita) maata viisaasti. - To rule a country wisely.",
+"(havaita) piilevä vaara. - To perceive a hidden danger.",
+"(hillitä) itsensä vihasta. - To restrain oneself from anger.",
+"(häiritä) naapurin rauhaa. - To disturb the neighbor's peace.",
+"(kyyditä) ystävä kotiin. - To give a friend a lift home.",
+"(mainita) nimi kiitospuheessa. - To mention a name in a thank-you speech.",
+"(merkitä) tärkeitä päivämääriä kalenteriin. - To mark important dates on the calendar.",
+"(palkita) hyvästä suorituksesta. - To reward for a job well done.",
+"(tarvita) apua vaikeassa tilanteessa. - To need help in a difficult situation.",
+"(tulkita) unia symbolien avulla. - To interpret dreams using symbols.",
+"(hallita) taitavasti monia taitoja. - To master many skills skillfully.",
+"(havaita) pieni yksityiskohta. - To perceive a small detail.",
+"(hillitä) naurua vakavassa tilanteessa. - To restrain laughter in a serious situation.",
+"(häiritä) keskittymistä. - To disturb concentration.",
+"(kyyditä) vieraita juhliin. - To give guests a lift to the party.",
+"(mainita) erityiset kiitokset. - To mention special thanks.",
+"(merkitä) tärkeitä sanoja sanakirjaan. - To mark important words in the dictionary.",
+"(palkita) ansioituneet työntekijät. - To reward outstanding employees.",
+"(tarvita) uutta tietoa. - To need new information.",
+"(tulkita) taidetta eri tavoin. - To interpret art in various ways.",
 ]
 
 
@@ -156,23 +222,29 @@ def get_random(my_dict: dict):
 
 
 if __name__ == '__main__':
+    v = libvoikko.Voikko(u'fi')
     per_theme_questions = {
         'Verbtype 1': [],
         'Verbtype 1 consonant gradation': [],
         'Verbtype 2': [],
         'Verbtype 3': [],
         'Verbtype 3 consonant gradation': [],
+        'Verbtype 4': [],
+        'Verbtype 4 consonant gradation': [],
+        'Verbtype 5': [],
+        # 'Verbtype 6': [],
+        # 'Verbtype 6 consonant gradation': [],
     }
     for phrase in phrases:
         word, *other = phrase.split()
         verb = Verb(word.strip('()'))
-        try:
-            former = VerbFormer(verb)
-        except KeyError:
-            continue
+        former = VerbFormer(verb)
         random_form: Personal = choice(list(Personal))
         question_text = f"{random_form.value.capitalize()} ({verb.infinitive}) {' '.join(other)}"
         correct_answer = former.form_word(random_form)
+        if not v.analyze(correct_answer.conjugated):
+            print('incorrect forming: ', verb.infinitive, correct_answer.conjugated, verb.type)
+            continue
         incorrect_answers = {}
         for i in range(10):
             corruption_variant = choice(list(CorruptionType))
@@ -196,12 +268,30 @@ if __name__ == '__main__':
                 per_theme_questions['Verbtype 3 consonant gradation'].append(q)
         if verb.type == VerbType.T2:
             per_theme_questions['Verbtype 2'].append(q)
+        if verb.type == VerbType.T5:
+            per_theme_questions['Verbtype 5'].append(q)
+        if verb.type == VerbType.T4:
+            if not correct_answer.consonant_gradation:
+                per_theme_questions['Verbtype 4'].append(q)
+            else:
+                per_theme_questions['Verbtype 4 consonant gradation'].append(q)
 
-    random_items = [get_random(per_theme_questions) for i in range(20)]
-    per_theme_questions['Verbtypes 1-3 rewind'] = random_items
+    rewind = {
+        'Verbtypes 1-3': ['Verbtype 1', 'Verbtype 2', 'Verbtype 3'],
+        'Verbtypes 1-3 KPT': ['Verbtype 1 consonant gradation', 'Verbtype 3 consonant gradation'],
+        'Verbtypes 1-3 mixed': ['Verbtype 1', 'Verbtype 2', 'Verbtype 3', 'Verbtype 1 consonant gradation', 'Verbtype 3 consonant gradation'],
+        'Verbtypes 1-5': ['Verbtype 1', 'Verbtype 2', 'Verbtype 3', 'Verbtype 4', 'Verbtype 5'],
+        'Verbtypes 1-5 KPT': ['Verbtype 1 consonant gradation', 'Verbtype 3 consonant gradation', 'Verbtype 5 consonant gradation'],
+        'Verbtypes 1-5 mixed': list(per_theme_questions.keys())
+    }
+    for key, themes in rewind.items():
+        questions = {k: qks for k, qks in per_theme_questions.items() if k in themes}
+        random_items = [get_random(questions) for i in range(30)]
+        per_theme_questions[key] = random_items
 
     for q, items in per_theme_questions.items():
         print(f"'{q}': [")
         for item in items:
             print(item.to_dart() + ',')
-        print(']')
+        print('],')
+        # print(q, len(items))

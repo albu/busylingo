@@ -19,11 +19,11 @@ Map<String, List<Question>> questions_by_topic = {
     Question(
       questionText:
           "Me (tanssia) ilman musiikkia on vaikeaa. - Dancing without music is difficult.",
-      choices: ["tanssimme", "tanssiamme", "tanssitte", "tanssmme"],
+      choices: ["tanssimme", "tanssiamme", "tanssit", "tanssmme"],
       choicesHints: [
         "Conjugation form (tanssimme) is a correct form of (tanssia) in a first plural nominative form. ",
         "Conjugation form (tanssiamme) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
-        "Conjugation form (tanssitte) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
+        "Conjugation form (tanssit) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
         "Conjugation form (tanssmme) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme"
       ],
       correctAnswerIndex: 0,
@@ -31,459 +31,449 @@ Map<String, List<Question>> questions_by_topic = {
     Question(
       questionText:
           "Te (laulaa) kauniisti kuutamossa. - Singing beautifully in the moonlight.",
-      choices: ["laulatte", "laultte", "laulat", "laulan"],
+      choices: ["laulatte", "laultte", "laulat", "laulavat"],
       choicesHints: [
         "Conjugation form (laulatte) is a correct form of (laulaa) in a second plural nominative form. ",
         "Conjugation form (laultte) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte",
         "Conjugation form (laulat) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte",
-        "Conjugation form (laulan) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte"
+        "Conjugation form (laulavat) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Me (maistaa) herkullista ruokaa. - Tasting delicious food.",
-      choices: ["maistamme", "maistmme", "maistavat", "maistan"],
+      choices: ["maistamme", "maistmme", "maistatte", "maistavat"],
       choicesHints: [
         "Conjugation form (maistamme) is a correct form of (maistaa) in a first plural nominative form. ",
         "Conjugation form (maistmme) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
-        "Conjugation form (maistavat) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
-        "Conjugation form (maistan) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme"
+        "Conjugation form (maistatte) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistavat) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (istua) puistossa ja nauttia auringosta. - Sitting in the park and enjoying the sun.",
-      choices: ["istumme", "istuvat", "istuamme", "istmme"],
+          "Minä (istua) puistossa ja nauttia auringosta. - Sitting in the park and enjoying the sun.",
+      choices: ["istun", "istumme", "istuan", "istn"],
       choicesHints: [
-        "Conjugation form (istumme) is a correct form of (istua) in a first plural nominative form. ",
-        "Conjugation form (istuvat) is a incorrect form of (istua) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istumme",
-        "Conjugation form (istuamme) is a incorrect form of (istua) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istumme",
-        "Conjugation form (istmme) is a incorrect form of (istua) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istumme"
+        "Conjugation form (istun) is a correct form of (istua) in a first singular nominative form. ",
+        "Conjugation form (istumme) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
+        "Conjugation form (istuan) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
+        "Conjugation form (istn) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (katsoa) tähtiä yötaivaalla. - Watching the stars in the night sky.",
-      choices: ["katson", "katsoo", "katsoan", "katsn"],
+          "Te (katsoa) tähtiä yötaivaalla. - Watching the stars in the night sky.",
+      choices: ["katsotte", "katsot", "katstte", "katsovat"],
       choicesHints: [
-        "Conjugation form (katson) is a correct form of (katsoa) in a first singular nominative form. ",
-        "Conjugation form (katsoo) is a incorrect form of (katsoa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katson",
-        "Conjugation form (katsoan) is a incorrect form of (katsoa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katson",
-        "Conjugation form (katsn) is a incorrect form of (katsoa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katson"
+        "Conjugation form (katsotte) is a correct form of (katsoa) in a second plural nominative form. ",
+        "Conjugation form (katsot) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte",
+        "Conjugation form (katstte) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte",
+        "Conjugation form (katsovat) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (rakastaa) perhettään syvästi. - Loving one's family deeply.",
-      choices: ["rakastatte", "rakastavat", "rakasttte", "rakastaa"],
+          "Minä (rakastaa) perhettään syvästi. - Loving one's family deeply.",
+      choices: ["rakastan", "rakastavat", "rakastat", "rakastatte"],
       choicesHints: [
-        "Conjugation form (rakastatte) is a correct form of (rakastaa) in a second plural nominative form. ",
-        "Conjugation form (rakastavat) is a incorrect form of (rakastaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastatte",
-        "Conjugation form (rakasttte) is a incorrect form of (rakastaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastatte",
-        "Conjugation form (rakastaa) is a incorrect form of (rakastaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastatte"
+        "Conjugation form (rakastan) is a correct form of (rakastaa) in a first singular nominative form. ",
+        "Conjugation form (rakastavat) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
+        "Conjugation form (rakastat) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
+        "Conjugation form (rakastatte) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Sinä (valmistaa) herkullista illallista. - Cooking a delicious dinner.",
-      choices: ["valmistat", "valmistt", "valmistaat", "valmistaa"],
+          "Hän (lentää) ulkomaille lomalle. - Flying abroad for vacation.",
+      choices: ["lentää", "lentäää", "lentän", "lentät"],
       choicesHints: [
-        "Conjugation form (valmistat) is a correct form of (valmistaa) in a second singular nominative form. ",
-        "Conjugation form (valmistt) is a incorrect form of (valmistaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistat",
-        "Conjugation form (valmistaat) is a incorrect form of (valmistaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistat",
-        "Conjugation form (valmistaa) is a incorrect form of (valmistaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistat"
+        "Conjugation form (lentää) is a correct form of (lentää) in a third singular nominative form. ",
+        "Conjugation form (lentäää) is a incorrect form of (lentää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentää",
+        "Conjugation form (lentän) is a incorrect form of (lentää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentää",
+        "Conjugation form (lentät) is a incorrect form of (lentää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentää"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (pysyä) terveenä liikunnalla. - Staying healthy through exercise.",
-      choices: ["pysytte", "pysyy", "pysyt", "pysymme"],
+          "Te (valmistaa) herkullista illallista. - Cooking a delicious dinner.",
+      choices: ["valmistatte", "valmisttte", "valmistaatte", "valmistamme"],
       choicesHints: [
-        "Conjugation form (pysytte) is a correct form of (pysyä) in a second plural nominative form. ",
-        "Conjugation form (pysyy) is a incorrect form of (pysyä) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysytte",
-        "Conjugation form (pysyt) is a incorrect form of (pysyä) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysytte",
-        "Conjugation form (pysymme) is a incorrect form of (pysyä) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysytte"
+        "Conjugation form (valmistatte) is a correct form of (valmistaa) in a second plural nominative form. ",
+        "Conjugation form (valmisttte) is a incorrect form of (valmistaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistatte",
+        "Conjugation form (valmistaatte) is a incorrect form of (valmistaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistatte",
+        "Conjugation form (valmistamme) is a incorrect form of (valmistaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistatte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (kiittää) ystäviä avusta. - Thanking friends for their help.",
-      choices: ["kiittävät", "kiittää", "kiittäävät", "kiittän"],
+          "He (pysyä) terveenä liikunnalla. - Staying healthy through exercise.",
+      choices: ["pysyvät", "pysymme", "pysyävät", "pysyn"],
       choicesHints: [
-        "Conjugation form (kiittävät) is a correct form of (kiittää) in a third plural nominative form. ",
-        "Conjugation form (kiittää) is a incorrect form of (kiittää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittävät",
-        "Conjugation form (kiittäävät) is a incorrect form of (kiittää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittävät",
-        "Conjugation form (kiittän) is a incorrect form of (kiittää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittävät"
+        "Conjugation form (pysyvät) is a correct form of (pysyä) in a third plural nominative form. ",
+        "Conjugation form (pysymme) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
+        "Conjugation form (pysyävät) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
+        "Conjugation form (pysyn) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (matkustaa) junalla työpaikalle. - Traveling to work by train.",
-      choices: ["matkustavat", "matkustan", "matkustaavat", "matkustvat"],
+          "He (nukkua) pitkään viikonloppuna. - Sleeping in on the weekend.",
+      choices: ["nukkuvat", "nukkun", "nukkuavat", "nukkvat"],
       choicesHints: [
-        "Conjugation form (matkustavat) is a correct form of (matkustaa) in a third plural nominative form. ",
-        "Conjugation form (matkustan) is a incorrect form of (matkustaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustavat",
-        "Conjugation form (matkustaavat) is a incorrect form of (matkustaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustavat",
-        "Conjugation form (matkustvat) is a incorrect form of (matkustaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustavat"
+        "Conjugation form (nukkuvat) is a correct form of (nukkua) in a third plural nominative form. ",
+        "Conjugation form (nukkun) is a incorrect form of (nukkua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nukkuvat",
+        "Conjugation form (nukkuavat) is a incorrect form of (nukkua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nukkuvat",
+        "Conjugation form (nukkvat) is a incorrect form of (nukkua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nukkuvat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (matkustaa) junalla työpaikalle. - Traveling to work by train.",
+      choices: ["matkustatte", "matkustan", "matkustaatte", "matkusttte"],
+      choicesHints: [
+        "Conjugation form (matkustatte) is a correct form of (matkustaa) in a second plural nominative form. ",
+        "Conjugation form (matkustan) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte",
+        "Conjugation form (matkustaatte) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte",
+        "Conjugation form (matkusttte) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Hän (leipoa) herkullisia kakkuja. - Baking delicious cakes.",
-      choices: ["leipoo", "leipon", "leipot", "leipo"],
+      choices: ["leipoo", "leipon", "leipo", "leipoao"],
       choicesHints: [
         "Conjugation form (leipoo) is a correct form of (leipoa) in a third singular nominative form. ",
         "Conjugation form (leipon) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo",
-        "Conjugation form (leipot) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo",
-        "Conjugation form (leipo) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo"
+        "Conjugation form (leipo) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo",
+        "Conjugation form (leipoao) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (hiihtää) nopeasti rinteessä. - Skiing quickly down the slope.",
-      choices: ["hiihtätte", "hiihtät", "hiihtäätte", "hiihttte"],
+          "Sinä (ostaa) uusia vaatteita kesäksi. - Buying new clothes for summer.",
+      choices: ["ostat", "ostt", "ostavat", "ostamme"],
       choicesHints: [
-        "Conjugation form (hiihtätte) is a correct form of (hiihtää) in a second plural nominative form. ",
-        "Conjugation form (hiihtät) is a incorrect form of (hiihtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtätte",
-        "Conjugation form (hiihtäätte) is a incorrect form of (hiihtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtätte",
-        "Conjugation form (hiihttte) is a incorrect form of (hiihtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtätte"
+        "Conjugation form (ostat) is a correct form of (ostaa) in a second singular nominative form. ",
+        "Conjugation form (ostt) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat",
+        "Conjugation form (ostavat) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat",
+        "Conjugation form (ostamme) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (rakentaa) taloa omille lapsille. - Building a house for one's children.",
-      choices: ["rakentaa", "rakentatte", "rakenta", "rakentaaa"],
+          "Minä (tanssia) sateessa on hauskaa. - Dancing in the rain is fun.",
+      choices: ["tanssin", "tanssian", "tanssn", "tanssit"],
       choicesHints: [
-        "Conjugation form (rakentaa) is a correct form of (rakentaa) in a third singular nominative form. ",
-        "Conjugation form (rakentatte) is a incorrect form of (rakentaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakentaa",
-        "Conjugation form (rakenta) is a incorrect form of (rakentaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakentaa",
-        "Conjugation form (rakentaaa) is a incorrect form of (rakentaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakentaa"
+        "Conjugation form (tanssin) is a correct form of (tanssia) in a first singular nominative form. ",
+        "Conjugation form (tanssian) is a incorrect form of (tanssia) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssin",
+        "Conjugation form (tanssn) is a incorrect form of (tanssia) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssin",
+        "Conjugation form (tanssit) is a incorrect form of (tanssia) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssin"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (ostaa) uusia vaatteita kesäksi. - Buying new clothes for summer.",
-      choices: ["ostamme", "ostmme", "ostaamme", "ostan"],
+          "Te (laulaa) ystävien kanssa karaokea. - Singing karaoke with friends.",
+      choices: ["laulatte", "laulaatte", "laulavat", "laulan"],
       choicesHints: [
-        "Conjugation form (ostamme) is a correct form of (ostaa) in a first plural nominative form. ",
-        "Conjugation form (ostmme) is a incorrect form of (ostaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostamme",
-        "Conjugation form (ostaamme) is a incorrect form of (ostaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostamme",
-        "Conjugation form (ostan) is a incorrect form of (ostaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostamme"
+        "Conjugation form (laulatte) is a correct form of (laulaa) in a second plural nominative form. ",
+        "Conjugation form (laulaatte) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte",
+        "Conjugation form (laulavat) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte",
+        "Conjugation form (laulan) is a incorrect form of (laulaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulatte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (tanssia) sateessa on hauskaa. - Dancing in the rain is fun.",
-      choices: ["tanssivat", "tanssiavat", "tanssvat", "tanssii"],
+          "Hän (maistaa) eri kulttuurien ruokia. - Tasting foods from different cultures.",
+      choices: ["maistaa", "maistaaa", "maistan", "maista"],
       choicesHints: [
-        "Conjugation form (tanssivat) is a correct form of (tanssia) in a third plural nominative form. ",
-        "Conjugation form (tanssiavat) is a incorrect form of (tanssia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssivat",
-        "Conjugation form (tanssvat) is a incorrect form of (tanssia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssivat",
-        "Conjugation form (tanssii) is a incorrect form of (tanssia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssivat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Minä (laulaa) ystävien kanssa karaokea. - Singing karaoke with friends.",
-      choices: ["laulan", "laulat", "laulavat", "lauln"],
-      choicesHints: [
-        "Conjugation form (laulan) is a correct form of (laulaa) in a first singular nominative form. ",
-        "Conjugation form (laulat) is a incorrect form of (laulaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulan",
-        "Conjugation form (laulavat) is a incorrect form of (laulaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulan",
-        "Conjugation form (lauln) is a incorrect form of (laulaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulan"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Sinä (maistaa) eri kulttuurien ruokia. - Tasting foods from different cultures.",
-      choices: ["maistat", "maistavat", "maistt", "maistaat"],
-      choicesHints: [
-        "Conjugation form (maistat) is a correct form of (maistaa) in a second singular nominative form. ",
-        "Conjugation form (maistavat) is a incorrect form of (maistaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistat",
-        "Conjugation form (maistt) is a incorrect form of (maistaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistat",
-        "Conjugation form (maistaat) is a incorrect form of (maistaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistat"
+        "Conjugation form (maistaa) is a correct form of (maistaa) in a third singular nominative form. ",
+        "Conjugation form (maistaaa) is a incorrect form of (maistaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistaa",
+        "Conjugation form (maistan) is a incorrect form of (maistaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistaa",
+        "Conjugation form (maista) is a incorrect form of (maistaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistaa"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Minä (istua) kahvilassa ja lukea kirjaa. - Sitting in a café and reading a book.",
-      choices: ["istun", "istn", "istuvat", "istuan"],
+      choices: ["istun", "istuan", "istn", "istuu"],
       choicesHints: [
         "Conjugation form (istun) is a correct form of (istua) in a first singular nominative form. ",
+        "Conjugation form (istuan) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
         "Conjugation form (istn) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
-        "Conjugation form (istuvat) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
-        "Conjugation form (istuan) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun"
+        "Conjugation form (istuu) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (katsoa) aurinkoa laskevan horisonttiin. - Watching the sun set on the horizon.",
-      choices: ["katsovat", "katsoo", "katson", "katsoavat"],
+          "Minä (katsoa) aurinkoa laskevan horisonttiin. - Watching the sun set on the horizon.",
+      choices: ["katson", "katsovat", "katsoo", "katsn"],
       choicesHints: [
-        "Conjugation form (katsovat) is a correct form of (katsoa) in a third plural nominative form. ",
-        "Conjugation form (katsoo) is a incorrect form of (katsoa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsovat",
-        "Conjugation form (katson) is a incorrect form of (katsoa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsovat",
-        "Conjugation form (katsoavat) is a incorrect form of (katsoa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsovat"
+        "Conjugation form (katson) is a correct form of (katsoa) in a first singular nominative form. ",
+        "Conjugation form (katsovat) is a incorrect form of (katsoa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katson",
+        "Conjugation form (katsoo) is a incorrect form of (katsoa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katson",
+        "Conjugation form (katsn) is a incorrect form of (katsoa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katson"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (rakastaa) eläimiä sydämestään. - Loving animals with all one's heart.",
-      choices: ["rakastan", "rakastatte", "rakastamme", "rakastaan"],
+          "He (rakastaa) eläimiä sydämestään. - Loving animals with all one's heart.",
+      choices: ["rakastavat", "rakastvat", "rakastan", "rakastaa"],
       choicesHints: [
-        "Conjugation form (rakastan) is a correct form of (rakastaa) in a first singular nominative form. ",
-        "Conjugation form (rakastatte) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
-        "Conjugation form (rakastamme) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
-        "Conjugation form (rakastaan) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "He (lentää) ympäri maailmaa seikkailuun. - Flying around the world for adventure.",
-      choices: ["lentävät", "lentätte", "lentvät", "lentän"],
-      choicesHints: [
-        "Conjugation form (lentävät) is a correct form of (lentää) in a third plural nominative form. ",
-        "Conjugation form (lentätte) is a incorrect form of (lentää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentävät",
-        "Conjugation form (lentvät) is a incorrect form of (lentää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentävät",
-        "Conjugation form (lentän) is a incorrect form of (lentää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentävät"
+        "Conjugation form (rakastavat) is a correct form of (rakastaa) in a third plural nominative form. ",
+        "Conjugation form (rakastvat) is a incorrect form of (rakastaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastavat",
+        "Conjugation form (rakastan) is a incorrect form of (rakastaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastavat",
+        "Conjugation form (rakastaa) is a incorrect form of (rakastaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastavat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "He (valmistaa) herkullista lounasta ystäville. - Cooking a delicious lunch for friends.",
-      choices: ["valmistavat", "valmistamme", "valmistaa", "valmistat"],
+      choices: ["valmistavat", "valmistvat", "valmistatte", "valmistaavat"],
       choicesHints: [
         "Conjugation form (valmistavat) is a correct form of (valmistaa) in a third plural nominative form. ",
-        "Conjugation form (valmistamme) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat",
-        "Conjugation form (valmistaa) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat",
-        "Conjugation form (valmistat) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat"
+        "Conjugation form (valmistvat) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat",
+        "Conjugation form (valmistatte) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat",
+        "Conjugation form (valmistaavat) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (soittaa) kitaraa rennosti. - Playing the guitar casually.",
-      choices: ["soittaa", "soitta", "soittamme", "soittan"],
+          "Hän (pysyä) positiivisena vaikeina aikoina. - Staying positive during tough times.",
+      choices: ["pysyy", "pysyt", "pysytte", "pysyäy"],
       choicesHints: [
-        "Conjugation form (soittaa) is a correct form of (soittaa) in a third singular nominative form. ",
-        "Conjugation form (soitta) is a incorrect form of (soittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is soittaa",
-        "Conjugation form (soittamme) is a incorrect form of (soittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is soittaa",
-        "Conjugation form (soittan) is a incorrect form of (soittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is soittaa"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Hän (kirjoittaa) runoja luonnosta. - Writing poems about nature.",
-      choices: ["kirjoittaa", "kirjoittaaa", "kirjoittatte", "kirjoittavat"],
-      choicesHints: [
-        "Conjugation form (kirjoittaa) is a correct form of (kirjoittaa) in a third singular nominative form. ",
-        "Conjugation form (kirjoittaaa) is a incorrect form of (kirjoittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittaa",
-        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittaa",
-        "Conjugation form (kirjoittavat) is a incorrect form of (kirjoittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittaa"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "He (pysyä) positiivisena vaikeina aikoina. - Staying positive during tough times.",
-      choices: ["pysyvät", "pysvät", "pysyt", "pysyävät"],
-      choicesHints: [
-        "Conjugation form (pysyvät) is a correct form of (pysyä) in a third plural nominative form. ",
-        "Conjugation form (pysvät) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
-        "Conjugation form (pysyt) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
-        "Conjugation form (pysyävät) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät"
+        "Conjugation form (pysyy) is a correct form of (pysyä) in a third singular nominative form. ",
+        "Conjugation form (pysyt) is a incorrect form of (pysyä) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyy",
+        "Conjugation form (pysytte) is a incorrect form of (pysyä) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyy",
+        "Conjugation form (pysyäy) is a incorrect form of (pysyä) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyy"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Hän (kiittää) vanhempia elämän opetuksista. - Thanking parents for life lessons.",
-      choices: ["kiittää", "kiittäää", "kiittät", "kiittätte"],
+      choices: ["kiittää", "kiittäää", "kiittät", "kiittä"],
       choicesHints: [
         "Conjugation form (kiittää) is a correct form of (kiittää) in a third singular nominative form. ",
         "Conjugation form (kiittäää) is a incorrect form of (kiittää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittää",
         "Conjugation form (kiittät) is a incorrect form of (kiittää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittää",
-        "Conjugation form (kiittätte) is a incorrect form of (kiittää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittää"
+        "Conjugation form (kiittä) is a incorrect form of (kiittää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiittää"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (nukkua) mukavasti omassa sängyssä. - Sleeping comfortably in one's own bed.",
-      choices: ["nukkuu", "nukkutte", "nukkuau", "nukkuvat"],
+          "Te (matkustaa) ympäri Eurooppaa junalla. - Traveling around Europe by train.",
+      choices: ["matkustatte", "matkustaatte", "matkustamme", "matkusttte"],
       choicesHints: [
-        "Conjugation form (nukkuu) is a correct form of (nukkua) in a third singular nominative form. ",
-        "Conjugation form (nukkutte) is a incorrect form of (nukkua) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nukkuu",
-        "Conjugation form (nukkuau) is a incorrect form of (nukkua) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nukkuu",
-        "Conjugation form (nukkuvat) is a incorrect form of (nukkua) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nukkuu"
+        "Conjugation form (matkustatte) is a correct form of (matkustaa) in a second plural nominative form. ",
+        "Conjugation form (matkustaatte) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte",
+        "Conjugation form (matkustamme) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte",
+        "Conjugation form (matkusttte) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (matkustaa) ympäri Eurooppaa junalla. - Traveling around Europe by train.",
-      choices: ["matkustavat", "matkustaavat", "matkustat", "matkustamme"],
+          "He (leipoa) herkullisia keksejä perheelle. - Baking delicious cookies for the family.",
+      choices: ["leipovat", "leipotte", "leipvat", "leipomme"],
       choicesHints: [
-        "Conjugation form (matkustavat) is a correct form of (matkustaa) in a third plural nominative form. ",
-        "Conjugation form (matkustaavat) is a incorrect form of (matkustaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustavat",
-        "Conjugation form (matkustat) is a incorrect form of (matkustaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustavat",
-        "Conjugation form (matkustamme) is a incorrect form of (matkustaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustavat"
+        "Conjugation form (leipovat) is a correct form of (leipoa) in a third plural nominative form. ",
+        "Conjugation form (leipotte) is a incorrect form of (leipoa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipovat",
+        "Conjugation form (leipvat) is a incorrect form of (leipoa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipovat",
+        "Conjugation form (leipomme) is a incorrect form of (leipoa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipovat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (hiihtää) nopeasti pitkin latuja. - Skiing quickly along the trails.",
-      choices: ["hiihtän", "hiihtätte", "hiihtämme", "hiihtn"],
+          "He (hiihtää) nopeasti pitkin latuja. - Skiing quickly along the trails.",
+      choices: ["hiihtävät", "hiihtvät", "hiihtäävät", "hiihtää"],
       choicesHints: [
-        "Conjugation form (hiihtän) is a correct form of (hiihtää) in a first singular nominative form. ",
-        "Conjugation form (hiihtätte) is a incorrect form of (hiihtää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtän",
-        "Conjugation form (hiihtämme) is a incorrect form of (hiihtää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtän",
-        "Conjugation form (hiihtn) is a incorrect form of (hiihtää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtän"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "He (ostaa) lahjoja jouluna. - Buying gifts for Christmas.",
-      choices: ["ostavat", "ostaavat", "ostat", "ostvat"],
-      choicesHints: [
-        "Conjugation form (ostavat) is a correct form of (ostaa) in a third plural nominative form. ",
-        "Conjugation form (ostaavat) is a incorrect form of (ostaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostavat",
-        "Conjugation form (ostat) is a incorrect form of (ostaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostavat",
-        "Conjugation form (ostvat) is a incorrect form of (ostaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostavat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Sinä (ajaa) autolla nopeasti. - To drive a car quickly.",
-      choices: ["ajat", "ajavat", "ajaat", "ajt"],
-      choicesHints: [
-        "Conjugation form (ajat) is a correct form of (ajaa) in a second singular nominative form. ",
-        "Conjugation form (ajavat) is a incorrect form of (ajaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ajat",
-        "Conjugation form (ajaat) is a incorrect form of (ajaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ajat",
-        "Conjugation form (ajt) is a incorrect form of (ajaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ajat"
+        "Conjugation form (hiihtävät) is a correct form of (hiihtää) in a third plural nominative form. ",
+        "Conjugation form (hiihtvät) is a incorrect form of (hiihtää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtävät",
+        "Conjugation form (hiihtäävät) is a incorrect form of (hiihtää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtävät",
+        "Conjugation form (hiihtää) is a incorrect form of (hiihtää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtävät"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (alkaa) uusi kouluvuosi. - To start a new school year.",
-      choices: ["alkaa", "alkaaa", "alkavat", "alkamme"],
+          "Hän (rakentaa) hiekkalinnaa rannalla. - Building a sandcastle on the beach.",
+      choices: ["rakentaa", "rakentaaa", "rakentan", "rakentamme"],
       choicesHints: [
-        "Conjugation form (alkaa) is a correct form of (alkaa) in a third singular nominative form. ",
-        "Conjugation form (alkaaa) is a incorrect form of (alkaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is alkaa",
-        "Conjugation form (alkavat) is a incorrect form of (alkaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is alkaa",
-        "Conjugation form (alkamme) is a incorrect form of (alkaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is alkaa"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Sinä (asua) vanhassa talossa. - To live in an old house.",
-      choices: ["asut", "asuat", "asuvat", "asumme"],
-      choicesHints: [
-        "Conjugation form (asut) is a correct form of (asua) in a second singular nominative form. ",
-        "Conjugation form (asuat) is a incorrect form of (asua) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asut",
-        "Conjugation form (asuvat) is a incorrect form of (asua) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asut",
-        "Conjugation form (asumme) is a incorrect form of (asua) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asut"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Hän (auttaa) heikompia. - To help the weaker ones.",
-      choices: ["auttaa", "auttaaa", "auttamme", "auttat"],
-      choicesHints: [
-        "Conjugation form (auttaa) is a correct form of (auttaa) in a third singular nominative form. ",
-        "Conjugation form (auttaaa) is a incorrect form of (auttaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is auttaa",
-        "Conjugation form (auttamme) is a incorrect form of (auttaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is auttaa",
-        "Conjugation form (auttat) is a incorrect form of (auttaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is auttaa"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Te (etsiä) kadonnutta avainta. - To look for a lost key.",
-      choices: ["etsitte", "etsii", "etsivät", "etsiätte"],
-      choicesHints: [
-        "Conjugation form (etsitte) is a correct form of (etsiä) in a second plural nominative form. ",
-        "Conjugation form (etsii) is a incorrect form of (etsiä) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsitte",
-        "Conjugation form (etsivät) is a incorrect form of (etsiä) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsitte",
-        "Conjugation form (etsiätte) is a incorrect form of (etsiä) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsitte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Hän (huutaa) kovaa ääntä. - To shout loudly.",
-      choices: ["huutaa", "huutaaa", "huutamme", "huutatte"],
-      choicesHints: [
-        "Conjugation form (huutaa) is a correct form of (huutaa) in a third singular nominative form. ",
-        "Conjugation form (huutaaa) is a incorrect form of (huutaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is huutaa",
-        "Conjugation form (huutamme) is a incorrect form of (huutaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is huutaa",
-        "Conjugation form (huutatte) is a incorrect form of (huutaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is huutaa"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (katsoa) elokuvia kotona. - To watch movies at home.",
-      choices: ["katsomme", "katsot", "katsoamme", "katsotte"],
-      choicesHints: [
-        "Conjugation form (katsomme) is a correct form of (katsoa) in a first plural nominative form. ",
-        "Conjugation form (katsot) is a incorrect form of (katsoa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsomme",
-        "Conjugation form (katsoamme) is a incorrect form of (katsoa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsomme",
-        "Conjugation form (katsotte) is a incorrect form of (katsoa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsomme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "He (kirjoittaa) päiväkirjaa. - To write a diary.",
-      choices: ["kirjoittavat", "kirjoittvat", "kirjoittaavat", "kirjoittaa"],
-      choicesHints: [
-        "Conjugation form (kirjoittavat) is a correct form of (kirjoittaa) in a third plural nominative form. ",
-        "Conjugation form (kirjoittvat) is a incorrect form of (kirjoittaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittavat",
-        "Conjugation form (kirjoittaavat) is a incorrect form of (kirjoittaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittavat",
-        "Conjugation form (kirjoittaa) is a incorrect form of (kirjoittaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittavat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (puhua) monta kieltä. - To speak many languages.",
-      choices: ["puhumme", "puhmme", "puhuu", "puhuamme"],
-      choicesHints: [
-        "Conjugation form (puhumme) is a correct form of (puhua) in a first plural nominative form. ",
-        "Conjugation form (puhmme) is a incorrect form of (puhua) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhumme",
-        "Conjugation form (puhuu) is a incorrect form of (puhua) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhumme",
-        "Conjugation form (puhuamme) is a incorrect form of (puhua) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhumme"
+        "Conjugation form (rakentaa) is a correct form of (rakentaa) in a third singular nominative form. ",
+        "Conjugation form (rakentaaa) is a incorrect form of (rakentaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakentaa",
+        "Conjugation form (rakentan) is a incorrect form of (rakentaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakentaa",
+        "Conjugation form (rakentamme) is a incorrect form of (rakentaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakentaa"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (unohtaa) avaimet kotiin. - To forget the keys at home.",
-      choices: ["unohtaa", "unohtat", "unohta", "unohtatte"],
+          "Hän (ostaa) lahjoja jouluna. - Buying gifts for Christmas.",
+      choices: ["ostaa", "ostan", "ostamme", "osta"],
       choicesHints: [
-        "Conjugation form (unohtaa) is a correct form of (unohtaa) in a third singular nominative form. ",
-        "Conjugation form (unohtat) is a incorrect form of (unohtaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is unohtaa",
-        "Conjugation form (unohta) is a incorrect form of (unohtaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is unohtaa",
-        "Conjugation form (unohtatte) is a incorrect form of (unohtaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is unohtaa"
+        "Conjugation form (ostaa) is a correct form of (ostaa) in a third singular nominative form. ",
+        "Conjugation form (ostan) is a incorrect form of (ostaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostaa",
+        "Conjugation form (ostamme) is a incorrect form of (ostaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostaa",
+        "Conjugation form (osta) is a incorrect form of (ostaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (nauttia) elämästä täysin siemauksin. - Enjoying life to the fullest.",
+      choices: ["nauttivat", "nauttit", "nauttimme", "nauttii"],
+      choicesHints: [
+        "Conjugation form (nauttivat) is a correct form of (nauttia) in a third plural nominative form. ",
+        "Conjugation form (nauttit) is a incorrect form of (nauttia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nauttivat",
+        "Conjugation form (nauttimme) is a incorrect form of (nauttia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nauttivat",
+        "Conjugation form (nauttii) is a incorrect form of (nauttia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nauttivat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (opettaa) nuorille tärkeitä arvoja. - Teaching young people important values.",
+      choices: ["opettaa", "opetta", "opettamme", "opettan"],
+      choicesHints: [
+        "Conjugation form (opettaa) is a correct form of (opettaa) in a third singular nominative form. ",
+        "Conjugation form (opetta) is a incorrect form of (opettaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is opettaa",
+        "Conjugation form (opettamme) is a incorrect form of (opettaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is opettaa",
+        "Conjugation form (opettan) is a incorrect form of (opettaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is opettaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (ajaa) autolla nopeasti. - To drive a car quickly.",
+      choices: ["ajan", "ajaan", "ajaa", "ajat"],
+      choicesHints: [
+        "Conjugation form (ajan) is a correct form of (ajaa) in a first singular nominative form. ",
+        "Conjugation form (ajaan) is a incorrect form of (ajaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ajan",
+        "Conjugation form (ajaa) is a incorrect form of (ajaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ajan",
+        "Conjugation form (ajat) is a incorrect form of (ajaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ajan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (asua) vanhassa talossa. - To live in an old house.",
+      choices: ["asun", "asutte", "asut", "asumme"],
+      choicesHints: [
+        "Conjugation form (asun) is a correct form of (asua) in a first singular nominative form. ",
+        "Conjugation form (asutte) is a incorrect form of (asua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asun",
+        "Conjugation form (asut) is a incorrect form of (asua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asun",
+        "Conjugation form (asumme) is a incorrect form of (asua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asun"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (etsiä) kadonnutta avainta. - To look for a lost key.",
+      choices: ["etsivät", "etsiävät", "etsii", "etsitte"],
+      choicesHints: [
+        "Conjugation form (etsivät) is a correct form of (etsiä) in a third plural nominative form. ",
+        "Conjugation form (etsiävät) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsii) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsitte) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (hoitaa) sairasta lasta. - To take care of a sick child.",
+      choices: ["hoitaa", "hoitaaa", "hoitamme", "hoita"],
+      choicesHints: [
+        "Conjugation form (hoitaa) is a correct form of (hoitaa) in a third singular nominative form. ",
+        "Conjugation form (hoitaaa) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa",
+        "Conjugation form (hoitamme) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa",
+        "Conjugation form (hoita) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (katsoa) elokuvia kotona. - To watch movies at home.",
+      choices: ["katsoo", "katsoao", "katsomme", "katson"],
+      choicesHints: [
+        "Conjugation form (katsoo) is a correct form of (katsoa) in a third singular nominative form. ",
+        "Conjugation form (katsoao) is a incorrect form of (katsoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsoo",
+        "Conjugation form (katsomme) is a incorrect form of (katsoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsoo",
+        "Conjugation form (katson) is a incorrect form of (katsoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsoo"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (kiertää) maailmaa. - To go around the world.",
+      choices: ["kiertävät", "kiertämme", "kiertäävät", "kiertät"],
+      choicesHints: [
+        "Conjugation form (kiertävät) is a correct form of (kiertää) in a third plural nominative form. ",
+        "Conjugation form (kiertämme) is a incorrect form of (kiertää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiertävät",
+        "Conjugation form (kiertäävät) is a incorrect form of (kiertää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiertävät",
+        "Conjugation form (kiertät) is a incorrect form of (kiertää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiertävät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (puhua) monta kieltä. - To speak many languages.",
+      choices: ["puhun", "puhutte", "puhn", "puhuvat"],
+      choicesHints: [
+        "Conjugation form (puhun) is a correct form of (puhua) in a first singular nominative form. ",
+        "Conjugation form (puhutte) is a incorrect form of (puhua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhun",
+        "Conjugation form (puhn) is a incorrect form of (puhua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhun",
+        "Conjugation form (puhuvat) is a incorrect form of (puhua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhun"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (sortua) paineen alla. - To collapse under pressure.",
+      choices: ["sortuvat", "sortuavat", "sortumme", "sortvat"],
+      choicesHints: [
+        "Conjugation form (sortuvat) is a correct form of (sortua) in a third plural nominative form. ",
+        "Conjugation form (sortuavat) is a incorrect form of (sortua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is sortuvat",
+        "Conjugation form (sortumme) is a incorrect form of (sortua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is sortuvat",
+        "Conjugation form (sortvat) is a incorrect form of (sortua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is sortuvat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (tietää) vastaus kysymykseen. - To know the answer to the question.",
+      choices: ["tietävät", "tietäävät", "tietän", "tietvät"],
+      choicesHints: [
+        "Conjugation form (tietävät) is a correct form of (tietää) in a third plural nominative form. ",
+        "Conjugation form (tietäävät) is a incorrect form of (tietää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tietävät",
+        "Conjugation form (tietän) is a incorrect form of (tietää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tietävät",
+        "Conjugation form (tietvät) is a incorrect form of (tietää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tietävät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (ymmärtää) vaikeaa matematiikkaa. - To understand difficult mathematics.",
+      choices: ["ymmärtää", "ymmärtävät", "ymmärtä", "ymmärtät"],
+      choicesHints: [
+        "Conjugation form (ymmärtää) is a correct form of (ymmärtää) in a third singular nominative form. ",
+        "Conjugation form (ymmärtävät) is a incorrect form of (ymmärtää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ymmärtää",
+        "Conjugation form (ymmärtä) is a incorrect form of (ymmärtää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ymmärtää",
+        "Conjugation form (ymmärtät) is a incorrect form of (ymmärtää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ymmärtää"
       ],
       correctAnswerIndex: 0,
     ),
@@ -492,293 +482,304 @@ Map<String, List<Question>> questions_by_topic = {
     Question(
       questionText:
           "Sinä (kirjoittaa) päiväkirjaa joka ilta. - Writing a diary every evening.",
-      choices: ["kirjoitat", "kirjoitaat", "kirjoitan", "kirjoitt"],
+      choices: ["kirjoitat", "kirjoitaat", "kirjoitavat", "kirjoitt"],
       choicesHints: [
         "Conjugation form (kirjoitat) is a correct form of (kirjoittaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
         "Conjugation form (kirjoitaat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
-        "Conjugation form (kirjoitan) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitavat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
         "Conjugation form (kirjoitt) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (lentää) ulkomaille lomalle. - Flying abroad for vacation.",
-      choices: ["lennämme", "lennätte", "lennät", "lennmme"],
-      choicesHints: [
-        "Conjugation form (lennämme) is a correct form of (lentää) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
-        "Conjugation form (lennätte) is a incorrect form of (lentää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennämme",
-        "Conjugation form (lennät) is a incorrect form of (lentää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennämme",
-        "Conjugation form (lennmme) is a incorrect form of (lentää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennämme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Me (soittaa) pianoa taitavasti. - Playing the piano skillfully.",
-      choices: ["soitamme", "soitaamme", "soitmme", "soittamme"],
+      choices: ["soitamme", "soitmme", "soittamme", "soitaamme"],
       choicesHints: [
         "Conjugation form (soitamme) is a correct form of (soittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (soitaamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
         "Conjugation form (soitmme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
-        "Conjugation form (soittamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme"
+        "Conjugation form (soittamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
+        "Conjugation form (soitaamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText: "Sinä (kirjoittaa) kaunokirjallisuutta. - Writing fiction.",
-      choices: ["kirjoitat", "kirjoittat", "kirjoitaat", "kirjoitt"],
+      choices: ["kirjoitat", "kirjoittat", "kirjoitaat", "kirjoitatte"],
       choicesHints: [
         "Conjugation form (kirjoitat) is a correct form of (kirjoittaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
         "Conjugation form (kirjoittat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
         "Conjugation form (kirjoitaat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitatte) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (kiittää) ystäviä avusta. - Thanking friends for their help.",
+      choices: ["kiitän", "kiitään", "kiitn", "kiität"],
+      choicesHints: [
+        "Conjugation form (kiitän) is a correct form of (kiittää) in a first singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kiitään) is a incorrect form of (kiittää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kiitän",
+        "Conjugation form (kiitn) is a incorrect form of (kiittää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kiitän",
+        "Conjugation form (kiität) is a incorrect form of (kiittää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kiitän"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (hiihtää) nopeasti rinteessä. - Skiing quickly down the slope.",
+      choices: ["hiihdämme", "hiihdät", "hiihdmme", "hiihtämme"],
+      choicesHints: [
+        "Conjugation form (hiihdämme) is a correct form of (hiihtää) in a first plural nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (hiihdät) is a incorrect form of (hiihtää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hiihdämme",
+        "Conjugation form (hiihdmme) is a incorrect form of (hiihtää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hiihdämme",
+        "Conjugation form (hiihtämme) is a incorrect form of (hiihtää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hiihdämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (rakentaa) taloa omille lapsille. - Building a house for one's children.",
+      choices: ["rakennamme", "rakennmme", "rakennaamme", "rakentamme"],
+      choicesHints: [
+        "Conjugation form (rakennamme) is a correct form of (rakentaa) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (rakennmme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakennaamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakentamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (nauttia) luonnosta ja ulkoilmasta. - Enjoying nature and the outdoors.",
+      choices: ["nautitte", "nautiatte", "nauttte", "nauttitte"],
+      choicesHints: [
+        "Conjugation form (nautitte) is a correct form of (nauttia) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (nautiatte) is a incorrect form of (nauttia) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautitte",
+        "Conjugation form (nauttte) is a incorrect form of (nauttia) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautitte",
+        "Conjugation form (nauttitte) is a incorrect form of (nauttia) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautitte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (opettaa) lapsille uusia taitoja. - Teaching children new skills.",
+      choices: ["opetat", "opett", "opettat", "opetaat"],
+      choicesHints: [
+        "Conjugation form (opetat) is a correct form of (opettaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (opett) is a incorrect form of (opettaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetat",
+        "Conjugation form (opettat) is a incorrect form of (opettaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetat",
+        "Conjugation form (opetaat) is a incorrect form of (opettaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kirjoittaa) kirjeitä rakkaalle. - Writing letters to a loved one.",
+      choices: ["kirjoitat", "kirjoitavat", "kirjoittat", "kirjoitt"],
+      choicesHints: [
+        "Conjugation form (kirjoitat) is a correct form of (kirjoittaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitavat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoittat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
         "Conjugation form (kirjoitt) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (nukkua) pitkään viikonloppuna. - Sleeping in on the weekend.",
-      choices: ["nukun", "nukuan", "nukn", "nukutte"],
+          "Minä (lentää) ympäri maailmaa seikkailuun. - Flying around the world for adventure.",
+      choices: ["lennän", "lennät", "lennään", "lennn"],
       choicesHints: [
-        "Conjugation form (nukun) is a correct form of (nukkua) in a first singular nominative form. It undergoes the following consonant gradation: kk->k. ",
-        "Conjugation form (nukuan) is a incorrect form of (nukkua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukun",
-        "Conjugation form (nukn) is a incorrect form of (nukkua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukun",
-        "Conjugation form (nukutte) is a incorrect form of (nukkua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukun"
+        "Conjugation form (lennän) is a correct form of (lentää) in a first singular nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (lennät) is a incorrect form of (lentää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennän",
+        "Conjugation form (lennään) is a incorrect form of (lentää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennän",
+        "Conjugation form (lennn) is a incorrect form of (lentää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennän"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Sinä (nauttia) luonnosta ja ulkoilmasta. - Enjoying nature and the outdoors.",
-      choices: ["nautit", "nautt", "nautin", "nautii"],
+          "Minä (soittaa) kitaraa rennosti. - Playing the guitar casually.",
+      choices: ["soitan", "soitn", "soitamme", "soittan"],
       choicesHints: [
-        "Conjugation form (nautit) is a correct form of (nauttia) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (nautt) is a incorrect form of (nauttia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautit",
-        "Conjugation form (nautin) is a incorrect form of (nauttia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautit",
-        "Conjugation form (nautii) is a incorrect form of (nauttia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautit"
+        "Conjugation form (soitan) is a correct form of (soittaa) in a first singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (soitn) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan",
+        "Conjugation form (soitamme) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan",
+        "Conjugation form (soittan) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (opettaa) lapsille uusia taitoja. - Teaching children new skills.",
-      choices: ["opetatte", "opettatte", "opetaa", "opetaatte"],
+          "Me (kirjoittaa) runoja luonnosta. - Writing poems about nature.",
+      choices: ["kirjoitamme", "kirjoitmme", "kirjoittamme", "kirjoitaamme"],
       choicesHints: [
-        "Conjugation form (opetatte) is a correct form of (opettaa) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (opettatte) is a incorrect form of (opettaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetatte",
-        "Conjugation form (opetaa) is a incorrect form of (opettaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetatte",
-        "Conjugation form (opetaatte) is a incorrect form of (opettaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetatte"
+        "Conjugation form (kirjoitamme) is a correct form of (kirjoittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitmme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme",
+        "Conjugation form (kirjoittamme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme",
+        "Conjugation form (kirjoitaamme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (kirjoittaa) kirjeitä rakkaalle. - Writing letters to a loved one.",
-      choices: ["kirjoitatte", "kirjoittatte", "kirjoitan", "kirjoittte"],
+          "Te (nukkua) mukavasti omassa sängyssä. - Sleeping comfortably in one's own bed.",
+      choices: ["nukutte", "nuktte", "nukumme", "nukkutte"],
+      choicesHints: [
+        "Conjugation form (nukutte) is a correct form of (nukkua) in a second plural nominative form. It undergoes the following consonant gradation: kk->k. ",
+        "Conjugation form (nuktte) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte",
+        "Conjugation form (nukumme) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte",
+        "Conjugation form (nukkutte) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (alkaa) uusi kouluvuosi. - To start a new school year.",
+      choices: ["alatte", "alkatte", "alaatte", "altte"],
+      choicesHints: [
+        "Conjugation form (alatte) is a correct form of (alkaa) in a second plural nominative form. It undergoes the following consonant gradation: k->. ",
+        "Conjugation form (alkatte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte",
+        "Conjugation form (alaatte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte",
+        "Conjugation form (altte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (antaa) lahjoja ystäville. - To give gifts to friends.",
+      choices: ["annat", "annaat", "annamme", "annatte"],
+      choicesHints: [
+        "Conjugation form (annat) is a correct form of (antaa) in a second singular nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (annaat) is a incorrect form of (antaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annat",
+        "Conjugation form (annamme) is a incorrect form of (antaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annat",
+        "Conjugation form (annatte) is a incorrect form of (antaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (auttaa) heikompia. - To help the weaker ones.",
+      choices: ["autamme", "autaamme", "autaa", "auttamme"],
+      choicesHints: [
+        "Conjugation form (autamme) is a correct form of (auttaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (autaamme) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme",
+        "Conjugation form (autaa) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme",
+        "Conjugation form (auttamme) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (herättää) aikaisin aamulla. - To wake up early in the morning.",
+      choices: ["herätätte", "herätämme", "herätää", "herätäätte"],
+      choicesHints: [
+        "Conjugation form (herätätte) is a correct form of (herättää) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (herätämme) is a incorrect form of (herättää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is herätätte",
+        "Conjugation form (herätää) is a incorrect form of (herättää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is herätätte",
+        "Conjugation form (herätäätte) is a incorrect form of (herättää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is herätätte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (huutaa) kovaa ääntä. - To shout loudly.",
+      choices: ["huudamme", "huutamme", "huudaamme", "huudmme"],
+      choicesHints: [
+        "Conjugation form (huudamme) is a correct form of (huutaa) in a first plural nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (huutamme) is a incorrect form of (huutaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is huudamme",
+        "Conjugation form (huudaamme) is a incorrect form of (huutaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is huudamme",
+        "Conjugation form (huudmme) is a incorrect form of (huutaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is huudamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (kieltää) syytökset. - To deny the accusations.",
+      choices: ["kiellämme", "kieltämme", "kielläämme", "kiellät"],
+      choicesHints: [
+        "Conjugation form (kiellämme) is a correct form of (kieltää) in a first plural nominative form. It undergoes the following consonant gradation: lt->ll. ",
+        "Conjugation form (kieltämme) is a incorrect form of (kieltää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellämme",
+        "Conjugation form (kielläämme) is a incorrect form of (kieltää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellämme",
+        "Conjugation form (kiellät) is a incorrect form of (kieltää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (kirjoittaa) päiväkirjaa. - To write a diary.",
+      choices: ["kirjoitatte", "kirjoitaatte", "kirjoittte", "kirjoittatte"],
       choicesHints: [
         "Conjugation form (kirjoitatte) is a correct form of (kirjoittaa) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
-        "Conjugation form (kirjoitan) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
-        "Conjugation form (kirjoittte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Te (leipoa) herkullisia keksejä perheelle. - Baking delicious cookies for the family.",
-      choices: ["leivotte", "leivoatte", "leivovat", "leivtte"],
-      choicesHints: [
-        "Conjugation form (leivotte) is a correct form of (leipoa) in a second plural nominative form. It undergoes the following consonant gradation: p->v. ",
-        "Conjugation form (leivoatte) is a incorrect form of (leipoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: p->v. The correct form is leivotte",
-        "Conjugation form (leivovat) is a incorrect form of (leipoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: p->v. The correct form is leivotte",
-        "Conjugation form (leivtte) is a incorrect form of (leipoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: p->v. The correct form is leivotte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (rakentaa) hiekkalinnaa rannalla. - Building a sandcastle on the beach.",
-      choices: ["rakennamme", "rakennmme", "rakentamme", "rakennan"],
-      choicesHints: [
-        "Conjugation form (rakennamme) is a correct form of (rakentaa) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
-        "Conjugation form (rakennmme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
-        "Conjugation form (rakentamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
-        "Conjugation form (rakennan) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (nauttia) elämästä täysin siemauksin. - Enjoying life to the fullest.",
-      choices: ["nautimme", "nautiamme", "nauttimme", "nautmme"],
-      choicesHints: [
-        "Conjugation form (nautimme) is a correct form of (nauttia) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (nautiamme) is a incorrect form of (nauttia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautimme",
-        "Conjugation form (nauttimme) is a incorrect form of (nauttia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautimme",
-        "Conjugation form (nautmme) is a incorrect form of (nauttia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is nautimme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (opettaa) nuorille tärkeitä arvoja. - Teaching young people important values.",
-      choices: ["opetamme", "opetaamme", "opettamme", "opetat"],
-      choicesHints: [
-        "Conjugation form (opetamme) is a correct form of (opettaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (opetaamme) is a incorrect form of (opettaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetamme",
-        "Conjugation form (opettamme) is a incorrect form of (opettaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetamme",
-        "Conjugation form (opetat) is a incorrect form of (opettaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetamme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (antaa) lahjoja ystäville. - To give gifts to friends.",
-      choices: ["annamme", "annaa", "annavat", "antamme"],
-      choicesHints: [
-        "Conjugation form (annamme) is a correct form of (antaa) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
-        "Conjugation form (annaa) is a incorrect form of (antaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annamme",
-        "Conjugation form (annavat) is a incorrect form of (antaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annamme",
-        "Conjugation form (antamme) is a incorrect form of (antaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annamme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Minä (herättää) aikaisin aamulla. - To wake up early in the morning.",
-      choices: ["herätän", "herätn", "herättän", "herätään"],
-      choicesHints: [
-        "Conjugation form (herätän) is a correct form of (herättää) in a first singular nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (herätn) is a incorrect form of (herättää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is herätän",
-        "Conjugation form (herättän) is a incorrect form of (herättää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is herätän",
-        "Conjugation form (herätään) is a incorrect form of (herättää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is herätän"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (hoitaa) sairasta lasta. - To take care of a sick child.",
-      choices: ["hoidamme", "hoitamme", "hoidaamme", "hoidmme"],
-      choicesHints: [
-        "Conjugation form (hoidamme) is a correct form of (hoitaa) in a first plural nominative form. It undergoes the following consonant gradation: t->d. ",
-        "Conjugation form (hoitamme) is a incorrect form of (hoitaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hoidamme",
-        "Conjugation form (hoidaamme) is a incorrect form of (hoitaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hoidamme",
-        "Conjugation form (hoidmme) is a incorrect form of (hoitaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hoidamme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Minä (kieltää) syytökset. - To deny the accusations.",
-      choices: ["kiellän", "kieltän", "kiellään", "kielln"],
-      choicesHints: [
-        "Conjugation form (kiellän) is a correct form of (kieltää) in a first singular nominative form. It undergoes the following consonant gradation: lt->ll. ",
-        "Conjugation form (kieltän) is a incorrect form of (kieltää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellän",
-        "Conjugation form (kiellään) is a incorrect form of (kieltää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellän",
-        "Conjugation form (kielln) is a incorrect form of (kieltää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellän"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (kiertää) maailmaa. - To go around the world.",
-      choices: ["kierrämme", "kierrmme", "kierräämme", "kiertämme"],
-      choicesHints: [
-        "Conjugation form (kierrämme) is a correct form of (kiertää) in a first plural nominative form. It undergoes the following consonant gradation: rt->rr. ",
-        "Conjugation form (kierrmme) is a incorrect form of (kiertää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is kierrämme",
-        "Conjugation form (kierräämme) is a incorrect form of (kiertää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is kierrämme",
-        "Conjugation form (kiertämme) is a incorrect form of (kiertää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is kierrämme"
+        "Conjugation form (kirjoitaatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Me (odottaa) junaa asemalla. - To wait for the train at the station.",
-      choices: ["odotamme", "odotaamme", "odottamme", "odotaa"],
+      choices: ["odotamme", "odotmme", "odotaamme", "odotan"],
       choicesHints: [
         "Conjugation form (odotamme) is a correct form of (odottaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (odotmme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
         "Conjugation form (odotaamme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
-        "Conjugation form (odottamme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
-        "Conjugation form (odotaa) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme"
+        "Conjugation form (odotan) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Te (ottaa) kamera mukaan. - To take a camera with you.",
-      choices: ["otatte", "ottte", "otan", "ottatte"],
+      questionText: "Me (ottaa) kamera mukaan. - To take a camera with you.",
+      choices: ["otamme", "ottamme", "otaa", "otaamme"],
       choicesHints: [
-        "Conjugation form (otatte) is a correct form of (ottaa) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (ottte) is a incorrect form of (ottaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is otatte",
-        "Conjugation form (otan) is a incorrect form of (ottaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is otatte",
-        "Conjugation form (ottatte) is a incorrect form of (ottaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is otatte"
+        "Conjugation form (otamme) is a correct form of (ottaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (ottamme) is a incorrect form of (ottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is otamme",
+        "Conjugation form (otaa) is a incorrect form of (ottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is otamme",
+        "Conjugation form (otaamme) is a incorrect form of (ottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is otamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Me (soittaa) pianoa taitavasti. - To play the piano skillfully.",
-      choices: ["soitamme", "soitaamme", "soitmme", "soitan"],
+      choices: ["soitamme", "soitmme", "soittamme", "soitaamme"],
       choicesHints: [
         "Conjugation form (soitamme) is a correct form of (soittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
-        "Conjugation form (soitaamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
         "Conjugation form (soitmme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
-        "Conjugation form (soitan) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Minä (sortua) paineen alla. - To collapse under pressure.",
-      choices: ["sorrun", "sorrn", "sorruan", "sorruu"],
-      choicesHints: [
-        "Conjugation form (sorrun) is a correct form of (sortua) in a first singular nominative form. It undergoes the following consonant gradation: rt->rr. ",
-        "Conjugation form (sorrn) is a incorrect form of (sortua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is sorrun",
-        "Conjugation form (sorruan) is a incorrect form of (sortua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is sorrun",
-        "Conjugation form (sorruu) is a incorrect form of (sortua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is sorrun"
+        "Conjugation form (soittamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
+        "Conjugation form (soitaamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (tietää) vastaus kysymykseen. - To know the answer to the question.",
-      choices: ["tiedän", "tiedn", "tietän", "tiedävät"],
+          "Te (tuntea) voimakasta kiitollisuutta. - To feel strong gratitude.",
+      choices: ["tunnette", "tunnevat", "tunneatte", "tunnen"],
       choicesHints: [
-        "Conjugation form (tiedän) is a correct form of (tietää) in a first singular nominative form. It undergoes the following consonant gradation: t->d. ",
-        "Conjugation form (tiedn) is a incorrect form of (tietää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is tiedän",
-        "Conjugation form (tietän) is a incorrect form of (tietää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is tiedän",
-        "Conjugation form (tiedävät) is a incorrect form of (tietää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is tiedän"
+        "Conjugation form (tunnette) is a correct form of (tuntea) in a second plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (tunnevat) is a incorrect form of (tuntea) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnette",
+        "Conjugation form (tunneatte) is a incorrect form of (tuntea) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnette",
+        "Conjugation form (tunnen) is a incorrect form of (tuntea) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnette"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (tuntea) voimakasta kiitollisuutta. - To feel strong gratitude.",
-      choices: ["tunnemme", "tunnevat", "tuntemme", "tunnmme"],
+          "Minä (unohtaa) avaimet kotiin. - To forget the keys at home.",
+      choices: ["unohdan", "unohtan", "unohdaan", "unohdamme"],
       choicesHints: [
-        "Conjugation form (tunnemme) is a correct form of (tuntea) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
-        "Conjugation form (tunnevat) is a incorrect form of (tuntea) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnemme",
-        "Conjugation form (tuntemme) is a incorrect form of (tuntea) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnemme",
-        "Conjugation form (tunnmme) is a incorrect form of (tuntea) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnemme"
+        "Conjugation form (unohdan) is a correct form of (unohtaa) in a first singular nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (unohtan) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan",
+        "Conjugation form (unohdaan) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan",
+        "Conjugation form (unohdamme) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Minä (vaatia) oikeutta. - To demand justice.",
-      choices: ["vaadin", "vaadii", "vaadivat", "vaaditte"],
+      questionText: "Sinä (vaatia) oikeutta. - To demand justice.",
+      choices: ["vaadit", "vaadiat", "vaadt", "vaatit"],
       choicesHints: [
-        "Conjugation form (vaadin) is a correct form of (vaatia) in a first singular nominative form. It undergoes the following consonant gradation: t->d. ",
-        "Conjugation form (vaadii) is a incorrect form of (vaatia) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadin",
-        "Conjugation form (vaadivat) is a incorrect form of (vaatia) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadin",
-        "Conjugation form (vaaditte) is a incorrect form of (vaatia) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadin"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Te (ymmärtää) vaikeaa matematiikkaa. - To understand difficult mathematics.",
-      choices: ["ymmärrätte", "ymmärräätte", "ymmärrtte", "ymmärtätte"],
-      choicesHints: [
-        "Conjugation form (ymmärrätte) is a correct form of (ymmärtää) in a second plural nominative form. It undergoes the following consonant gradation: rt->rr. ",
-        "Conjugation form (ymmärräätte) is a incorrect form of (ymmärtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is ymmärrätte",
-        "Conjugation form (ymmärrtte) is a incorrect form of (ymmärtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is ymmärrätte",
-        "Conjugation form (ymmärtätte) is a incorrect form of (ymmärtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is ymmärrätte"
+        "Conjugation form (vaadit) is a correct form of (vaatia) in a second singular nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (vaadiat) is a incorrect form of (vaatia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadit",
+        "Conjugation form (vaadt) is a incorrect form of (vaatia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadit",
+        "Conjugation form (vaatit) is a incorrect form of (vaatia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadit"
       ],
       correctAnswerIndex: 0,
     ),
@@ -786,312 +787,265 @@ Map<String, List<Question>> questions_by_topic = {
   'Verbtype 2': [
     Question(
       questionText:
-          "Me (tehdä) suunnitelmia tulevaisuutta varten. - Making plans for the future.",
-      choices: ["tehmme", "teht", "temme", "tehn"],
+          "Te (juoda) teetä ennen nukkumaanmenoa. - Drinking tea before bedtime.",
+      choices: ["juotte", "jutte", "juomme", "juot"],
       choicesHints: [
-        "Conjugation form (tehmme) is a correct form of (tehdä) in a first plural nominative form. ",
-        "Conjugation form (teht) is a incorrect form of (tehdä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tehmme",
-        "Conjugation form (temme) is a incorrect form of (tehdä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tehmme",
-        "Conjugation form (tehn) is a incorrect form of (tehdä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tehmme"
+        "Conjugation form (juotte) is a correct form of (juoda) in a second plural nominative form. ",
+        "Conjugation form (jutte) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte",
+        "Conjugation form (juomme) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte",
+        "Conjugation form (juot) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (juoda) teetä ennen nukkumaanmenoa. - Drinking tea before bedtime.",
-      choices: ["juomme", "juodamme", "juon", "jumme"],
+          "Me (analysoida) dataa huolellisesti. - To analyze data carefully.",
+      choices: ["analysoimme", "analysoin", "analysoi", "analysoivat"],
       choicesHints: [
-        "Conjugation form (juomme) is a correct form of (juoda) in a first plural nominative form. ",
-        "Conjugation form (juodamme) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme",
-        "Conjugation form (juon) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme",
-        "Conjugation form (jumme) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme"
+        "Conjugation form (analysoimme) is a correct form of (analysoida) in a first plural nominative form. ",
+        "Conjugation form (analysoin) is a incorrect form of (analysoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is analysoimme",
+        "Conjugation form (analysoi) is a incorrect form of (analysoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is analysoimme",
+        "Conjugation form (analysoivat) is a incorrect form of (analysoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is analysoimme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Sinä (tehdä) suunnitelmia tuleville lomille. - Making plans for upcoming vacations.",
-      choices: ["teht", "tehtte", "tehdät", "tehvät"],
+          "Te (haravoida) lehtiä syksyllä. - To rake leaves in the fall.",
+      choices: ["haravoitte", "haravoidatte", "haravotte", "haravoimme"],
       choicesHints: [
-        "Conjugation form (teht) is a correct form of (tehdä) in a second singular nominative form. ",
-        "Conjugation form (tehtte) is a incorrect form of (tehdä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is teht",
-        "Conjugation form (tehdät) is a incorrect form of (tehdä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is teht",
-        "Conjugation form (tehvät) is a incorrect form of (tehdä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is teht"
+        "Conjugation form (haravoitte) is a correct form of (haravoida) in a second plural nominative form. ",
+        "Conjugation form (haravoidatte) is a incorrect form of (haravoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is haravoitte",
+        "Conjugation form (haravotte) is a incorrect form of (haravoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is haravoitte",
+        "Conjugation form (haravoimme) is a incorrect form of (haravoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is haravoitte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (analysoida) dataa huolellisesti. - To analyze data carefully.",
-      choices: ["analysoin", "analysoidan", "analyson", "analysoi"],
+          "Me (imuroida) lattiat viikoittain. - To vacuum the floors weekly.",
+      choices: ["imuroimme", "imuromme", "imuroitte", "imuroivat"],
       choicesHints: [
-        "Conjugation form (analysoin) is a correct form of (analysoida) in a first singular nominative form. ",
-        "Conjugation form (analysoidan) is a incorrect form of (analysoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is analysoin",
-        "Conjugation form (analyson) is a incorrect form of (analysoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is analysoin",
-        "Conjugation form (analysoi) is a incorrect form of (analysoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is analysoin"
+        "Conjugation form (imuroimme) is a correct form of (imuroida) in a first plural nominative form. ",
+        "Conjugation form (imuromme) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme",
+        "Conjugation form (imuroitte) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme",
+        "Conjugation form (imuroivat) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (haravoida) lehtiä syksyllä. - To rake leaves in the fall.",
-      choices: ["haravoin", "haravon", "haravoi", "haravoitte"],
+          "Hän (juoda) kuppi kuumaa teetä. - To drink a cup of hot tea.",
+      choices: ["juo", "juon", "ju", "juoda"],
       choicesHints: [
-        "Conjugation form (haravoin) is a correct form of (haravoida) in a first singular nominative form. ",
-        "Conjugation form (haravon) is a incorrect form of (haravoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is haravoin",
-        "Conjugation form (haravoi) is a incorrect form of (haravoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is haravoin",
-        "Conjugation form (haravoitte) is a incorrect form of (haravoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is haravoin"
+        "Conjugation form (juo) is a correct form of (juoda) in a third singular nominative form. ",
+        "Conjugation form (juon) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo",
+        "Conjugation form (ju) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo",
+        "Conjugation form (juoda) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (jäädä) kotiin sairaana. - To stay home when sick.",
+      choices: ["jään", "jäät", "jää", "jäävät"],
+      choicesHints: [
+        "Conjugation form (jään) is a correct form of (jäädä) in a first singular nominative form. ",
+        "Conjugation form (jäät) is a incorrect form of (jäädä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jään",
+        "Conjugation form (jää) is a incorrect form of (jäädä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jään",
+        "Conjugation form (jäävät) is a incorrect form of (jäädä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jään"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (imuroida) lattiat viikoittain. - To vacuum the floors weekly.",
-      choices: ["imuroitte", "imuroidatte", "imurotte", "imuroimme"],
+          "Te (kommunikoida) selkeästi ja avoimesti. - To communicate clearly and openly.",
+      choices: [
+        "kommunikoitte",
+        "kommunikoimme",
+        "kommunikoidatte",
+        "kommunikoivat"
+      ],
       choicesHints: [
-        "Conjugation form (imuroitte) is a correct form of (imuroida) in a second plural nominative form. ",
-        "Conjugation form (imuroidatte) is a incorrect form of (imuroida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroitte",
-        "Conjugation form (imurotte) is a incorrect form of (imuroida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroitte",
-        "Conjugation form (imuroimme) is a incorrect form of (imuroida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroitte"
+        "Conjugation form (kommunikoitte) is a correct form of (kommunikoida) in a second plural nominative form. ",
+        "Conjugation form (kommunikoimme) is a incorrect form of (kommunikoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoitte",
+        "Conjugation form (kommunikoidatte) is a incorrect form of (kommunikoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoitte",
+        "Conjugation form (kommunikoivat) is a incorrect form of (kommunikoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoitte"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (juoda) kuppi kuumaa teetä. - To drink a cup of hot tea.",
-      choices: ["juomme", "jumme", "juovat", "juon"],
+          "Sinä (käydä) lääkärissä säännöllisesti. - To visit the doctor regularly.",
+      choices: ["käyt", "käydät", "käyn", "kät"],
       choicesHints: [
-        "Conjugation form (juomme) is a correct form of (juoda) in a first plural nominative form. ",
-        "Conjugation form (jumme) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme",
-        "Conjugation form (juovat) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme",
-        "Conjugation form (juon) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Hän (jäädä) kotiin sairaana. - To stay home when sick.",
-      choices: ["jää", "jäät", "jä", "jäädä"],
-      choicesHints: [
-        "Conjugation form (jää) is a correct form of (jäädä) in a third singular nominative form. ",
-        "Conjugation form (jäät) is a incorrect form of (jäädä) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jää",
-        "Conjugation form (jä) is a incorrect form of (jäädä) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jää",
-        "Conjugation form (jäädä) is a incorrect form of (jäädä) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jää"
+        "Conjugation form (käyt) is a correct form of (käydä) in a second singular nominative form. ",
+        "Conjugation form (käydät) is a incorrect form of (käydä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käyt",
+        "Conjugation form (käyn) is a incorrect form of (käydä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käyt",
+        "Conjugation form (kät) is a incorrect form of (käydä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käyt"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (kommunikoida) selkeästi ja avoimesti. - To communicate clearly and openly.",
-      choices: ["kommunikoin", "kommunikoitte", "kommunikoi", "kommunikoit"],
+          "Me (luennoida) yliopistolla. - To lecture at the university.",
+      choices: ["luennoimme", "luennoitte", "luennoivat", "luennoidamme"],
       choicesHints: [
-        "Conjugation form (kommunikoin) is a correct form of (kommunikoida) in a first singular nominative form. ",
-        "Conjugation form (kommunikoitte) is a incorrect form of (kommunikoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoin",
-        "Conjugation form (kommunikoi) is a incorrect form of (kommunikoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoin",
-        "Conjugation form (kommunikoit) is a incorrect form of (kommunikoida) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoin"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Te (käydä) lääkärissä säännöllisesti. - To visit the doctor regularly.",
-      choices: ["käytte", "käyvät", "käydätte", "käyn"],
-      choicesHints: [
-        "Conjugation form (käytte) is a correct form of (käydä) in a second plural nominative form. ",
-        "Conjugation form (käyvät) is a incorrect form of (käydä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käytte",
-        "Conjugation form (käydätte) is a incorrect form of (käydä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käytte",
-        "Conjugation form (käyn) is a incorrect form of (käydä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käytte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Sinä (luennoida) yliopistolla. - To lecture at the university.",
-      choices: ["luennoit", "luennoidat", "luennoitte", "luennot"],
-      choicesHints: [
-        "Conjugation form (luennoit) is a correct form of (luennoida) in a second singular nominative form. ",
-        "Conjugation form (luennoidat) is a incorrect form of (luennoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoit",
-        "Conjugation form (luennoitte) is a incorrect form of (luennoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoit",
-        "Conjugation form (luennot) is a incorrect form of (luennoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoit"
+        "Conjugation form (luennoimme) is a correct form of (luennoida) in a first plural nominative form. ",
+        "Conjugation form (luennoitte) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoivat) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoidamme) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Me (myydä) vanhoja tavaroita kirpputorilla. - To sell old items at the flea market.",
-      choices: ["myymme", "myyvät", "myyn", "myydämme"],
+      choices: ["myymme", "myydämme", "myytte", "mymme"],
       choicesHints: [
         "Conjugation form (myymme) is a correct form of (myydä) in a first plural nominative form. ",
-        "Conjugation form (myyvät) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
-        "Conjugation form (myyn) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
-        "Conjugation form (myydämme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (nähdä) unia yöllä. - To see dreams at night.",
-      choices: ["nähmme", "nähdämme", "nähvät", "nämme"],
-      choicesHints: [
-        "Conjugation form (nähmme) is a correct form of (nähdä) in a first plural nominative form. ",
-        "Conjugation form (nähdämme) is a incorrect form of (nähdä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is nähmme",
-        "Conjugation form (nähvät) is a incorrect form of (nähdä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is nähmme",
-        "Conjugation form (nämme) is a incorrect form of (nähdä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is nähmme"
+        "Conjugation form (myydämme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
+        "Conjugation form (myytte) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
+        "Conjugation form (mymme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Hän (paketoida) lahjoja taitavasti. - To package gifts skillfully.",
-      choices: ["paketoi", "paketo", "paketoida", "paketoitte"],
+      choices: ["paketoi", "paketoida", "paketoit", "paketoitte"],
       choicesHints: [
         "Conjugation form (paketoi) is a correct form of (paketoida) in a third singular nominative form. ",
-        "Conjugation form (paketo) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi",
         "Conjugation form (paketoida) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi",
+        "Conjugation form (paketoit) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi",
         "Conjugation form (paketoitte) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Hän (pysäköidä) auto parkkiin. - To park the car.",
-      choices: ["pysäköi", "pysäköin", "pysäköidä", "pysäköit"],
+      questionText: "Sinä (pysäköidä) auto parkkiin. - To park the car.",
+      choices: ["pysäköit", "pysäköitte", "pysäköidät", "pysäköi"],
       choicesHints: [
-        "Conjugation form (pysäköi) is a correct form of (pysäköidä) in a third singular nominative form. ",
-        "Conjugation form (pysäköin) is a incorrect form of (pysäköidä) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is pysäköi",
-        "Conjugation form (pysäköidä) is a incorrect form of (pysäköidä) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is pysäköi",
-        "Conjugation form (pysäköit) is a incorrect form of (pysäköidä) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is pysäköi"
+        "Conjugation form (pysäköit) is a correct form of (pysäköidä) in a second singular nominative form. ",
+        "Conjugation form (pysäköitte) is a incorrect form of (pysäköidä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is pysäköit",
+        "Conjugation form (pysäköidät) is a incorrect form of (pysäköidä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is pysäköit",
+        "Conjugation form (pysäköi) is a incorrect form of (pysäköidä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is pysäköit"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Sinä (saada) hyviä arvosanoja koulussa. - To get good grades in school.",
-      choices: ["saat", "saadat", "sat", "saavat"],
+          "Hän (saada) hyviä arvosanoja koulussa. - To get good grades in school.",
+      choices: ["saa", "sa", "saatte", "saat"],
       choicesHints: [
-        "Conjugation form (saat) is a correct form of (saada) in a second singular nominative form. ",
-        "Conjugation form (saadat) is a incorrect form of (saada) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saat",
-        "Conjugation form (sat) is a incorrect form of (saada) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saat",
-        "Conjugation form (saavat) is a incorrect form of (saada) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saat"
+        "Conjugation form (saa) is a correct form of (saada) in a third singular nominative form. ",
+        "Conjugation form (sa) is a incorrect form of (saada) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saa",
+        "Conjugation form (saatte) is a incorrect form of (saada) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saa",
+        "Conjugation form (saat) is a incorrect form of (saada) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saa"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Sinä (soida) puhelimen soittoääni. - To ring as the phone's ringtone.",
-      choices: ["soit", "soidat", "sot", "soin"],
+          "Me (soida) puhelimen soittoääni. - To ring as the phone's ringtone.",
+      choices: ["soimme", "soidamme", "somme", "soivat"],
       choicesHints: [
-        "Conjugation form (soit) is a correct form of (soida) in a second singular nominative form. ",
-        "Conjugation form (soidat) is a incorrect form of (soida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soit",
-        "Conjugation form (sot) is a incorrect form of (soida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soit",
-        "Conjugation form (soin) is a incorrect form of (soida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soit"
+        "Conjugation form (soimme) is a correct form of (soida) in a first plural nominative form. ",
+        "Conjugation form (soidamme) is a incorrect form of (soida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soimme",
+        "Conjugation form (somme) is a incorrect form of (soida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soimme",
+        "Conjugation form (soivat) is a incorrect form of (soida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soimme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (syödä) terveellisesti ja tasapainoisesti. - To eat healthily and balanced.",
-      choices: ["syötte", "syöt", "syömme", "syö"],
+          "Minä (syödä) terveellisesti ja tasapainoisesti. - To eat healthily and balanced.",
+      choices: ["syön", "syöt", "syödän", "syn"],
       choicesHints: [
-        "Conjugation form (syötte) is a correct form of (syödä) in a second plural nominative form. ",
-        "Conjugation form (syöt) is a incorrect form of (syödä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syötte",
-        "Conjugation form (syömme) is a incorrect form of (syödä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syötte",
-        "Conjugation form (syö) is a incorrect form of (syödä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syötte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "He (tehdä) päätöksiä huolellisesti. - To make decisions carefully.",
-      choices: ["tehvät", "tehdävät", "tehn", "tehmme"],
-      choicesHints: [
-        "Conjugation form (tehvät) is a correct form of (tehdä) in a third plural nominative form. ",
-        "Conjugation form (tehdävät) is a incorrect form of (tehdä) in a third plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tehvät",
-        "Conjugation form (tehn) is a incorrect form of (tehdä) in a third plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tehvät",
-        "Conjugation form (tehmme) is a incorrect form of (tehdä) in a third plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tehvät"
+        "Conjugation form (syön) is a correct form of (syödä) in a first singular nominative form. ",
+        "Conjugation form (syöt) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syödän) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syn) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText: "Sinä (terrorisoida) yhteiskuntaa. - To terrorize society.",
-      choices: [
-        "terrorisoit",
-        "terrorisoidat",
-        "terrorisoivat",
-        "terrorisoimme"
-      ],
+      choices: ["terrorisoit", "terrorisoidat", "terrorisoitte", "terrorisot"],
       choicesHints: [
         "Conjugation form (terrorisoit) is a correct form of (terrorisoida) in a second singular nominative form. ",
         "Conjugation form (terrorisoidat) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit",
-        "Conjugation form (terrorisoivat) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit",
-        "Conjugation form (terrorisoimme) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit"
+        "Conjugation form (terrorisoitte) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit",
+        "Conjugation form (terrorisot) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (tuoda) tuliaisia matkalta. - To bring souvenirs from the trip.",
-      choices: ["tuotte", "tuodatte", "tutte", "tuon"],
+          "Hän (tuoda) tuliaisia matkalta. - To bring souvenirs from the trip.",
+      choices: ["tuo", "tuomme", "tuoda", "tuotte"],
       choicesHints: [
-        "Conjugation form (tuotte) is a correct form of (tuoda) in a second plural nominative form. ",
-        "Conjugation form (tuodatte) is a incorrect form of (tuoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuotte",
-        "Conjugation form (tutte) is a incorrect form of (tuoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuotte",
-        "Conjugation form (tuon) is a incorrect form of (tuoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuotte"
+        "Conjugation form (tuo) is a correct form of (tuoda) in a third singular nominative form. ",
+        "Conjugation form (tuomme) is a incorrect form of (tuoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuo",
+        "Conjugation form (tuoda) is a incorrect form of (tuoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuo",
+        "Conjugation form (tuotte) is a incorrect form of (tuoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuo"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Me (tupakoida) ulkona. - To smoke outdoors.",
-      choices: ["tupakoimme", "tupakoidamme", "tupakoit", "tupakoi"],
+      questionText: "Sinä (tupakoida) ulkona. - To smoke outdoors.",
+      choices: ["tupakoit", "tupakot", "tupakoitte", "tupakoi"],
       choicesHints: [
-        "Conjugation form (tupakoimme) is a correct form of (tupakoida) in a first plural nominative form. ",
-        "Conjugation form (tupakoidamme) is a incorrect form of (tupakoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoimme",
-        "Conjugation form (tupakoit) is a incorrect form of (tupakoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoimme",
-        "Conjugation form (tupakoi) is a incorrect form of (tupakoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoimme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Te (uida) järvessä kesällä. - To swim in the lake during the summer.",
-      choices: ["uitte", "uidatte", "uivat", "utte"],
-      choicesHints: [
-        "Conjugation form (uitte) is a correct form of (uida) in a second plural nominative form. ",
-        "Conjugation form (uidatte) is a incorrect form of (uida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uitte",
-        "Conjugation form (uivat) is a incorrect form of (uida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uitte",
-        "Conjugation form (utte) is a incorrect form of (uida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uitte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (viedä) roskat ulos. - To take out the trash.",
-      choices: ["viemme", "vimme", "vie", "viedämme"],
-      choicesHints: [
-        "Conjugation form (viemme) is a correct form of (viedä) in a first plural nominative form. ",
-        "Conjugation form (vimme) is a incorrect form of (viedä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viemme",
-        "Conjugation form (vie) is a incorrect form of (viedä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viemme",
-        "Conjugation form (viedämme) is a incorrect form of (viedä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viemme"
+        "Conjugation form (tupakoit) is a correct form of (tupakoida) in a second singular nominative form. ",
+        "Conjugation form (tupakot) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit",
+        "Conjugation form (tupakoitte) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit",
+        "Conjugation form (tupakoi) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (viipaloida) leipää ohuiksi viipaleiksi. - To slice bread into thin slices.",
-      choices: ["viipaloivat", "viipalovat", "viipaloidavat", "viipaloi"],
+          "Sinä (uida) järvessä kesällä. - To swim in the lake during the summer.",
+      choices: ["uit", "ut", "uivat", "ui"],
       choicesHints: [
-        "Conjugation form (viipaloivat) is a correct form of (viipaloida) in a third plural nominative form. ",
-        "Conjugation form (viipalovat) is a incorrect form of (viipaloida) in a third plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloivat",
-        "Conjugation form (viipaloidavat) is a incorrect form of (viipaloida) in a third plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloivat",
-        "Conjugation form (viipaloi) is a incorrect form of (viipaloida) in a third plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloivat"
+        "Conjugation form (uit) is a correct form of (uida) in a second singular nominative form. ",
+        "Conjugation form (ut) is a incorrect form of (uida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uit",
+        "Conjugation form (uivat) is a incorrect form of (uida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uit",
+        "Conjugation form (ui) is a incorrect form of (uida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Sinä (viedä) roskat ulos. - To take out the trash.",
+      choices: ["viet", "viette", "vit", "vie"],
+      choicesHints: [
+        "Conjugation form (viet) is a correct form of (viedä) in a second singular nominative form. ",
+        "Conjugation form (viette) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vit) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vie) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (viipaloida) leipää ohuiksi viipaleiksi. - To slice bread into thin slices.",
+      choices: ["viipaloit", "viipalot", "viipaloidat", "viipaloivat"],
+      choicesHints: [
+        "Conjugation form (viipaloit) is a correct form of (viipaloida) in a second singular nominative form. ",
+        "Conjugation form (viipalot) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit",
+        "Conjugation form (viipaloidat) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit",
+        "Conjugation form (viipaloivat) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Hän (voida) hyvin ja onnellisena. - To be able to feel well and happy.",
-      choices: ["voi", "vo", "voida", "voivat"],
+      choices: ["voi", "voida", "voit", "vo"],
       choicesHints: [
         "Conjugation form (voi) is a correct form of (voida) in a third singular nominative form. ",
-        "Conjugation form (vo) is a incorrect form of (voida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is voi",
         "Conjugation form (voida) is a incorrect form of (voida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is voi",
-        "Conjugation form (voivat) is a incorrect form of (voida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is voi"
+        "Conjugation form (voit) is a incorrect form of (voida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is voi",
+        "Conjugation form (vo) is a incorrect form of (voida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is voi"
       ],
       correctAnswerIndex: 0,
     ),
@@ -1099,238 +1053,210 @@ Map<String, List<Question>> questions_by_topic = {
   'Verbtype 3': [
     Question(
       questionText:
-          "Minä (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
-      choices: ["opiskelen", "opiskelet", "opiskelette", "opiskelemme"],
-      choicesHints: [
-        "Conjugation form (opiskelen) is a correct form of (opiskella) in a first singular nominative form. ",
-        "Conjugation form (opiskelet) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen",
-        "Conjugation form (opiskelette) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen",
-        "Conjugation form (opiskelemme) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Hän (hymyillä) vieraille kohteliaasti. - Smiling politely to guests.",
-      choices: ["hymyilee", "hymyilläe", "hymyilevät", "hymyilen"],
-      choicesHints: [
-        "Conjugation form (hymyilee) is a correct form of (hymyillä) in a third singular nominative form. ",
-        "Conjugation form (hymyilläe) is a incorrect form of (hymyillä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilee",
-        "Conjugation form (hymyilevät) is a incorrect form of (hymyillä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilee",
-        "Conjugation form (hymyilen) is a incorrect form of (hymyillä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilee"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (opiskella) uutta kieltä innokkaasti. - Studying a new language eagerly.",
-      choices: ["opiskelemme", "opiskelen", "opiskellamme", "opiskelee"],
+          "Me (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
+      choices: ["opiskelemme", "opiskelen", "opiskelevat", "opiskelmme"],
       choicesHints: [
         "Conjugation form (opiskelemme) is a correct form of (opiskella) in a first plural nominative form. ",
         "Conjugation form (opiskelen) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
-        "Conjugation form (opiskellamme) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
-        "Conjugation form (opiskelee) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Te (haista) pahalta. - Smelling bad.",
-      choices: ["haisette", "haistatte", "haistte", "haisee"],
-      choicesHints: [
-        "Conjugation form (haisette) is a correct form of (haista) in a second plural nominative form. ",
-        "Conjugation form (haistatte) is a incorrect form of (haista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisette",
-        "Conjugation form (haistte) is a incorrect form of (haista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisette",
-        "Conjugation form (haisee) is a incorrect form of (haista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisette"
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
+        "Conjugation form (opiskelmme) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (hymyillä) aurinkoisena päivänä. - Smiling on a sunny day.",
-      choices: ["hymyilevät", "hymyilet", "hymyilee", "hymyilemme"],
+          "Sinä (hymyillä) vieraille kohteliaasti. - Smiling politely to guests.",
+      choices: ["hymyilet", "hymyillät", "hymyilt", "hymyilevät"],
       choicesHints: [
-        "Conjugation form (hymyilevät) is a correct form of (hymyillä) in a third plural nominative form. ",
-        "Conjugation form (hymyilet) is a incorrect form of (hymyillä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilevät",
-        "Conjugation form (hymyilee) is a incorrect form of (hymyillä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilevät",
-        "Conjugation form (hymyilemme) is a incorrect form of (hymyillä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilevät"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Hän (julkaista) uusi kirja. - Publishing a new book.",
-      choices: ["julkaisee", "julkaise", "julkaisevat", "julkaiset"],
-      choicesHints: [
-        "Conjugation form (julkaisee) is a correct form of (julkaista) in a third singular nominative form. ",
-        "Conjugation form (julkaise) is a incorrect form of (julkaista) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisee",
-        "Conjugation form (julkaisevat) is a incorrect form of (julkaista) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisee",
-        "Conjugation form (julkaiset) is a incorrect form of (julkaista) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisee"
+        "Conjugation form (hymyilet) is a correct form of (hymyillä) in a second singular nominative form. ",
+        "Conjugation form (hymyillät) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet",
+        "Conjugation form (hymyilt) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet",
+        "Conjugation form (hymyilevät) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (juosta) nopeasti maratonin. - Running a marathon quickly.",
-      choices: ["juosette", "juostatte", "juostte", "juosen"],
+          "Te (opiskella) uutta kieltä innokkaasti. - Studying a new language eagerly.",
+      choices: ["opiskelette", "opiskeltte", "opiskelet", "opiskelevat"],
       choicesHints: [
-        "Conjugation form (juosette) is a correct form of (juosta) in a second plural nominative form. ",
-        "Conjugation form (juostatte) is a incorrect form of (juosta) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is juosette",
-        "Conjugation form (juostte) is a incorrect form of (juosta) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is juosette",
-        "Conjugation form (juosen) is a incorrect form of (juosta) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is juosette"
+        "Conjugation form (opiskelette) is a correct form of (opiskella) in a second plural nominative form. ",
+        "Conjugation form (opiskeltte) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelet) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (haista) pahalta. - Smelling bad.",
+      choices: ["haisen", "haistan", "haisee", "haisevat"],
+      choicesHints: [
+        "Conjugation form (haisen) is a correct form of (haista) in a first singular nominative form. ",
+        "Conjugation form (haistan) is a incorrect form of (haista) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisen",
+        "Conjugation form (haisee) is a incorrect form of (haista) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisen",
+        "Conjugation form (haisevat) is a incorrect form of (haista) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisen"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Te (keskustella) tärkeistä asioista. - Discussing important matters.",
-      choices: [
-        "keskustelette",
-        "keskustelemme",
-        "keskustellatte",
-        "keskustelet"
-      ],
+          "Te (hymyillä) aurinkoisena päivänä. - Smiling on a sunny day.",
+      choices: ["hymyilette", "hymyillätte", "hymyilee", "hymyilet"],
       choicesHints: [
-        "Conjugation form (keskustelette) is a correct form of (keskustella) in a second plural nominative form. ",
-        "Conjugation form (keskustelemme) is a incorrect form of (keskustella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is keskustelette",
-        "Conjugation form (keskustellatte) is a incorrect form of (keskustella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is keskustelette",
-        "Conjugation form (keskustelet) is a incorrect form of (keskustella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is keskustelette"
+        "Conjugation form (hymyilette) is a correct form of (hymyillä) in a second plural nominative form. ",
+        "Conjugation form (hymyillätte) is a incorrect form of (hymyillä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilette",
+        "Conjugation form (hymyilee) is a incorrect form of (hymyillä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilette",
+        "Conjugation form (hymyilet) is a incorrect form of (hymyillä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (julkaista) uusi kirja. - Publishing a new book.",
+      choices: ["julkaisette", "julkaisen", "julkaistatte", "julkaistte"],
+      choicesHints: [
+        "Conjugation form (julkaisette) is a correct form of (julkaista) in a second plural nominative form. ",
+        "Conjugation form (julkaisen) is a incorrect form of (julkaista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisette",
+        "Conjugation form (julkaistatte) is a incorrect form of (julkaista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisette",
+        "Conjugation form (julkaistte) is a incorrect form of (julkaista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisette"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (kiistellä) periaatteistaan. - Arguing about their principles.",
-      choices: ["kiistelee", "kiistelette", "kiistelläe", "kiistele"],
+          "He (keskustella) tärkeistä asioista. - Discussing important matters.",
+      choices: ["keskustelevat", "keskustelee", "keskustelvat", "keskustelet"],
       choicesHints: [
-        "Conjugation form (kiistelee) is a correct form of (kiistellä) in a third singular nominative form. ",
-        "Conjugation form (kiistelette) is a incorrect form of (kiistellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelee",
-        "Conjugation form (kiistelläe) is a incorrect form of (kiistellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelee",
-        "Conjugation form (kiistele) is a incorrect form of (kiistellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelee"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Hän (kuulla) kaukaa ääniä. - Hearing distant sounds.",
-      choices: ["kuulee", "kuulevat", "kuullae", "kuulen"],
-      choicesHints: [
-        "Conjugation form (kuulee) is a correct form of (kuulla) in a third singular nominative form. ",
-        "Conjugation form (kuulevat) is a incorrect form of (kuulla) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulee",
-        "Conjugation form (kuullae) is a incorrect form of (kuulla) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulee",
-        "Conjugation form (kuulen) is a incorrect form of (kuulla) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulee"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Sinä (olla) onnellinen. - Being happy.",
-      choices: ["olet", "ollat", "olt", "olemme"],
-      choicesHints: [
-        "Conjugation form (olet) is a correct form of (olla) in a second singular nominative form. ",
-        "Conjugation form (ollat) is a incorrect form of (olla) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olet",
-        "Conjugation form (olt) is a incorrect form of (olla) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olet",
-        "Conjugation form (olemme) is a incorrect form of (olla) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olet"
+        "Conjugation form (keskustelevat) is a correct form of (keskustella) in a third plural nominative form. ",
+        "Conjugation form (keskustelee) is a incorrect form of (keskustella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is keskustelevat",
+        "Conjugation form (keskustelvat) is a incorrect form of (keskustella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is keskustelevat",
+        "Conjugation form (keskustelet) is a incorrect form of (keskustella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is keskustelevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
-      choices: ["opiskelen", "opiskeln", "opiskelette", "opiskelemme"],
+          "Te (kiistellä) periaatteistaan. - Arguing about their principles.",
+      choices: ["kiistelette", "kiistelee", "kiistellätte", "kiistelet"],
       choicesHints: [
-        "Conjugation form (opiskelen) is a correct form of (opiskella) in a first singular nominative form. ",
-        "Conjugation form (opiskeln) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen",
-        "Conjugation form (opiskelette) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen",
-        "Conjugation form (opiskelemme) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen"
+        "Conjugation form (kiistelette) is a correct form of (kiistellä) in a second plural nominative form. ",
+        "Conjugation form (kiistelee) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette",
+        "Conjugation form (kiistellätte) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette",
+        "Conjugation form (kiistelet) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (kuulla) kaukaa ääniä. - Hearing distant sounds.",
+      choices: ["kuulen", "kuulemme", "kuuln", "kuullan"],
+      choicesHints: [
+        "Conjugation form (kuulen) is a correct form of (kuulla) in a first singular nominative form. ",
+        "Conjugation form (kuulemme) is a incorrect form of (kuulla) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulen",
+        "Conjugation form (kuuln) is a incorrect form of (kuulla) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulen",
+        "Conjugation form (kuullan) is a incorrect form of (kuulla) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (olla) onnellinen. - Being happy.",
+      choices: ["olevat", "olet", "olvat", "olen"],
+      choicesHints: [
+        "Conjugation form (olevat) is a correct form of (olla) in a third plural nominative form. ",
+        "Conjugation form (olet) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olvat) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olen) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
+      choices: ["opiskelet", "opiskelemme", "opiskelee", "opiskelt"],
+      choicesHints: [
+        "Conjugation form (opiskelet) is a correct form of (opiskella) in a second singular nominative form. ",
+        "Conjugation form (opiskelemme) is a incorrect form of (opiskella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelet",
+        "Conjugation form (opiskelee) is a incorrect form of (opiskella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelet",
+        "Conjugation form (opiskelt) is a incorrect form of (opiskella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelet"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText: "He (panna) ruoka uuniin. - Putting food in the oven.",
-      choices: ["panevat", "pannavat", "panet", "panette"],
+      choices: ["panevat", "pannavat", "panemme", "panet"],
       choicesHints: [
         "Conjugation form (panevat) is a correct form of (panna) in a third plural nominative form. ",
         "Conjugation form (pannavat) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat",
-        "Conjugation form (panet) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat",
-        "Conjugation form (panette) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat"
+        "Conjugation form (panemme) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat",
+        "Conjugation form (panet) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Hän (pestä) likaiset astiat. - Washing dirty dishes.",
-      choices: ["pesee", "pestäe", "pesevät", "pesemme"],
+      questionText: "Sinä (pestä) likaiset astiat. - Washing dirty dishes.",
+      choices: ["peset", "pest", "pesette", "pestät"],
       choicesHints: [
-        "Conjugation form (pesee) is a correct form of (pestä) in a third singular nominative form. ",
-        "Conjugation form (pestäe) is a incorrect form of (pestä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pesee",
-        "Conjugation form (pesevät) is a incorrect form of (pestä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pesee",
-        "Conjugation form (pesemme) is a incorrect form of (pestä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pesee"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Sinä (purra) kynsiä hermostuneena. - Biting nails nervously.",
-      choices: ["puret", "puren", "purrat", "purevat"],
-      choicesHints: [
-        "Conjugation form (puret) is a correct form of (purra) in a second singular nominative form. ",
-        "Conjugation form (puren) is a incorrect form of (purra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is puret",
-        "Conjugation form (purrat) is a incorrect form of (purra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is puret",
-        "Conjugation form (purevat) is a incorrect form of (purra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is puret"
+        "Conjugation form (peset) is a correct form of (pestä) in a second singular nominative form. ",
+        "Conjugation form (pest) is a incorrect form of (pestä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is peset",
+        "Conjugation form (pesette) is a incorrect form of (pestä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is peset",
+        "Conjugation form (pestät) is a incorrect form of (pestä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is peset"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (pyöräillä) pitkin kaupungin katuja. - Riding a bike along the city streets.",
-      choices: ["pyöräilen", "pyöräiln", "pyöräilemme", "pyöräilevät"],
+          "Te (purra) kynsiä hermostuneena. - Biting nails nervously.",
+      choices: ["purette", "purtte", "puret", "purratte"],
       choicesHints: [
-        "Conjugation form (pyöräilen) is a correct form of (pyöräillä) in a first singular nominative form. ",
-        "Conjugation form (pyöräiln) is a incorrect form of (pyöräillä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pyöräilen",
-        "Conjugation form (pyöräilemme) is a incorrect form of (pyöräillä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pyöräilen",
-        "Conjugation form (pyöräilevät) is a incorrect form of (pyöräillä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pyöräilen"
+        "Conjugation form (purette) is a correct form of (purra) in a second plural nominative form. ",
+        "Conjugation form (purtte) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette",
+        "Conjugation form (puret) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette",
+        "Conjugation form (purratte) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (ratkaista) vaikea matemaattinen pulma. - Solving a difficult mathematical puzzle.",
-      choices: ["ratkaisen", "ratkaisn", "ratkaistan", "ratkaisevat"],
+          "He (pyöräillä) pitkin kaupungin katuja. - Riding a bike along the city streets.",
+      choices: ["pyöräilevät", "pyöräilemme", "pyöräilvät", "pyöräillävät"],
       choicesHints: [
-        "Conjugation form (ratkaisen) is a correct form of (ratkaista) in a first singular nominative form. ",
-        "Conjugation form (ratkaisn) is a incorrect form of (ratkaista) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisen",
-        "Conjugation form (ratkaistan) is a incorrect form of (ratkaista) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisen",
-        "Conjugation form (ratkaisevat) is a incorrect form of (ratkaista) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisen"
+        "Conjugation form (pyöräilevät) is a correct form of (pyöräillä) in a third plural nominative form. ",
+        "Conjugation form (pyöräilemme) is a incorrect form of (pyöräillä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pyöräilevät",
+        "Conjugation form (pyöräilvät) is a incorrect form of (pyöräillä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pyöräilevät",
+        "Conjugation form (pyöräillävät) is a incorrect form of (pyöräillä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is pyöräilevät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (ratkaista) vaikea matemaattinen pulma. - Solving a difficult mathematical puzzle.",
+      choices: ["ratkaisevat", "ratkaisemme", "ratkaiset", "ratkaisvat"],
+      choicesHints: [
+        "Conjugation form (ratkaisevat) is a correct form of (ratkaista) in a third plural nominative form. ",
+        "Conjugation form (ratkaisemme) is a incorrect form of (ratkaista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisevat",
+        "Conjugation form (ratkaiset) is a incorrect form of (ratkaista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisevat",
+        "Conjugation form (ratkaisvat) is a incorrect form of (ratkaista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Sinä (surra) menetettyä ystävää. - Mourning a lost friend.",
-      choices: ["suret", "surt", "surette", "surevat"],
+      choices: ["suret", "suree", "suremme", "surrat"],
       choicesHints: [
         "Conjugation form (suret) is a correct form of (surra) in a second singular nominative form. ",
-        "Conjugation form (surt) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
-        "Conjugation form (surette) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
-        "Conjugation form (surevat) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret"
+        "Conjugation form (suree) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (suremme) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (surrat) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "He (haista) hyvältä. - To smell good.",
-      choices: ["haisevat", "haistavat", "haiset", "haisette"],
+      questionText: "Me (haista) hyvältä. - To smell good.",
+      choices: ["haisemme", "haistamme", "haisette", "haismme"],
       choicesHints: [
-        "Conjugation form (haisevat) is a correct form of (haista) in a third plural nominative form. ",
-        "Conjugation form (haistavat) is a incorrect form of (haista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisevat",
-        "Conjugation form (haiset) is a incorrect form of (haista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisevat",
-        "Conjugation form (haisette) is a incorrect form of (haista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisevat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "He (juosta) nopeasti. - To run quickly.",
-      choices: ["juosevat", "juostavat", "juosvat", "juosette"],
-      choicesHints: [
-        "Conjugation form (juosevat) is a correct form of (juosta) in a third plural nominative form. ",
-        "Conjugation form (juostavat) is a incorrect form of (juosta) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is juosevat",
-        "Conjugation form (juosvat) is a incorrect form of (juosta) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is juosevat",
-        "Conjugation form (juosette) is a incorrect form of (juosta) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is juosevat"
+        "Conjugation form (haisemme) is a correct form of (haista) in a first plural nominative form. ",
+        "Conjugation form (haistamme) is a incorrect form of (haista) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisemme",
+        "Conjugation form (haisette) is a incorrect form of (haista) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisemme",
+        "Conjugation form (haismme) is a incorrect form of (haista) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisemme"
       ],
       correctAnswerIndex: 0,
     ),
@@ -1338,497 +1264,3147 @@ Map<String, List<Question>> questions_by_topic = {
   'Verbtype 3 consonant gradation': [
     Question(
       questionText:
-          "Te (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
-      choices: ["kuuntelette", "kuunteltte", "kuuntelelatte", "kuunnelette"],
-      choicesHints: [
-        "Conjugation form (kuuntelette) is a correct form of (kuunnella) in a second plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (kuunteltte) is a incorrect form of (kuunnella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelette",
-        "Conjugation form (kuuntelelatte) is a incorrect form of (kuunnella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelette",
-        "Conjugation form (kuunnelette) is a incorrect form of (kuunnella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelette"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "He (kuunnella) lintujen laulua aamulla. - Listening to the birdsong in the morning.",
-      choices: ["kuuntelevat", "kuunnelevat", "kuuntelvat", "kuuntelee"],
-      choicesHints: [
-        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
-        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
-        "Conjugation form (kuuntelee) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Hän (ajatella) omaa tulevaisuutta. - Thinking about one's own future.",
-      choices: ["ajattelee", "ajattelet", "ajatelee", "ajattele"],
-      choicesHints: [
-        "Conjugation form (ajattelee) is a correct form of (ajatella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (ajattelet) is a incorrect form of (ajatella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelee",
-        "Conjugation form (ajatelee) is a incorrect form of (ajatella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelee",
-        "Conjugation form (ajattele) is a incorrect form of (ajatella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelee"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Minä (jutella) vanhojen ystävien kanssa. - Chatting with old friends.",
-      choices: ["juttelen", "juttelelan", "juttelet", "juttelette"],
-      choicesHints: [
-        "Conjugation form (juttelen) is a correct form of (jutella) in a first singular nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (juttelelan) is a incorrect form of (jutella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelen",
-        "Conjugation form (juttelet) is a incorrect form of (jutella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelen",
-        "Conjugation form (juttelette) is a incorrect form of (jutella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelen"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
           "Minä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
-      choices: ["kuuntelen", "kuunteln", "kuunnelen", "kuuntelelan"],
+      choices: ["kuuntelen", "kuunnelen", "kuuntelelan", "kuunteln"],
       choicesHints: [
         "Conjugation form (kuuntelen) is a correct form of (kuunnella) in a first singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (kuunteln) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen",
         "Conjugation form (kuunnelen) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen",
-        "Conjugation form (kuuntelelan) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen"
+        "Conjugation form (kuuntelelan) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen",
+        "Conjugation form (kuunteln) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (kävellä) rannalla auringonlaskun aikaan. - Walking on the beach at sunset.",
-      choices: ["käpelee", "käpelet", "käpeleläe", "kävelee"],
+          "Me (kuunnella) lintujen laulua aamulla. - Listening to the birdsong in the morning.",
+      choices: ["kuuntelemme", "kuuntelelamme", "kuuntelmme", "kuunnelemme"],
       choicesHints: [
-        "Conjugation form (käpelee) is a correct form of (kävellä) in a third singular nominative form. It undergoes the following consonant gradation: v->p. ",
-        "Conjugation form (käpelet) is a incorrect form of (kävellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: v->p. The correct form is käpelee",
-        "Conjugation form (käpeleläe) is a incorrect form of (kävellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: v->p. The correct form is käpelee",
-        "Conjugation form (kävelee) is a incorrect form of (kävellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: v->p. The correct form is käpelee"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Te (ommella) kaunis puku. - Sewing a beautiful dress.",
-      choices: ["ompelette", "ommelette", "ompelelatte", "ompeltte"],
-      choicesHints: [
-        "Conjugation form (ompelette) is a correct form of (ommella) in a second plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
-        "Conjugation form (ommelette) is a incorrect form of (ommella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelette",
-        "Conjugation form (ompelelatte) is a incorrect form of (ommella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelette",
-        "Conjugation form (ompeltte) is a incorrect form of (ommella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelette"
+        "Conjugation form (kuuntelemme) is a correct form of (kuunnella) in a first plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelamme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuuntelmme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuunnelemme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (opetella) soittamaan pianoa. - Learning to play the piano.",
-      choices: ["opettelemme", "opettelet", "opettelette", "opetelemme"],
+          "Te (ajatella) omaa tulevaisuutta. - Thinking about one's own future.",
+      choices: ["ajattelette", "ajattelelatte", "ajatteltte", "ajatelette"],
       choicesHints: [
-        "Conjugation form (opettelemme) is a correct form of (opetella) in a first plural nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (opettelet) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme",
-        "Conjugation form (opettelette) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme",
-        "Conjugation form (opetelemme) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme"
+        "Conjugation form (ajattelette) is a correct form of (ajatella) in a second plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (ajattelelatte) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette",
+        "Conjugation form (ajatteltte) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette",
+        "Conjugation form (ajatelette) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Minä (riidellä) perheenjäsenten kanssa. - Arguing with family members.",
-      choices: ["riitelen", "riitelee", "riiteln", "riidelen"],
+          "He (jutella) vanhojen ystävien kanssa. - Chatting with old friends.",
+      choices: ["juttelevat", "juttelemme", "juttelelavat", "juttelee"],
       choicesHints: [
-        "Conjugation form (riitelen) is a correct form of (riidellä) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
-        "Conjugation form (riitelee) is a incorrect form of (riidellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelen",
-        "Conjugation form (riiteln) is a incorrect form of (riidellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelen",
-        "Conjugation form (riidelen) is a incorrect form of (riidellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelen"
+        "Conjugation form (juttelevat) is a correct form of (jutella) in a third plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (juttelemme) is a incorrect form of (jutella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelevat",
+        "Conjugation form (juttelelavat) is a incorrect form of (jutella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelevat",
+        "Conjugation form (juttelee) is a incorrect form of (jutella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (suudella) intohimoisesti rakastettua. - Kissing passionately a loved one.",
-      choices: ["suutelemme", "suutelelamme", "suudelemme", "suutelet"],
+          "Sinä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
+      choices: ["kuuntelet", "kuuntelelat", "kuunnelet", "kuuntelt"],
       choicesHints: [
-        "Conjugation form (suutelemme) is a correct form of (suudella) in a first plural nominative form. It undergoes the following consonant gradation: d->t. ",
-        "Conjugation form (suutelelamme) is a incorrect form of (suudella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelemme",
-        "Conjugation form (suudelemme) is a incorrect form of (suudella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelemme",
-        "Conjugation form (suutelet) is a incorrect form of (suudella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelemme"
+        "Conjugation form (kuuntelet) is a correct form of (kuunnella) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelat) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuunnelet) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuuntelt) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (ommella) kaunis puku. - Sewing a beautiful dress.",
+      choices: ["ompelevat", "ompelvat", "ompelee", "ompelelavat"],
+      choicesHints: [
+        "Conjugation form (ompelevat) is a correct form of (ommella) in a third plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
+        "Conjugation form (ompelvat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelee) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelelavat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (opetella) soittamaan pianoa. - Learning to play the piano.",
+      choices: ["opettelee", "opetelee", "opettele", "opettelelae"],
+      choicesHints: [
+        "Conjugation form (opettelee) is a correct form of (opetella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (opetelee) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettele) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettelelae) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (riidellä) perheenjäsenten kanssa. - Arguing with family members.",
+      choices: ["riitelet", "riitelee", "riitelette", "riidelet"],
+      choicesHints: [
+        "Conjugation form (riitelet) is a correct form of (riidellä) in a second singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelee) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riitelette) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riidelet) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (suudella) intohimoisesti rakastettua. - Kissing passionately a loved one.",
+      choices: ["suutelee", "suutele", "suudelee", "suutelelae"],
+      choicesHints: [
+        "Conjugation form (suutelee) is a correct form of (suudella) in a third singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (suutele) is a incorrect form of (suudella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelee",
+        "Conjugation form (suudelee) is a incorrect form of (suudella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelee",
+        "Conjugation form (suutelelae) is a incorrect form of (suudella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelee"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Minä (tapella) koulun pihalla. - Fighting in the schoolyard.",
-      choices: ["tappelen", "tappelelan", "tappeln", "tapelen"],
+      choices: ["tappelen", "tappelelan", "tapelen", "tappelet"],
       choicesHints: [
         "Conjugation form (tappelen) is a correct form of (tapella) in a first singular nominative form. It undergoes the following consonant gradation: p->pp. ",
         "Conjugation form (tappelelan) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
-        "Conjugation form (tappeln) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
-        "Conjugation form (tapelen) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen"
+        "Conjugation form (tapelen) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (työskennellä) kiireisenä toimistossa. - Working busy in the office.",
+          "Sinä (työskennellä) kiireisenä toimistossa. - Working busy in the office.",
       choices: [
-        "työskentelee",
+        "työskentelet",
+        "työskentelelät",
         "työskentelemme",
-        "työskentele",
-        "työskennelee"
+        "työskennelet"
       ],
       choicesHints: [
-        "Conjugation form (työskentelee) is a correct form of (työskennellä) in a third singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (työskentelemme) is a incorrect form of (työskennellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelee",
-        "Conjugation form (työskentele) is a incorrect form of (työskennellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelee",
-        "Conjugation form (työskennelee) is a incorrect form of (työskennellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelee"
+        "Conjugation form (työskentelet) is a correct form of (työskennellä) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (työskentelelät) is a incorrect form of (työskennellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelet",
+        "Conjugation form (työskentelemme) is a incorrect form of (työskennellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelet",
+        "Conjugation form (työskennelet) is a incorrect form of (työskennellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelet"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "He (ajatella) syvällisesti. - To think deeply.",
-      choices: ["ajattelevat", "ajattelelavat", "ajattelvat", "ajattelemme"],
+      questionText: "Hän (ajatella) syvällisesti. - To think deeply.",
+      choices: ["ajattelee", "ajattele", "ajattelelae", "ajattelet"],
       choicesHints: [
-        "Conjugation form (ajattelevat) is a correct form of (ajatella) in a third plural nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (ajattelelavat) is a incorrect form of (ajatella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelevat",
-        "Conjugation form (ajattelvat) is a incorrect form of (ajatella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelevat",
-        "Conjugation form (ajattelemme) is a incorrect form of (ajatella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelevat"
+        "Conjugation form (ajattelee) is a correct form of (ajatella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (ajattele) is a incorrect form of (ajatella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelee",
+        "Conjugation form (ajattelelae) is a incorrect form of (ajatella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelee",
+        "Conjugation form (ajattelet) is a incorrect form of (ajatella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelee"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Me (jutella) ystävien kanssa. - To chat with friends.",
-      choices: ["juttelemme", "juttelelamme", "juttelevat", "juttelmme"],
+      questionText: "Te (jutella) ystävien kanssa. - To chat with friends.",
+      choices: ["juttelette", "jutteltte", "juttelee", "jutelette"],
       choicesHints: [
-        "Conjugation form (juttelemme) is a correct form of (jutella) in a first plural nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (juttelelamme) is a incorrect form of (jutella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelemme",
-        "Conjugation form (juttelevat) is a incorrect form of (jutella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelemme",
-        "Conjugation form (juttelmme) is a incorrect form of (jutella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelemme"
+        "Conjugation form (juttelette) is a correct form of (jutella) in a second plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (jutteltte) is a incorrect form of (jutella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelette",
+        "Conjugation form (juttelee) is a incorrect form of (jutella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelette",
+        "Conjugation form (jutelette) is a incorrect form of (jutella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelette"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Te (kuunnella) musiikkia. - To listen to music.",
-      choices: ["kuuntelette", "kuunnelette", "kuuntelen", "kuunteltte"],
+      questionText: "He (kuunnella) musiikkia. - To listen to music.",
+      choices: ["kuuntelevat", "kuuntelvat", "kuuntelelavat", "kuunnelevat"],
       choicesHints: [
-        "Conjugation form (kuuntelette) is a correct form of (kuunnella) in a second plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (kuunnelette) is a incorrect form of (kuunnella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelette",
-        "Conjugation form (kuuntelen) is a incorrect form of (kuunnella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelette",
-        "Conjugation form (kuunteltte) is a incorrect form of (kuunnella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelette"
+        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuuntelelavat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Me (ommella) vaatteita. - To sew clothes.",
-      choices: ["ompelemme", "ommelemme", "ompelmme", "ompelelamme"],
+      questionText: "He (ommella) vaatteita. - To sew clothes.",
+      choices: ["ompelevat", "ompelemme", "ompelelavat", "ommelevat"],
       choicesHints: [
-        "Conjugation form (ompelemme) is a correct form of (ommella) in a first plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
-        "Conjugation form (ommelemme) is a incorrect form of (ommella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelemme",
-        "Conjugation form (ompelmme) is a incorrect form of (ommella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelemme",
-        "Conjugation form (ompelelamme) is a incorrect form of (ommella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelemme"
+        "Conjugation form (ompelevat) is a correct form of (ommella) in a third plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
+        "Conjugation form (ompelemme) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelelavat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ommelevat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Me (opetella) uusia taitoja. - To learn new skills.",
-      choices: ["opettelemme", "opettelevat", "opettelelamme", "opetelemme"],
+      questionText: "Hän (opetella) uusia taitoja. - To learn new skills.",
+      choices: ["opettelee", "opettele", "opettelelae", "opetelee"],
       choicesHints: [
-        "Conjugation form (opettelemme) is a correct form of (opetella) in a first plural nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (opettelevat) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme",
-        "Conjugation form (opettelelamme) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme",
-        "Conjugation form (opetelemme) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme"
+        "Conjugation form (opettelee) is a correct form of (opetella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (opettele) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettelelae) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opetelee) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Hän (riidellä) perheen kanssa. - To argue with family.",
-      choices: ["riitelee", "riitele", "riiteleläe", "riidelee"],
+      questionText: "He (riidellä) perheen kanssa. - To argue with family.",
+      choices: ["riitelevät", "riitelelävät", "riidelevät", "riitelvät"],
       choicesHints: [
-        "Conjugation form (riitelee) is a correct form of (riidellä) in a third singular nominative form. It undergoes the following consonant gradation: d->t. ",
-        "Conjugation form (riitele) is a incorrect form of (riidellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelee",
-        "Conjugation form (riiteleläe) is a incorrect form of (riidellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelee",
-        "Conjugation form (riidelee) is a incorrect form of (riidellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelee"
+        "Conjugation form (riitelevät) is a correct form of (riidellä) in a third plural nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelelävät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät",
+        "Conjugation form (riidelevät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät",
+        "Conjugation form (riitelvät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "He (suudella) intohimoisesti. - To kiss passionately.",
-      choices: ["suutelevat", "suutelelavat", "suudelevat", "suutelvat"],
+      questionText: "Minä (suudella) intohimoisesti. - To kiss passionately.",
+      choices: ["suutelen", "suutelee", "suutelelan", "suuteln"],
       choicesHints: [
-        "Conjugation form (suutelevat) is a correct form of (suudella) in a third plural nominative form. It undergoes the following consonant gradation: d->t. ",
-        "Conjugation form (suutelelavat) is a incorrect form of (suudella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelevat",
-        "Conjugation form (suudelevat) is a incorrect form of (suudella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelevat",
-        "Conjugation form (suutelvat) is a incorrect form of (suudella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelevat"
+        "Conjugation form (suutelen) is a correct form of (suudella) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (suutelee) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suutelelan) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suuteln) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Minä (tapella) kaverin kanssa. - To fight with a friend.",
-      choices: ["tappelen", "tappelet", "tappelelan", "tappeln"],
+      questionText: "He (tapella) kaverin kanssa. - To fight with a friend.",
+      choices: ["tappelevat", "tapelevat", "tappelet", "tappelette"],
       choicesHints: [
-        "Conjugation form (tappelen) is a correct form of (tapella) in a first singular nominative form. It undergoes the following consonant gradation: p->pp. ",
-        "Conjugation form (tappelet) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
-        "Conjugation form (tappelelan) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
-        "Conjugation form (tappeln) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen"
+        "Conjugation form (tappelevat) is a correct form of (tapella) in a third plural nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (tapelevat) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat",
+        "Conjugation form (tappelette) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "He (työskennellä) ahkerasti. - To work diligently.",
+      questionText: "Minä (työskennellä) ahkerasti. - To work diligently.",
       choices: [
-        "työskentelevät",
-        "työskennelevät",
-        "työskentelette",
-        "työskentelee"
+        "työskentelen",
+        "työskentelelän",
+        "työskenteln",
+        "työskennelen"
       ],
       choicesHints: [
-        "Conjugation form (työskentelevät) is a correct form of (työskennellä) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (työskennelevät) is a incorrect form of (työskennellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelevät",
-        "Conjugation form (työskentelette) is a incorrect form of (työskennellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelevät",
-        "Conjugation form (työskentelee) is a incorrect form of (työskennellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelevät"
+        "Conjugation form (työskentelen) is a correct form of (työskennellä) in a first singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (työskentelelän) is a incorrect form of (työskennellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelen",
+        "Conjugation form (työskenteln) is a incorrect form of (työskennellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelen",
+        "Conjugation form (työskennelen) is a incorrect form of (työskennellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelen"
       ],
       correctAnswerIndex: 0,
     ),
   ],
-  'Verbtypes 1-3 rewind': [
+  'Verbtype 4': [
     Question(
       questionText:
-          "Te (syödä) terveellisesti ja tasapainoisesti. - To eat healthily and balanced.",
-      choices: ["syötte", "syöt", "syömme", "syö"],
+          "Me (maalata) taidetta taidekoulussa. - Painting art at art school.",
+      choices: ["maalaamme", "maalamme", "maalaatamme", "maalaa"],
       choicesHints: [
-        "Conjugation form (syötte) is a correct form of (syödä) in a second plural nominative form. ",
-        "Conjugation form (syöt) is a incorrect form of (syödä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syötte",
-        "Conjugation form (syömme) is a incorrect form of (syödä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syötte",
-        "Conjugation form (syö) is a incorrect form of (syödä) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syötte"
+        "Conjugation form (maalaamme) is a correct form of (maalata) in a first plural nominative form. ",
+        "Conjugation form (maalamme) is a incorrect form of (maalata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is maalaamme",
+        "Conjugation form (maalaatamme) is a incorrect form of (maalata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is maalaamme",
+        "Conjugation form (maalaa) is a incorrect form of (maalata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is maalaamme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (juoda) teetä ennen nukkumaanmenoa. - Drinking tea before bedtime.",
-      choices: ["juomme", "juodamme", "juon", "jumme"],
+          "Sinä (kerätä) kiviä rannalta. - Collecting stones from the beach.",
+      choices: ["keräät", "keräätät", "keräävät", "kerät"],
       choicesHints: [
-        "Conjugation form (juomme) is a correct form of (juoda) in a first plural nominative form. ",
-        "Conjugation form (juodamme) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme",
-        "Conjugation form (juon) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme",
-        "Conjugation form (jumme) is a incorrect form of (juoda) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juomme"
+        "Conjugation form (keräät) is a correct form of (kerätä) in a second singular nominative form. ",
+        "Conjugation form (keräätät) is a incorrect form of (kerätä) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is keräät",
+        "Conjugation form (keräävät) is a incorrect form of (kerätä) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is keräät",
+        "Conjugation form (kerät) is a incorrect form of (kerätä) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is keräät"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (tuntea) voimakasta kiitollisuutta. - To feel strong gratitude.",
-      choices: ["tunnemme", "tunnevat", "tuntemme", "tunnmme"],
+          "He (maalata) maisemia vesiväreillä. - Painting landscapes with watercolors.",
+      choices: ["maalaavat", "maalaatavat", "maalaat", "maalaa"],
       choicesHints: [
-        "Conjugation form (tunnemme) is a correct form of (tuntea) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
-        "Conjugation form (tunnevat) is a incorrect form of (tuntea) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnemme",
-        "Conjugation form (tuntemme) is a incorrect form of (tuntea) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnemme",
-        "Conjugation form (tunnmme) is a incorrect form of (tuntea) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is tunnemme"
+        "Conjugation form (maalaavat) is a correct form of (maalata) in a third plural nominative form. ",
+        "Conjugation form (maalaatavat) is a incorrect form of (maalata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is maalaavat",
+        "Conjugation form (maalaat) is a incorrect form of (maalata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is maalaavat",
+        "Conjugation form (maalaa) is a incorrect form of (maalata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is maalaavat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (avata) kirje varovasti. - To open the letter carefully.",
+      choices: ["avaamme", "avaat", "avaatamme", "avaa"],
+      choicesHints: [
+        "Conjugation form (avaamme) is a correct form of (avata) in a first plural nominative form. ",
+        "Conjugation form (avaat) is a incorrect form of (avata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaamme",
+        "Conjugation form (avaatamme) is a incorrect form of (avata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaamme",
+        "Conjugation form (avaa) is a incorrect form of (avata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (erota) pitkän suhteen jälkeen. - To divorce after a long relationship.",
+      choices: ["eroan", "eron", "eroat", "eroaa"],
+      choicesHints: [
+        "Conjugation form (eroan) is a correct form of (erota) in a first singular nominative form. ",
+        "Conjugation form (eron) is a incorrect form of (erota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is eroan",
+        "Conjugation form (eroat) is a incorrect form of (erota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is eroan",
+        "Conjugation form (eroaa) is a incorrect form of (erota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is eroan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (haluta) enemmän elämältä. - To want more from life.",
+      choices: ["haluan", "haluat", "haluatan", "haluaa"],
+      choicesHints: [
+        "Conjugation form (haluan) is a correct form of (haluta) in a first singular nominative form. ",
+        "Conjugation form (haluat) is a incorrect form of (haluta) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluan",
+        "Conjugation form (haluatan) is a incorrect form of (haluta) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluan",
+        "Conjugation form (haluaa) is a incorrect form of (haluta) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (herätä) aikaisin aamulla. - To wake up early in the morning.",
+      choices: ["heräämme", "heräävät", "herämme", "heräät"],
+      choicesHints: [
+        "Conjugation form (heräämme) is a correct form of (herätä) in a first plural nominative form. ",
+        "Conjugation form (heräävät) is a incorrect form of (herätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is heräämme",
+        "Conjugation form (herämme) is a incorrect form of (herätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is heräämme",
+        "Conjugation form (heräät) is a incorrect form of (herätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is heräämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (huomata) salaisuus. - To notice a secret.",
+      choices: ["huomaatte", "huomaamme", "huomaavat", "huomatte"],
+      choicesHints: [
+        "Conjugation form (huomaatte) is a correct form of (huomata) in a second plural nominative form. ",
+        "Conjugation form (huomaamme) is a incorrect form of (huomata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is huomaatte",
+        "Conjugation form (huomaavat) is a incorrect form of (huomata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is huomaatte",
+        "Conjugation form (huomatte) is a incorrect form of (huomata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is huomaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (juoruta) naapureista. - To gossip about neighbors.",
+      choices: ["juoruaa", "juoruan", "juoruavat", "juoruatte"],
+      choicesHints: [
+        "Conjugation form (juoruaa) is a correct form of (juoruta) in a third singular nominative form. ",
+        "Conjugation form (juoruan) is a incorrect form of (juoruta) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruaa",
+        "Conjugation form (juoruavat) is a incorrect form of (juoruta) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruaa",
+        "Conjugation form (juoruatte) is a incorrect form of (juoruta) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (pelata) jalkapalloa iltaisin. - To play football in the evenings.",
+      choices: ["pelaatte", "pelaavat", "pelatte", "pelaatatte"],
+      choicesHints: [
+        "Conjugation form (pelaatte) is a correct form of (pelata) in a second plural nominative form. ",
+        "Conjugation form (pelaavat) is a incorrect form of (pelata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is pelaatte",
+        "Conjugation form (pelatte) is a incorrect form of (pelata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is pelaatte",
+        "Conjugation form (pelaatatte) is a incorrect form of (pelata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is pelaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (tilata) ruokaa ravintolasta. - To order food from a restaurant.",
+      choices: ["tilaan", "tilaavat", "tilaamme", "tilan"],
+      choicesHints: [
+        "Conjugation form (tilaan) is a correct form of (tilata) in a first singular nominative form. ",
+        "Conjugation form (tilaavat) is a incorrect form of (tilata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tilaan",
+        "Conjugation form (tilaamme) is a incorrect form of (tilata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tilaan",
+        "Conjugation form (tilan) is a incorrect form of (tilata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tilaan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (vastata) kysymykseen. - To answer a question.",
+      choices: ["vastaa", "vasta", "vastaata", "vastaatte"],
+      choicesHints: [
+        "Conjugation form (vastaa) is a correct form of (vastata) in a third singular nominative form. ",
+        "Conjugation form (vasta) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa",
+        "Conjugation form (vastaata) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa",
+        "Conjugation form (vastaatte) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (älytä) oivallus. - To get a realization.",
+      choices: ["älyämme", "älyätte", "älyätämme", "älyävät"],
+      choicesHints: [
+        "Conjugation form (älyämme) is a correct form of (älytä) in a first plural nominative form. ",
+        "Conjugation form (älyätte) is a incorrect form of (älytä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is älyämme",
+        "Conjugation form (älyätämme) is a incorrect form of (älytä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is älyämme",
+        "Conjugation form (älyävät) is a incorrect form of (älytä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is älyämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (avata) oven vieraille. - To open the door for guests.",
+      choices: ["avaatte", "avaa", "avaamme", "avaavat"],
+      choicesHints: [
+        "Conjugation form (avaatte) is a correct form of (avata) in a second plural nominative form. ",
+        "Conjugation form (avaa) is a incorrect form of (avata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaatte",
+        "Conjugation form (avaamme) is a incorrect form of (avata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaatte",
+        "Conjugation form (avaavat) is a incorrect form of (avata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (erota) yhteisestä projektista. - To separate from a joint project.",
+      choices: ["eroat", "eroatat", "eroavat", "eroamme"],
+      choicesHints: [
+        "Conjugation form (eroat) is a correct form of (erota) in a second singular nominative form. ",
+        "Conjugation form (eroatat) is a incorrect form of (erota) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is eroat",
+        "Conjugation form (eroavat) is a incorrect form of (erota) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is eroat",
+        "Conjugation form (eroamme) is a incorrect form of (erota) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is eroat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (haluta) matkustaa maailmalla. - To want to travel the world.",
+      choices: ["haluavat", "haluvat", "haluat", "haluan"],
+      choicesHints: [
+        "Conjugation form (haluavat) is a correct form of (haluta) in a third plural nominative form. ",
+        "Conjugation form (haluvat) is a incorrect form of (haluta) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluavat",
+        "Conjugation form (haluat) is a incorrect form of (haluta) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluavat",
+        "Conjugation form (haluan) is a incorrect form of (haluta) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluavat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (herätä) aamulla auringonpaisteeseen. - To wake up to sunshine in the morning.",
+      choices: ["herää", "heräätä", "heräävät", "herä"],
+      choicesHints: [
+        "Conjugation form (herää) is a correct form of (herätä) in a third singular nominative form. ",
+        "Conjugation form (heräätä) is a incorrect form of (herätä) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is herää",
+        "Conjugation form (heräävät) is a incorrect form of (herätä) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is herää",
+        "Conjugation form (herä) is a incorrect form of (herätä) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is herää"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (huomata) virhe ajoissa. - To notice a mistake in time.",
+      choices: ["huomaat", "huomaatat", "huomat", "huomaa"],
+      choicesHints: [
+        "Conjugation form (huomaat) is a correct form of (huomata) in a second singular nominative form. ",
+        "Conjugation form (huomaatat) is a incorrect form of (huomata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is huomaat",
+        "Conjugation form (huomat) is a incorrect form of (huomata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is huomaat",
+        "Conjugation form (huomaa) is a incorrect form of (huomata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is huomaat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (juoruta) työpaikalla. - To gossip at work.",
+      choices: ["juoruamme", "juoruatte", "juoruavat", "juorumme"],
+      choicesHints: [
+        "Conjugation form (juoruamme) is a correct form of (juoruta) in a first plural nominative form. ",
+        "Conjugation form (juoruatte) is a incorrect form of (juoruta) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruamme",
+        "Conjugation form (juoruavat) is a incorrect form of (juoruta) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruamme",
+        "Conjugation form (juorumme) is a incorrect form of (juoruta) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (määrätä) tulevaisuuden suuntaa. - To determine the direction of the future.",
+      choices: ["määräävät", "määräät", "määrään", "määrävät"],
+      choicesHints: [
+        "Conjugation form (määräävät) is a correct form of (määrätä) in a third plural nominative form. ",
+        "Conjugation form (määräät) is a incorrect form of (määrätä) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is määräävät",
+        "Conjugation form (määrään) is a incorrect form of (määrätä) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is määräävät",
+        "Conjugation form (määrävät) is a incorrect form of (määrätä) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is määräävät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (pelata) shakkia taitavasti. - To play chess skillfully.",
+      choices: ["pelaat", "pelat", "pelaatat", "pelaan"],
+      choicesHints: [
+        "Conjugation form (pelaat) is a correct form of (pelata) in a second singular nominative form. ",
+        "Conjugation form (pelat) is a incorrect form of (pelata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is pelaat",
+        "Conjugation form (pelaatat) is a incorrect form of (pelata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is pelaat",
+        "Conjugation form (pelaan) is a incorrect form of (pelata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is pelaat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (piffata) itsensä viikonloppuna. - To treat oneself over the weekend.",
+      choices: ["piffaa", "piffa", "piffaata", "piffaavat"],
+      choicesHints: [
+        "Conjugation form (piffaa) is a correct form of (piffata) in a third singular nominative form. ",
+        "Conjugation form (piffa) is a incorrect form of (piffata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is piffaa",
+        "Conjugation form (piffaata) is a incorrect form of (piffata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is piffaa",
+        "Conjugation form (piffaavat) is a incorrect form of (piffata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is piffaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (tarjota) apua tarvitseville. - To offer help to those in need.",
+      choices: ["tarjoat", "tarjoan", "tarjoaa", "tarjoatat"],
+      choicesHints: [
+        "Conjugation form (tarjoat) is a correct form of (tarjota) in a second singular nominative form. ",
+        "Conjugation form (tarjoan) is a incorrect form of (tarjota) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tarjoat",
+        "Conjugation form (tarjoaa) is a incorrect form of (tarjota) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tarjoat",
+        "Conjugation form (tarjoatat) is a incorrect form of (tarjota) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tarjoat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (tilata) lehti vuosiksi eteenpäin. - To subscribe to a magazine for years ahead.",
+      choices: ["tilaat", "tilaatat", "tilaamme", "tilat"],
+      choicesHints: [
+        "Conjugation form (tilaat) is a correct form of (tilata) in a second singular nominative form. ",
+        "Conjugation form (tilaatat) is a incorrect form of (tilata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tilaat",
+        "Conjugation form (tilaamme) is a incorrect form of (tilata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tilaat",
+        "Conjugation form (tilat) is a incorrect form of (tilata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is tilaat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (vastata) sähköpostiviestiin. - To respond to an email message.",
+      choices: ["vastaat", "vastaatat", "vastaatte", "vastat"],
+      choicesHints: [
+        "Conjugation form (vastaat) is a correct form of (vastata) in a second singular nominative form. ",
+        "Conjugation form (vastaatat) is a incorrect form of (vastata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaat",
+        "Conjugation form (vastaatte) is a incorrect form of (vastata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaat",
+        "Conjugation form (vastat) is a incorrect form of (vastata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (älytä) ongelman ratkaisu. - To understand the solution to a problem.",
+      choices: ["älyävät", "älyätävät", "älyämme", "älyän"],
+      choicesHints: [
+        "Conjugation form (älyävät) is a correct form of (älytä) in a third plural nominative form. ",
+        "Conjugation form (älyätävät) is a incorrect form of (älytä) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is älyävät",
+        "Conjugation form (älyämme) is a incorrect form of (älytä) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is älyävät",
+        "Conjugation form (älyän) is a incorrect form of (älytä) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is älyävät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtype 4 consonant gradation': [
+    Question(
+      questionText: "Hän (tavata) vanhoja kavereita. - Meeting old friends.",
+      choices: ["tapaa", "tapaavat", "tapaan", "tapa"],
+      choicesHints: [
+        "Conjugation form (tapaa) is a correct form of (tavata) in a third singular nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (tapaavat) is a incorrect form of (tavata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaa",
+        "Conjugation form (tapaan) is a incorrect form of (tavata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaa",
+        "Conjugation form (tapa) is a incorrect form of (tavata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (tavata) uusia ihmisiä matkoilla. - Meeting new people while traveling.",
+      choices: ["tapaavat", "tapaatavat", "tapavat", "tavaavat"],
+      choicesHints: [
+        "Conjugation form (tapaavat) is a correct form of (tavata) in a third plural nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (tapaatavat) is a incorrect form of (tavata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaavat",
+        "Conjugation form (tapavat) is a incorrect form of (tavata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaavat",
+        "Conjugation form (tavaavat) is a incorrect form of (tavata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaavat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (hakata) puuta kirveellä. - To beat wood with an axe.",
+      choices: ["hakkaatte", "hakkaatatte", "hakkaat", "hakkatte"],
+      choicesHints: [
+        "Conjugation form (hakkaatte) is a correct form of (hakata) in a second plural nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (hakkaatatte) is a incorrect form of (hakata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is hakkaatte",
+        "Conjugation form (hakkaat) is a incorrect form of (hakata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is hakkaatte",
+        "Conjugation form (hakkatte) is a incorrect form of (hakata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is hakkaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (hypätä) korkealta. - To jump from a high place.",
+      choices: ["hyppään", "hypään", "hyppäämme", "hyppää"],
+      choicesHints: [
+        "Conjugation form (hyppään) is a correct form of (hypätä) in a first singular nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (hypään) is a incorrect form of (hypätä) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppään",
+        "Conjugation form (hyppäämme) is a incorrect form of (hypätä) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppään",
+        "Conjugation form (hyppää) is a incorrect form of (hypätä) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppään"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (kadota) pimeyteen. - To disappear into the darkness.",
+      choices: ["katoaa", "katoa", "kadoaa", "katoatte"],
+      choicesHints: [
+        "Conjugation form (katoaa) is a correct form of (kadota) in a third singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (katoa) is a incorrect form of (kadota) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is katoaa",
+        "Conjugation form (kadoaa) is a incorrect form of (kadota) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is katoaa",
+        "Conjugation form (katoatte) is a incorrect form of (kadota) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is katoaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Sinä (lakata) sataamasta. - To stop raining.",
+      choices: ["lakkaat", "lakkaatat", "lakkat", "lakaat"],
+      choicesHints: [
+        "Conjugation form (lakkaat) is a correct form of (lakata) in a second singular nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (lakkaatat) is a incorrect form of (lakata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaat",
+        "Conjugation form (lakkat) is a incorrect form of (lakata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaat",
+        "Conjugation form (lakaat) is a incorrect form of (lakata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (luvata) pitää lupaus. - To keep a promise.",
+      choices: ["lupaamme", "luvaamme", "lupamme", "lupaatamme"],
+      choicesHints: [
+        "Conjugation form (lupaamme) is a correct form of (luvata) in a first plural nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (luvaamme) is a incorrect form of (luvata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is lupaamme",
+        "Conjugation form (lupamme) is a incorrect form of (luvata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is lupaamme",
+        "Conjugation form (lupaatamme) is a incorrect form of (luvata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is lupaamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (tavata) vanhoja ystäviä. - To meet old friends.",
+      choices: ["tapaavat", "tapaa", "tavaavat", "tapavat"],
+      choicesHints: [
+        "Conjugation form (tapaavat) is a correct form of (tavata) in a third plural nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (tapaa) is a incorrect form of (tavata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaavat",
+        "Conjugation form (tavaavat) is a incorrect form of (tavata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaavat",
+        "Conjugation form (tapavat) is a incorrect form of (tavata) in a third plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaavat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (tykätä) hyvästä musiikista. - To like good music.",
+      choices: ["tykkäätte", "tykäätte", "tykkää", "tykkäätätte"],
+      choicesHints: [
+        "Conjugation form (tykkäätte) is a correct form of (tykätä) in a second plural nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (tykäätte) is a incorrect form of (tykätä) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is tykkäätte",
+        "Conjugation form (tykkää) is a incorrect form of (tykätä) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is tykkäätte",
+        "Conjugation form (tykkäätätte) is a incorrect form of (tykätä) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is tykkäätte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (hakata) kananmunia kulhoon. - To beat eggs in a bowl.",
+      choices: ["hakkaatte", "hakaatte", "hakkaamme", "hakkaatatte"],
+      choicesHints: [
+        "Conjugation form (hakkaatte) is a correct form of (hakata) in a second plural nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (hakaatte) is a incorrect form of (hakata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is hakkaatte",
+        "Conjugation form (hakkaamme) is a incorrect form of (hakata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is hakkaatte",
+        "Conjugation form (hakkaatatte) is a incorrect form of (hakata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is hakkaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (hypätä) esteen yli. - To jump over an obstacle.",
+      choices: ["hyppäämme", "hyppämme", "hyppäätämme", "hypäämme"],
+      choicesHints: [
+        "Conjugation form (hyppäämme) is a correct form of (hypätä) in a first plural nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (hyppämme) is a incorrect form of (hypätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppäämme",
+        "Conjugation form (hyppäätämme) is a incorrect form of (hypätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppäämme",
+        "Conjugation form (hypäämme) is a incorrect form of (hypätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppäämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (kadota) historian hämäriin. - To disappear into the mists of history.",
+      choices: ["katoan", "kadoan", "katoatan", "katon"],
+      choicesHints: [
+        "Conjugation form (katoan) is a correct form of (kadota) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (kadoan) is a incorrect form of (kadota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is katoan",
+        "Conjugation form (katoatan) is a incorrect form of (kadota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is katoan",
+        "Conjugation form (katon) is a incorrect form of (kadota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is katoan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (lakata) satamasta. - To cease from the harbor.",
+      choices: ["lakkaan", "lakkaatan", "lakaan", "lakkan"],
+      choicesHints: [
+        "Conjugation form (lakkaan) is a correct form of (lakata) in a first singular nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (lakkaatan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan",
+        "Conjugation form (lakaan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan",
+        "Conjugation form (lakkan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (luvata) tehdä hyvää työtä. - To promise to do good work.",
+      choices: ["lupaa", "lupaata", "lupa", "luvaa"],
+      choicesHints: [
+        "Conjugation form (lupaa) is a correct form of (luvata) in a third singular nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (lupaata) is a incorrect form of (luvata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is lupaa",
+        "Conjugation form (lupa) is a incorrect form of (luvata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is lupaa",
+        "Conjugation form (luvaa) is a incorrect form of (luvata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is lupaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (pihdata) rahaa tarpeettomista ostoksista. - To skimp money on unnecessary purchases.",
+      choices: ["pihtaatte", "pihtaatatte", "pihtatte", "pihdaatte"],
+      choicesHints: [
+        "Conjugation form (pihtaatte) is a correct form of (pihdata) in a second plural nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (pihtaatatte) is a incorrect form of (pihdata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is pihtaatte",
+        "Conjugation form (pihtatte) is a incorrect form of (pihdata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is pihtaatte",
+        "Conjugation form (pihdaatte) is a incorrect form of (pihdata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is pihtaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (pudota) korkealta puusta. - To fall from a tall tree.",
+      choices: ["putoan", "putoavat", "puton", "putoamme"],
+      choicesHints: [
+        "Conjugation form (putoan) is a correct form of (pudota) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (putoavat) is a incorrect form of (pudota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is putoan",
+        "Conjugation form (puton) is a incorrect form of (pudota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is putoan",
+        "Conjugation form (putoamme) is a incorrect form of (pudota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is putoan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (tavata) uusia ihmisiä matkoilla. - To meet new people while traveling.",
+      choices: ["tapaatte", "tapaatatte", "tavaatte", "tapatte"],
+      choicesHints: [
+        "Conjugation form (tapaatte) is a correct form of (tavata) in a second plural nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (tapaatatte) is a incorrect form of (tavata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaatte",
+        "Conjugation form (tavaatte) is a incorrect form of (tavata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaatte",
+        "Conjugation form (tapatte) is a incorrect form of (tavata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (tykätä) ulkoilusta. - To like outdoor activities.",
+      choices: ["tykkäämme", "tykkämme", "tykäämme", "tykkäätämme"],
+      choicesHints: [
+        "Conjugation form (tykkäämme) is a correct form of (tykätä) in a first plural nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (tykkämme) is a incorrect form of (tykätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is tykkäämme",
+        "Conjugation form (tykäämme) is a incorrect form of (tykätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is tykkäämme",
+        "Conjugation form (tykkäätämme) is a incorrect form of (tykätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is tykkäämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtype 5': [
+    Question(
+      questionText: "Me (valita) uusi vaatekaappi. - Choosing a new wardrobe.",
+      choices: ["valitsemme", "valitsette", "valitsetamme", "valitsmme"],
+      choicesHints: [
+        "Conjugation form (valitsemme) is a correct form of (valita) in a first plural nominative form. ",
+        "Conjugation form (valitsette) is a incorrect form of (valita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is valitsemme",
+        "Conjugation form (valitsetamme) is a incorrect form of (valita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is valitsemme",
+        "Conjugation form (valitsmme) is a incorrect form of (valita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is valitsemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (valita) lahja syntymäpäiväsankarille. - Choosing a gift for the birthday person.",
+      choices: ["valitsen", "valitsette", "valitsetan", "valitsee"],
+      choicesHints: [
+        "Conjugation form (valitsen) is a correct form of (valita) in a first singular nominative form. ",
+        "Conjugation form (valitsette) is a incorrect form of (valita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is valitsen",
+        "Conjugation form (valitsetan) is a incorrect form of (valita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is valitsen",
+        "Conjugation form (valitsee) is a incorrect form of (valita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is valitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (hallita) maata viisaasti. - To rule a country wisely.",
+      choices: ["hallitsen", "hallitsetan", "hallitsee", "hallitsevat"],
+      choicesHints: [
+        "Conjugation form (hallitsen) is a correct form of (hallita) in a first singular nominative form. ",
+        "Conjugation form (hallitsetan) is a incorrect form of (hallita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsen",
+        "Conjugation form (hallitsee) is a incorrect form of (hallita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsen",
+        "Conjugation form (hallitsevat) is a incorrect form of (hallita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (havaita) piilevä vaara. - To perceive a hidden danger.",
+      choices: ["havaitsen", "havaitsee", "havaitsemme", "havaitsetan"],
+      choicesHints: [
+        "Conjugation form (havaitsen) is a correct form of (havaita) in a first singular nominative form. ",
+        "Conjugation form (havaitsee) is a incorrect form of (havaita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsen",
+        "Conjugation form (havaitsemme) is a incorrect form of (havaita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsen",
+        "Conjugation form (havaitsetan) is a incorrect form of (havaita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (hillitä) itsensä vihasta. - To restrain oneself from anger.",
+      choices: ["hillitset", "hillitsetät", "hillitsemme", "hillitsevät"],
+      choicesHints: [
+        "Conjugation form (hillitset) is a correct form of (hillitä) in a second singular nominative form. ",
+        "Conjugation form (hillitsetät) is a incorrect form of (hillitä) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitset",
+        "Conjugation form (hillitsemme) is a incorrect form of (hillitä) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitset",
+        "Conjugation form (hillitsevät) is a incorrect form of (hillitä) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitset"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (häiritä) naapurin rauhaa. - To disturb the neighbor's peace.",
+      choices: ["häiritsee", "häiritse", "häiritsemme", "häiritsette"],
+      choicesHints: [
+        "Conjugation form (häiritsee) is a correct form of (häiritä) in a third singular nominative form. ",
+        "Conjugation form (häiritse) is a incorrect form of (häiritä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is häiritsee",
+        "Conjugation form (häiritsemme) is a incorrect form of (häiritä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is häiritsee",
+        "Conjugation form (häiritsette) is a incorrect form of (häiritä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is häiritsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (kyyditä) ystävä kotiin. - To give a friend a lift home.",
+      choices: ["kyyditsevät", "kyyditsvät", "kyyditsee", "kyyditset"],
+      choicesHints: [
+        "Conjugation form (kyyditsevät) is a correct form of (kyyditä) in a third plural nominative form. ",
+        "Conjugation form (kyyditsvät) is a incorrect form of (kyyditä) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is kyyditsevät",
+        "Conjugation form (kyyditsee) is a incorrect form of (kyyditä) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is kyyditsevät",
+        "Conjugation form (kyyditset) is a incorrect form of (kyyditä) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is kyyditsevät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (mainita) nimi kiitospuheessa. - To mention a name in a thank-you speech.",
+      choices: ["mainitsen", "mainitsette", "mainitset", "mainitsemme"],
+      choicesHints: [
+        "Conjugation form (mainitsen) is a correct form of (mainita) in a first singular nominative form. ",
+        "Conjugation form (mainitsette) is a incorrect form of (mainita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsen",
+        "Conjugation form (mainitset) is a incorrect form of (mainita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsen",
+        "Conjugation form (mainitsemme) is a incorrect form of (mainita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (merkitä) tärkeitä päivämääriä kalenteriin. - To mark important dates on the calendar.",
+      choices: ["merkitsevät", "merkitsee", "merkitsen", "merkitsetävät"],
+      choicesHints: [
+        "Conjugation form (merkitsevät) is a correct form of (merkitä) in a third plural nominative form. ",
+        "Conjugation form (merkitsee) is a incorrect form of (merkitä) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsevät",
+        "Conjugation form (merkitsen) is a incorrect form of (merkitä) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsevät",
+        "Conjugation form (merkitsetävät) is a incorrect form of (merkitä) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsevät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (palkita) hyvästä suorituksesta. - To reward for a job well done.",
+      choices: ["palkitset", "palkitsee", "palkitsette", "palkitst"],
+      choicesHints: [
+        "Conjugation form (palkitset) is a correct form of (palkita) in a second singular nominative form. ",
+        "Conjugation form (palkitsee) is a incorrect form of (palkita) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is palkitset",
+        "Conjugation form (palkitsette) is a incorrect form of (palkita) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is palkitset",
+        "Conjugation form (palkitst) is a incorrect form of (palkita) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is palkitset"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (tarvita) apua vaikeassa tilanteessa. - To need help in a difficult situation.",
+      choices: ["tarvitsevat", "tarvitsen", "tarvitsee", "tarvitset"],
+      choicesHints: [
+        "Conjugation form (tarvitsevat) is a correct form of (tarvita) in a third plural nominative form. ",
+        "Conjugation form (tarvitsen) is a incorrect form of (tarvita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsevat",
+        "Conjugation form (tarvitsee) is a incorrect form of (tarvita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsevat",
+        "Conjugation form (tarvitset) is a incorrect form of (tarvita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (tulkita) unia symbolien avulla. - To interpret dreams using symbols.",
+      choices: ["tulkitsee", "tulkitse", "tulkitsetae", "tulkitset"],
+      choicesHints: [
+        "Conjugation form (tulkitsee) is a correct form of (tulkita) in a third singular nominative form. ",
+        "Conjugation form (tulkitse) is a incorrect form of (tulkita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tulkitsee",
+        "Conjugation form (tulkitsetae) is a incorrect form of (tulkita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tulkitsee",
+        "Conjugation form (tulkitset) is a incorrect form of (tulkita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tulkitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (hallita) taitavasti monia taitoja. - To master many skills skillfully.",
+      choices: ["hallitsemme", "hallitsen", "hallitsetamme", "hallitset"],
+      choicesHints: [
+        "Conjugation form (hallitsemme) is a correct form of (hallita) in a first plural nominative form. ",
+        "Conjugation form (hallitsen) is a incorrect form of (hallita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsemme",
+        "Conjugation form (hallitsetamme) is a incorrect form of (hallita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsemme",
+        "Conjugation form (hallitset) is a incorrect form of (hallita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (havaita) pieni yksityiskohta. - To perceive a small detail.",
+      choices: ["havaitsevat", "havaitsetavat", "havaitset", "havaitsen"],
+      choicesHints: [
+        "Conjugation form (havaitsevat) is a correct form of (havaita) in a third plural nominative form. ",
+        "Conjugation form (havaitsetavat) is a incorrect form of (havaita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsevat",
+        "Conjugation form (havaitset) is a incorrect form of (havaita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsevat",
+        "Conjugation form (havaitsen) is a incorrect form of (havaita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (hillitä) naurua vakavassa tilanteessa. - To restrain laughter in a serious situation.",
+      choices: ["hillitsee", "hillitsetäe", "hillitsemme", "hillitse"],
+      choicesHints: [
+        "Conjugation form (hillitsee) is a correct form of (hillitä) in a third singular nominative form. ",
+        "Conjugation form (hillitsetäe) is a incorrect form of (hillitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitsee",
+        "Conjugation form (hillitsemme) is a incorrect form of (hillitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitsee",
+        "Conjugation form (hillitse) is a incorrect form of (hillitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (häiritä) keskittymistä. - To disturb concentration.",
+      choices: ["häiritsee", "häiritset", "häiritsetäe", "häiritsevät"],
+      choicesHints: [
+        "Conjugation form (häiritsee) is a correct form of (häiritä) in a third singular nominative form. ",
+        "Conjugation form (häiritset) is a incorrect form of (häiritä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is häiritsee",
+        "Conjugation form (häiritsetäe) is a incorrect form of (häiritä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is häiritsee",
+        "Conjugation form (häiritsevät) is a incorrect form of (häiritä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is häiritsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (kyyditä) vieraita juhliin. - To give guests a lift to the party.",
+      choices: ["kyyditsee", "kyyditsevät", "kyyditsetäe", "kyyditsemme"],
+      choicesHints: [
+        "Conjugation form (kyyditsee) is a correct form of (kyyditä) in a third singular nominative form. ",
+        "Conjugation form (kyyditsevät) is a incorrect form of (kyyditä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is kyyditsee",
+        "Conjugation form (kyyditsetäe) is a incorrect form of (kyyditä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is kyyditsee",
+        "Conjugation form (kyyditsemme) is a incorrect form of (kyyditä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is kyyditsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (mainita) erityiset kiitokset. - To mention special thanks.",
+      choices: ["mainitsee", "mainitsemme", "mainitse", "mainitsen"],
+      choicesHints: [
+        "Conjugation form (mainitsee) is a correct form of (mainita) in a third singular nominative form. ",
+        "Conjugation form (mainitsemme) is a incorrect form of (mainita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsee",
+        "Conjugation form (mainitse) is a incorrect form of (mainita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsee",
+        "Conjugation form (mainitsen) is a incorrect form of (mainita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (merkitä) tärkeitä sanoja sanakirjaan. - To mark important words in the dictionary.",
+      choices: ["merkitsee", "merkitsette", "merkitsetäe", "merkitsevät"],
+      choicesHints: [
+        "Conjugation form (merkitsee) is a correct form of (merkitä) in a third singular nominative form. ",
+        "Conjugation form (merkitsette) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee",
+        "Conjugation form (merkitsetäe) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee",
+        "Conjugation form (merkitsevät) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (palkita) ansioituneet työntekijät. - To reward outstanding employees.",
+      choices: ["palkitsevat", "palkitsen", "palkitsetavat", "palkitsvat"],
+      choicesHints: [
+        "Conjugation form (palkitsevat) is a correct form of (palkita) in a third plural nominative form. ",
+        "Conjugation form (palkitsen) is a incorrect form of (palkita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is palkitsevat",
+        "Conjugation form (palkitsetavat) is a incorrect form of (palkita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is palkitsevat",
+        "Conjugation form (palkitsvat) is a incorrect form of (palkita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is palkitsevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (tarvita) uutta tietoa. - To need new information.",
+      choices: ["tarvitsen", "tarvitsn", "tarvitsette", "tarvitset"],
+      choicesHints: [
+        "Conjugation form (tarvitsen) is a correct form of (tarvita) in a first singular nominative form. ",
+        "Conjugation form (tarvitsn) is a incorrect form of (tarvita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsen",
+        "Conjugation form (tarvitsette) is a incorrect form of (tarvita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsen",
+        "Conjugation form (tarvitset) is a incorrect form of (tarvita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (tulkita) taidetta eri tavoin. - To interpret art in various ways.",
+      choices: ["tulkitsee", "tulkitse", "tulkitsetae", "tulkitsen"],
+      choicesHints: [
+        "Conjugation form (tulkitsee) is a correct form of (tulkita) in a third singular nominative form. ",
+        "Conjugation form (tulkitse) is a incorrect form of (tulkita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tulkitsee",
+        "Conjugation form (tulkitsetae) is a incorrect form of (tulkita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tulkitsee",
+        "Conjugation form (tulkitsen) is a incorrect form of (tulkita) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tulkitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtypes 1-3': [
+    Question(
+      questionText: "Sinä (viedä) roskat ulos. - To take out the trash.",
+      choices: ["viet", "viette", "vit", "vie"],
+      choicesHints: [
+        "Conjugation form (viet) is a correct form of (viedä) in a second singular nominative form. ",
+        "Conjugation form (viette) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vit) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vie) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (olla) onnellinen. - Being happy.",
+      choices: ["olevat", "olet", "olvat", "olen"],
+      choicesHints: [
+        "Conjugation form (olevat) is a correct form of (olla) in a third plural nominative form. ",
+        "Conjugation form (olet) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olvat) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olen) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (kiistellä) periaatteistaan. - Arguing about their principles.",
+      choices: ["kiistelette", "kiistelee", "kiistellätte", "kiistelet"],
+      choicesHints: [
+        "Conjugation form (kiistelette) is a correct form of (kiistellä) in a second plural nominative form. ",
+        "Conjugation form (kiistelee) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette",
+        "Conjugation form (kiistellätte) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette",
+        "Conjugation form (kiistelet) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (lentää) ulkomaille lomalle. - Flying abroad for vacation.",
+      choices: ["lentää", "lentäää", "lentän", "lentät"],
+      choicesHints: [
+        "Conjugation form (lentää) is a correct form of (lentää) in a third singular nominative form. ",
+        "Conjugation form (lentäää) is a incorrect form of (lentää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentää",
+        "Conjugation form (lentän) is a incorrect form of (lentää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentää",
+        "Conjugation form (lentät) is a incorrect form of (lentää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is lentää"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (tuoda) tuliaisia matkalta. - To bring souvenirs from the trip.",
+      choices: ["tuo", "tuomme", "tuoda", "tuotte"],
+      choicesHints: [
+        "Conjugation form (tuo) is a correct form of (tuoda) in a third singular nominative form. ",
+        "Conjugation form (tuomme) is a incorrect form of (tuoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuo",
+        "Conjugation form (tuoda) is a incorrect form of (tuoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuo",
+        "Conjugation form (tuotte) is a incorrect form of (tuoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tuo"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (ostaa) uusia vaatteita kesäksi. - Buying new clothes for summer.",
+      choices: ["ostat", "ostt", "ostavat", "ostamme"],
+      choicesHints: [
+        "Conjugation form (ostat) is a correct form of (ostaa) in a second singular nominative form. ",
+        "Conjugation form (ostt) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat",
+        "Conjugation form (ostavat) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat",
+        "Conjugation form (ostamme) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Sinä (viedä) roskat ulos. - To take out the trash.",
+      choices: ["viet", "viette", "vit", "vie"],
+      choicesHints: [
+        "Conjugation form (viet) is a correct form of (viedä) in a second singular nominative form. ",
+        "Conjugation form (viette) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vit) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vie) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Sinä (tupakoida) ulkona. - To smoke outdoors.",
+      choices: ["tupakoit", "tupakot", "tupakoitte", "tupakoi"],
+      choicesHints: [
+        "Conjugation form (tupakoit) is a correct form of (tupakoida) in a second singular nominative form. ",
+        "Conjugation form (tupakot) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit",
+        "Conjugation form (tupakoitte) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit",
+        "Conjugation form (tupakoi) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (maistaa) herkullista ruokaa. - Tasting delicious food.",
+      choices: ["maistamme", "maistmme", "maistatte", "maistavat"],
+      choicesHints: [
+        "Conjugation form (maistamme) is a correct form of (maistaa) in a first plural nominative form. ",
+        "Conjugation form (maistmme) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistatte) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistavat) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (soida) puhelimen soittoääni. - To ring as the phone's ringtone.",
+      choices: ["soimme", "soidamme", "somme", "soivat"],
+      choicesHints: [
+        "Conjugation form (soimme) is a correct form of (soida) in a first plural nominative form. ",
+        "Conjugation form (soidamme) is a incorrect form of (soida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soimme",
+        "Conjugation form (somme) is a incorrect form of (soida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soimme",
+        "Conjugation form (soivat) is a incorrect form of (soida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is soimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (syödä) terveellisesti ja tasapainoisesti. - To eat healthily and balanced.",
+      choices: ["syön", "syöt", "syödän", "syn"],
+      choicesHints: [
+        "Conjugation form (syön) is a correct form of (syödä) in a first singular nominative form. ",
+        "Conjugation form (syöt) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syödän) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syn) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (juoda) teetä ennen nukkumaanmenoa. - Drinking tea before bedtime.",
+      choices: ["juotte", "jutte", "juomme", "juot"],
+      choicesHints: [
+        "Conjugation form (juotte) is a correct form of (juoda) in a second plural nominative form. ",
+        "Conjugation form (jutte) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte",
+        "Conjugation form (juomme) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte",
+        "Conjugation form (juot) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (sortua) paineen alla. - To collapse under pressure.",
+      choices: ["sortuvat", "sortuavat", "sortumme", "sortvat"],
+      choicesHints: [
+        "Conjugation form (sortuvat) is a correct form of (sortua) in a third plural nominative form. ",
+        "Conjugation form (sortuavat) is a incorrect form of (sortua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is sortuvat",
+        "Conjugation form (sortumme) is a incorrect form of (sortua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is sortuvat",
+        "Conjugation form (sortvat) is a incorrect form of (sortua) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is sortuvat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (katsoa) tähtiä yötaivaalla. - Watching the stars in the night sky.",
+      choices: ["katsotte", "katsot", "katstte", "katsovat"],
+      choicesHints: [
+        "Conjugation form (katsotte) is a correct form of (katsoa) in a second plural nominative form. ",
+        "Conjugation form (katsot) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte",
+        "Conjugation form (katstte) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte",
+        "Conjugation form (katsovat) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (juoda) kuppi kuumaa teetä. - To drink a cup of hot tea.",
+      choices: ["juo", "juon", "ju", "juoda"],
+      choicesHints: [
+        "Conjugation form (juo) is a correct form of (juoda) in a third singular nominative form. ",
+        "Conjugation form (juon) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo",
+        "Conjugation form (ju) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo",
+        "Conjugation form (juoda) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (opiskella) uutta kieltä innokkaasti. - Studying a new language eagerly.",
+      choices: ["opiskelette", "opiskeltte", "opiskelet", "opiskelevat"],
+      choicesHints: [
+        "Conjugation form (opiskelette) is a correct form of (opiskella) in a second plural nominative form. ",
+        "Conjugation form (opiskeltte) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelet) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (surra) menetettyä ystävää. - Mourning a lost friend.",
+      choices: ["suret", "suree", "suremme", "surrat"],
+      choicesHints: [
+        "Conjugation form (suret) is a correct form of (surra) in a second singular nominative form. ",
+        "Conjugation form (suree) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (suremme) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (surrat) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (haista) hyvältä. - To smell good.",
+      choices: ["haisemme", "haistamme", "haisette", "haismme"],
+      choicesHints: [
+        "Conjugation form (haisemme) is a correct form of (haista) in a first plural nominative form. ",
+        "Conjugation form (haistamme) is a incorrect form of (haista) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisemme",
+        "Conjugation form (haisette) is a incorrect form of (haista) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisemme",
+        "Conjugation form (haismme) is a incorrect form of (haista) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Sinä (viedä) roskat ulos. - To take out the trash.",
+      choices: ["viet", "viette", "vit", "vie"],
+      choicesHints: [
+        "Conjugation form (viet) is a correct form of (viedä) in a second singular nominative form. ",
+        "Conjugation form (viette) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vit) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vie) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (kommunikoida) selkeästi ja avoimesti. - To communicate clearly and openly.",
+      choices: [
+        "kommunikoitte",
+        "kommunikoimme",
+        "kommunikoidatte",
+        "kommunikoivat"
+      ],
+      choicesHints: [
+        "Conjugation form (kommunikoitte) is a correct form of (kommunikoida) in a second plural nominative form. ",
+        "Conjugation form (kommunikoimme) is a incorrect form of (kommunikoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoitte",
+        "Conjugation form (kommunikoidatte) is a incorrect form of (kommunikoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoitte",
+        "Conjugation form (kommunikoivat) is a incorrect form of (kommunikoida) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is kommunikoitte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (nauttia) elämästä täysin siemauksin. - Enjoying life to the fullest.",
+      choices: ["nauttivat", "nauttit", "nauttimme", "nauttii"],
+      choicesHints: [
+        "Conjugation form (nauttivat) is a correct form of (nauttia) in a third plural nominative form. ",
+        "Conjugation form (nauttit) is a incorrect form of (nauttia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nauttivat",
+        "Conjugation form (nauttimme) is a incorrect form of (nauttia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nauttivat",
+        "Conjugation form (nauttii) is a incorrect form of (nauttia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is nauttivat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (kiertää) maailmaa. - To go around the world.",
+      choices: ["kiertävät", "kiertämme", "kiertäävät", "kiertät"],
+      choicesHints: [
+        "Conjugation form (kiertävät) is a correct form of (kiertää) in a third plural nominative form. ",
+        "Conjugation form (kiertämme) is a incorrect form of (kiertää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiertävät",
+        "Conjugation form (kiertäävät) is a incorrect form of (kiertää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiertävät",
+        "Conjugation form (kiertät) is a incorrect form of (kiertää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kiertävät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (paketoida) lahjoja taitavasti. - To package gifts skillfully.",
+      choices: ["paketoi", "paketoida", "paketoit", "paketoitte"],
+      choicesHints: [
+        "Conjugation form (paketoi) is a correct form of (paketoida) in a third singular nominative form. ",
+        "Conjugation form (paketoida) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi",
+        "Conjugation form (paketoit) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi",
+        "Conjugation form (paketoitte) is a incorrect form of (paketoida) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is paketoi"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
+      choices: ["opiskelemme", "opiskelen", "opiskelevat", "opiskelmme"],
+      choicesHints: [
+        "Conjugation form (opiskelemme) is a correct form of (opiskella) in a first plural nominative form. ",
+        "Conjugation form (opiskelen) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
+        "Conjugation form (opiskelmme) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (rakastaa) eläimiä sydämestään. - Loving animals with all one's heart.",
+      choices: ["rakastavat", "rakastvat", "rakastan", "rakastaa"],
+      choicesHints: [
+        "Conjugation form (rakastavat) is a correct form of (rakastaa) in a third plural nominative form. ",
+        "Conjugation form (rakastvat) is a incorrect form of (rakastaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastavat",
+        "Conjugation form (rakastan) is a incorrect form of (rakastaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastavat",
+        "Conjugation form (rakastaa) is a incorrect form of (rakastaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastavat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (syödä) terveellisesti ja tasapainoisesti. - To eat healthily and balanced.",
+      choices: ["syön", "syöt", "syödän", "syn"],
+      choicesHints: [
+        "Conjugation form (syön) is a correct form of (syödä) in a first singular nominative form. ",
+        "Conjugation form (syöt) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syödän) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syn) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (surra) menetettyä ystävää. - Mourning a lost friend.",
+      choices: ["suret", "suree", "suremme", "surrat"],
+      choicesHints: [
+        "Conjugation form (suret) is a correct form of (surra) in a second singular nominative form. ",
+        "Conjugation form (suree) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (suremme) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (surrat) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (olla) onnellinen. - Being happy.",
+      choices: ["olevat", "olet", "olvat", "olen"],
+      choicesHints: [
+        "Conjugation form (olevat) is a correct form of (olla) in a third plural nominative form. ",
+        "Conjugation form (olet) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olvat) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olen) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (maistaa) herkullista ruokaa. - Tasting delicious food.",
+      choices: ["maistamme", "maistmme", "maistatte", "maistavat"],
+      choicesHints: [
+        "Conjugation form (maistamme) is a correct form of (maistaa) in a first plural nominative form. ",
+        "Conjugation form (maistmme) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistatte) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistavat) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (matkustaa) ympäri Eurooppaa junalla. - Traveling around Europe by train.",
+      choices: ["matkustatte", "matkustaatte", "matkustamme", "matkusttte"],
+      choicesHints: [
+        "Conjugation form (matkustatte) is a correct form of (matkustaa) in a second plural nominative form. ",
+        "Conjugation form (matkustaatte) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte",
+        "Conjugation form (matkustamme) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte",
+        "Conjugation form (matkusttte) is a incorrect form of (matkustaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is matkustatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtypes 1-3 KPT': [
+    Question(
+      questionText: "He (kuunnella) musiikkia. - To listen to music.",
+      choices: ["kuuntelevat", "kuuntelvat", "kuuntelelavat", "kuunnelevat"],
+      choicesHints: [
+        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuuntelelavat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (riidellä) perheenjäsenten kanssa. - Arguing with family members.",
+      choices: ["riitelet", "riitelee", "riitelette", "riidelet"],
+      choicesHints: [
+        "Conjugation form (riitelet) is a correct form of (riidellä) in a second singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelee) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riitelette) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riidelet) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (opetella) uusia taitoja. - To learn new skills.",
+      choices: ["opettelee", "opettele", "opettelelae", "opetelee"],
+      choicesHints: [
+        "Conjugation form (opettelee) is a correct form of (opetella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (opettele) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettelelae) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opetelee) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (suudella) intohimoisesti. - To kiss passionately.",
+      choices: ["suutelen", "suutelee", "suutelelan", "suuteln"],
+      choicesHints: [
+        "Conjugation form (suutelen) is a correct form of (suudella) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (suutelee) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suutelelan) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suuteln) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (odottaa) junaa asemalla. - To wait for the train at the station.",
+      choices: ["odotamme", "odotmme", "odotaamme", "odotan"],
+      choicesHints: [
+        "Conjugation form (odotamme) is a correct form of (odottaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (odotmme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
+        "Conjugation form (odotaamme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
+        "Conjugation form (odotan) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (tapella) koulun pihalla. - Fighting in the schoolyard.",
+      choices: ["tappelen", "tappelelan", "tapelen", "tappelet"],
+      choicesHints: [
+        "Conjugation form (tappelen) is a correct form of (tapella) in a first singular nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (tappelelan) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tapelen) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
+      choices: ["kuuntelet", "kuuntelelat", "kuunnelet", "kuuntelt"],
+      choicesHints: [
+        "Conjugation form (kuuntelet) is a correct form of (kuunnella) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelat) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuunnelet) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuuntelt) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (kuunnella) musiikkia. - To listen to music.",
+      choices: ["kuuntelevat", "kuuntelvat", "kuuntelelavat", "kuunnelevat"],
+      choicesHints: [
+        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuuntelelavat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (tapella) kaverin kanssa. - To fight with a friend.",
+      choices: ["tappelevat", "tapelevat", "tappelet", "tappelette"],
+      choicesHints: [
+        "Conjugation form (tappelevat) is a correct form of (tapella) in a third plural nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (tapelevat) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat",
+        "Conjugation form (tappelette) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (opetella) uusia taitoja. - To learn new skills.",
+      choices: ["opettelee", "opettele", "opettelelae", "opetelee"],
+      choicesHints: [
+        "Conjugation form (opettelee) is a correct form of (opetella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (opettele) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettelelae) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opetelee) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (tapella) koulun pihalla. - Fighting in the schoolyard.",
+      choices: ["tappelen", "tappelelan", "tapelen", "tappelet"],
+      choicesHints: [
+        "Conjugation form (tappelen) is a correct form of (tapella) in a first singular nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (tappelelan) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tapelen) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (tapella) kaverin kanssa. - To fight with a friend.",
+      choices: ["tappelevat", "tapelevat", "tappelet", "tappelette"],
+      choicesHints: [
+        "Conjugation form (tappelevat) is a correct form of (tapella) in a third plural nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (tapelevat) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat",
+        "Conjugation form (tappelette) is a incorrect form of (tapella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (kirjoittaa) runoja luonnosta. - Writing poems about nature.",
+      choices: ["kirjoitamme", "kirjoitmme", "kirjoittamme", "kirjoitaamme"],
+      choicesHints: [
+        "Conjugation form (kirjoitamme) is a correct form of (kirjoittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitmme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme",
+        "Conjugation form (kirjoittamme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme",
+        "Conjugation form (kirjoitaamme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (alkaa) uusi kouluvuosi. - To start a new school year.",
+      choices: ["alatte", "alkatte", "alaatte", "altte"],
+      choicesHints: [
+        "Conjugation form (alatte) is a correct form of (alkaa) in a second plural nominative form. It undergoes the following consonant gradation: k->. ",
+        "Conjugation form (alkatte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte",
+        "Conjugation form (alaatte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte",
+        "Conjugation form (altte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (ommella) vaatteita. - To sew clothes.",
+      choices: ["ompelevat", "ompelemme", "ompelelavat", "ommelevat"],
+      choicesHints: [
+        "Conjugation form (ompelevat) is a correct form of (ommella) in a third plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
+        "Conjugation form (ompelemme) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelelavat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ommelevat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (ajatella) omaa tulevaisuutta. - Thinking about one's own future.",
+      choices: ["ajattelette", "ajattelelatte", "ajatteltte", "ajatelette"],
+      choicesHints: [
+        "Conjugation form (ajattelette) is a correct form of (ajatella) in a second plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (ajattelelatte) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette",
+        "Conjugation form (ajatteltte) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette",
+        "Conjugation form (ajatelette) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (soittaa) kitaraa rennosti. - Playing the guitar casually.",
+      choices: ["soitan", "soitn", "soitamme", "soittan"],
+      choicesHints: [
+        "Conjugation form (soitan) is a correct form of (soittaa) in a first singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (soitn) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan",
+        "Conjugation form (soitamme) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan",
+        "Conjugation form (soittan) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (nukkua) mukavasti omassa sängyssä. - Sleeping comfortably in one's own bed.",
+      choices: ["nukutte", "nuktte", "nukumme", "nukkutte"],
+      choicesHints: [
+        "Conjugation form (nukutte) is a correct form of (nukkua) in a second plural nominative form. It undergoes the following consonant gradation: kk->k. ",
+        "Conjugation form (nuktte) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte",
+        "Conjugation form (nukumme) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte",
+        "Conjugation form (nukkutte) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (kirjoittaa) päiväkirjaa. - To write a diary.",
+      choices: ["kirjoitatte", "kirjoitaatte", "kirjoittte", "kirjoittatte"],
+      choicesHints: [
+        "Conjugation form (kirjoitatte) is a correct form of (kirjoittaa) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitaatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
+      choices: ["kuuntelet", "kuuntelelat", "kuunnelet", "kuuntelt"],
+      choicesHints: [
+        "Conjugation form (kuuntelet) is a correct form of (kuunnella) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelat) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuunnelet) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuuntelt) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (auttaa) heikompia. - To help the weaker ones.",
+      choices: ["autamme", "autaamme", "autaa", "auttamme"],
+      choicesHints: [
+        "Conjugation form (autamme) is a correct form of (auttaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (autaamme) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme",
+        "Conjugation form (autaa) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme",
+        "Conjugation form (auttamme) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (unohtaa) avaimet kotiin. - To forget the keys at home.",
+      choices: ["unohdan", "unohtan", "unohdaan", "unohdamme"],
+      choicesHints: [
+        "Conjugation form (unohdan) is a correct form of (unohtaa) in a first singular nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (unohtan) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan",
+        "Conjugation form (unohdaan) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan",
+        "Conjugation form (unohdamme) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (rakentaa) taloa omille lapsille. - Building a house for one's children.",
+      choices: ["rakennamme", "rakennmme", "rakennaamme", "rakentamme"],
+      choicesHints: [
+        "Conjugation form (rakennamme) is a correct form of (rakentaa) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (rakennmme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakennaamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakentamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (opettaa) lapsille uusia taitoja. - Teaching children new skills.",
+      choices: ["opetat", "opett", "opettat", "opetaat"],
+      choicesHints: [
+        "Conjugation form (opetat) is a correct form of (opettaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (opett) is a incorrect form of (opettaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetat",
+        "Conjugation form (opettat) is a incorrect form of (opettaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetat",
+        "Conjugation form (opetaat) is a incorrect form of (opettaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is opetat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kirjoittaa) päiväkirjaa joka ilta. - Writing a diary every evening.",
+      choices: ["kirjoitat", "kirjoitaat", "kirjoitavat", "kirjoitt"],
+      choicesHints: [
+        "Conjugation form (kirjoitat) is a correct form of (kirjoittaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitaat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitavat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitt) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (kuunnella) musiikkia. - To listen to music.",
+      choices: ["kuuntelevat", "kuuntelvat", "kuuntelelavat", "kuunnelevat"],
+      choicesHints: [
+        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuuntelelavat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (lentää) ympäri maailmaa seikkailuun. - Flying around the world for adventure.",
+      choices: ["lennän", "lennät", "lennään", "lennn"],
+      choicesHints: [
+        "Conjugation form (lennän) is a correct form of (lentää) in a first singular nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (lennät) is a incorrect form of (lentää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennän",
+        "Conjugation form (lennään) is a incorrect form of (lentää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennän",
+        "Conjugation form (lennn) is a incorrect form of (lentää) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is lennän"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (ommella) vaatteita. - To sew clothes.",
+      choices: ["ompelevat", "ompelemme", "ompelelavat", "ommelevat"],
+      choicesHints: [
+        "Conjugation form (ompelevat) is a correct form of (ommella) in a third plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
+        "Conjugation form (ompelemme) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelelavat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ommelevat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (suudella) intohimoisesti. - To kiss passionately.",
+      choices: ["suutelen", "suutelee", "suutelelan", "suuteln"],
+      choicesHints: [
+        "Conjugation form (suutelen) is a correct form of (suudella) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (suutelee) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suutelelan) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suuteln) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (rakentaa) taloa omille lapsille. - Building a house for one's children.",
+      choices: ["rakennamme", "rakennmme", "rakennaamme", "rakentamme"],
+      choicesHints: [
+        "Conjugation form (rakennamme) is a correct form of (rakentaa) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (rakennmme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakennaamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakentamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtypes 1-3 mixed': [
+    Question(
+      questionText: "Te (julkaista) uusi kirja. - Publishing a new book.",
+      choices: ["julkaisette", "julkaisen", "julkaistatte", "julkaistte"],
+      choicesHints: [
+        "Conjugation form (julkaisette) is a correct form of (julkaista) in a second plural nominative form. ",
+        "Conjugation form (julkaisen) is a incorrect form of (julkaista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisette",
+        "Conjugation form (julkaistatte) is a incorrect form of (julkaista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisette",
+        "Conjugation form (julkaistte) is a incorrect form of (julkaista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is julkaisette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (valmistaa) herkullista illallista. - Cooking a delicious dinner.",
+      choices: ["valmistatte", "valmisttte", "valmistaatte", "valmistamme"],
+      choicesHints: [
+        "Conjugation form (valmistatte) is a correct form of (valmistaa) in a second plural nominative form. ",
+        "Conjugation form (valmisttte) is a incorrect form of (valmistaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistatte",
+        "Conjugation form (valmistaatte) is a incorrect form of (valmistaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistatte",
+        "Conjugation form (valmistamme) is a incorrect form of (valmistaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (olla) onnellinen. - Being happy.",
+      choices: ["olevat", "olet", "olvat", "olen"],
+      choicesHints: [
+        "Conjugation form (olevat) is a correct form of (olla) in a third plural nominative form. ",
+        "Conjugation form (olet) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olvat) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olen) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (myydä) vanhoja tavaroita kirpputorilla. - To sell old items at the flea market.",
+      choices: ["myymme", "myydämme", "myytte", "mymme"],
+      choicesHints: [
+        "Conjugation form (myymme) is a correct form of (myydä) in a first plural nominative form. ",
+        "Conjugation form (myydämme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
+        "Conjugation form (myytte) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
+        "Conjugation form (mymme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (hymyillä) vieraille kohteliaasti. - Smiling politely to guests.",
+      choices: ["hymyilet", "hymyillät", "hymyilt", "hymyilevät"],
+      choicesHints: [
+        "Conjugation form (hymyilet) is a correct form of (hymyillä) in a second singular nominative form. ",
+        "Conjugation form (hymyillät) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet",
+        "Conjugation form (hymyilt) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet",
+        "Conjugation form (hymyilevät) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (suudella) intohimoisesti rakastettua. - Kissing passionately a loved one.",
+      choices: ["suutelee", "suutele", "suudelee", "suutelelae"],
+      choicesHints: [
+        "Conjugation form (suutelee) is a correct form of (suudella) in a third singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (suutele) is a incorrect form of (suudella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelee",
+        "Conjugation form (suudelee) is a incorrect form of (suudella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelee",
+        "Conjugation form (suutelelae) is a incorrect form of (suudella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (syödä) terveellisesti ja tasapainoisesti. - To eat healthily and balanced.",
+      choices: ["syön", "syöt", "syödän", "syn"],
+      choicesHints: [
+        "Conjugation form (syön) is a correct form of (syödä) in a first singular nominative form. ",
+        "Conjugation form (syöt) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syödän) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön",
+        "Conjugation form (syn) is a incorrect form of (syödä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is syön"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (istua) puistossa ja nauttia auringosta. - Sitting in the park and enjoying the sun.",
+      choices: ["istun", "istumme", "istuan", "istn"],
+      choicesHints: [
+        "Conjugation form (istun) is a correct form of (istua) in a first singular nominative form. ",
+        "Conjugation form (istumme) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
+        "Conjugation form (istuan) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun",
+        "Conjugation form (istn) is a incorrect form of (istua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is istun"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (käydä) lääkärissä säännöllisesti. - To visit the doctor regularly.",
+      choices: ["käyt", "käydät", "käyn", "kät"],
+      choicesHints: [
+        "Conjugation form (käyt) is a correct form of (käydä) in a second singular nominative form. ",
+        "Conjugation form (käydät) is a incorrect form of (käydä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käyt",
+        "Conjugation form (käyn) is a incorrect form of (käydä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käyt",
+        "Conjugation form (kät) is a incorrect form of (käydä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is käyt"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (olla) onnellinen. - Being happy.",
+      choices: ["olevat", "olet", "olvat", "olen"],
+      choicesHints: [
+        "Conjugation form (olevat) is a correct form of (olla) in a third plural nominative form. ",
+        "Conjugation form (olet) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olvat) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olen) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (opetella) soittamaan pianoa. - Learning to play the piano.",
+      choices: ["opettelee", "opetelee", "opettele", "opettelelae"],
+      choicesHints: [
+        "Conjugation form (opettelee) is a correct form of (opetella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (opetelee) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettele) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettelelae) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (opiskella) uutta kieltä innokkaasti. - Studying a new language eagerly.",
+      choices: ["opiskelette", "opiskeltte", "opiskelet", "opiskelevat"],
+      choicesHints: [
+        "Conjugation form (opiskelette) is a correct form of (opiskella) in a second plural nominative form. ",
+        "Conjugation form (opiskeltte) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelet) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (hymyillä) vieraille kohteliaasti. - Smiling politely to guests.",
+      choices: ["hymyilet", "hymyillät", "hymyilt", "hymyilevät"],
+      choicesHints: [
+        "Conjugation form (hymyilet) is a correct form of (hymyillä) in a second singular nominative form. ",
+        "Conjugation form (hymyillät) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet",
+        "Conjugation form (hymyilt) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet",
+        "Conjugation form (hymyilevät) is a incorrect form of (hymyillä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (rakastaa) perhettään syvästi. - Loving one's family deeply.",
+      choices: ["rakastan", "rakastavat", "rakastat", "rakastatte"],
+      choicesHints: [
+        "Conjugation form (rakastan) is a correct form of (rakastaa) in a first singular nominative form. ",
+        "Conjugation form (rakastavat) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
+        "Conjugation form (rakastat) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
+        "Conjugation form (rakastatte) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (juoda) teetä ennen nukkumaanmenoa. - Drinking tea before bedtime.",
+      choices: ["juotte", "jutte", "juomme", "juot"],
+      choicesHints: [
+        "Conjugation form (juotte) is a correct form of (juoda) in a second plural nominative form. ",
+        "Conjugation form (jutte) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte",
+        "Conjugation form (juomme) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte",
+        "Conjugation form (juot) is a incorrect form of (juoda) in a second plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juotte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (myydä) vanhoja tavaroita kirpputorilla. - To sell old items at the flea market.",
+      choices: ["myymme", "myydämme", "myytte", "mymme"],
+      choicesHints: [
+        "Conjugation form (myymme) is a correct form of (myydä) in a first plural nominative form. ",
+        "Conjugation form (myydämme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
+        "Conjugation form (myytte) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme",
+        "Conjugation form (mymme) is a incorrect form of (myydä) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is myymme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (tanssia) ilman musiikkia on vaikeaa. - Dancing without music is difficult.",
+      choices: ["tanssimme", "tanssiamme", "tanssit", "tanssmme"],
+      choicesHints: [
+        "Conjugation form (tanssimme) is a correct form of (tanssia) in a first plural nominative form. ",
+        "Conjugation form (tanssiamme) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
+        "Conjugation form (tanssit) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
+        "Conjugation form (tanssmme) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (maistaa) herkullista ruokaa. - Tasting delicious food.",
+      choices: ["maistamme", "maistmme", "maistatte", "maistavat"],
+      choicesHints: [
+        "Conjugation form (maistamme) is a correct form of (maistaa) in a first plural nominative form. ",
+        "Conjugation form (maistmme) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistatte) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme",
+        "Conjugation form (maistavat) is a incorrect form of (maistaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is maistamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (kirjoittaa) päiväkirjaa. - To write a diary.",
+      choices: ["kirjoitatte", "kirjoitaatte", "kirjoittte", "kirjoittatte"],
+      choicesHints: [
+        "Conjugation form (kirjoitatte) is a correct form of (kirjoittaa) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitaatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (auttaa) heikompia. - To help the weaker ones.",
+      choices: ["autamme", "autaamme", "autaa", "auttamme"],
+      choicesHints: [
+        "Conjugation form (autamme) is a correct form of (auttaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (autaamme) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme",
+        "Conjugation form (autaa) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme",
+        "Conjugation form (auttamme) is a incorrect form of (auttaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is autamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (tietää) vastaus kysymykseen. - To know the answer to the question.",
+      choices: ["tietävät", "tietäävät", "tietän", "tietvät"],
+      choicesHints: [
+        "Conjugation form (tietävät) is a correct form of (tietää) in a third plural nominative form. ",
+        "Conjugation form (tietäävät) is a incorrect form of (tietää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tietävät",
+        "Conjugation form (tietän) is a incorrect form of (tietää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tietävät",
+        "Conjugation form (tietvät) is a incorrect form of (tietää) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tietävät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kirjoittaa) päiväkirjaa joka ilta. - Writing a diary every evening.",
+      choices: ["kirjoitat", "kirjoitaat", "kirjoitavat", "kirjoitt"],
+      choicesHints: [
+        "Conjugation form (kirjoitat) is a correct form of (kirjoittaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitaat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitavat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitt) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
+      choices: ["kuuntelet", "kuuntelelat", "kuunnelet", "kuuntelt"],
+      choicesHints: [
+        "Conjugation form (kuuntelet) is a correct form of (kuunnella) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelat) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuunnelet) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuuntelt) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (katsoa) tähtiä yötaivaalla. - Watching the stars in the night sky.",
+      choices: ["katsotte", "katsot", "katstte", "katsovat"],
+      choicesHints: [
+        "Conjugation form (katsotte) is a correct form of (katsoa) in a second plural nominative form. ",
+        "Conjugation form (katsot) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte",
+        "Conjugation form (katstte) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte",
+        "Conjugation form (katsovat) is a incorrect form of (katsoa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is katsotte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (ymmärtää) vaikeaa matematiikkaa. - To understand difficult mathematics.",
+      choices: ["ymmärtää", "ymmärtävät", "ymmärtä", "ymmärtät"],
+      choicesHints: [
+        "Conjugation form (ymmärtää) is a correct form of (ymmärtää) in a third singular nominative form. ",
+        "Conjugation form (ymmärtävät) is a incorrect form of (ymmärtää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ymmärtää",
+        "Conjugation form (ymmärtä) is a incorrect form of (ymmärtää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ymmärtää",
+        "Conjugation form (ymmärtät) is a incorrect form of (ymmärtää) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ymmärtää"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (ostaa) uusia vaatteita kesäksi. - Buying new clothes for summer.",
+      choices: ["ostat", "ostt", "ostavat", "ostamme"],
+      choicesHints: [
+        "Conjugation form (ostat) is a correct form of (ostaa) in a second singular nominative form. ",
+        "Conjugation form (ostt) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat",
+        "Conjugation form (ostavat) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat",
+        "Conjugation form (ostamme) is a incorrect form of (ostaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (etsiä) kadonnutta avainta. - To look for a lost key.",
+      choices: ["etsivät", "etsiävät", "etsii", "etsitte"],
+      choicesHints: [
+        "Conjugation form (etsivät) is a correct form of (etsiä) in a third plural nominative form. ",
+        "Conjugation form (etsiävät) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsii) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsitte) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (opiskella) uutta kieltä innokkaasti. - Studying a new language eagerly.",
+      choices: ["opiskelette", "opiskeltte", "opiskelet", "opiskelevat"],
+      choicesHints: [
+        "Conjugation form (opiskelette) is a correct form of (opiskella) in a second plural nominative form. ",
+        "Conjugation form (opiskeltte) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelet) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette",
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (asua) vanhassa talossa. - To live in an old house.",
+      choices: ["asun", "asutte", "asut", "asumme"],
+      choicesHints: [
+        "Conjugation form (asun) is a correct form of (asua) in a first singular nominative form. ",
+        "Conjugation form (asutte) is a incorrect form of (asua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asun",
+        "Conjugation form (asut) is a incorrect form of (asua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asun",
+        "Conjugation form (asumme) is a incorrect form of (asua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is asun"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (surra) menetettyä ystävää. - Mourning a lost friend.",
+      choices: ["suret", "suree", "suremme", "surrat"],
+      choicesHints: [
+        "Conjugation form (suret) is a correct form of (surra) in a second singular nominative form. ",
+        "Conjugation form (suree) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (suremme) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (surrat) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtypes 1-5': [
+    Question(
+      questionText: "Sinä (tupakoida) ulkona. - To smoke outdoors.",
+      choices: ["tupakoit", "tupakot", "tupakoitte", "tupakoi"],
+      choicesHints: [
+        "Conjugation form (tupakoit) is a correct form of (tupakoida) in a second singular nominative form. ",
+        "Conjugation form (tupakot) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit",
+        "Conjugation form (tupakoitte) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit",
+        "Conjugation form (tupakoi) is a incorrect form of (tupakoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is tupakoit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (pysyä) terveenä liikunnalla. - Staying healthy through exercise.",
+      choices: ["pysyvät", "pysymme", "pysyävät", "pysyn"],
+      choicesHints: [
+        "Conjugation form (pysyvät) is a correct form of (pysyä) in a third plural nominative form. ",
+        "Conjugation form (pysymme) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
+        "Conjugation form (pysyävät) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
+        "Conjugation form (pysyn) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (purra) kynsiä hermostuneena. - Biting nails nervously.",
+      choices: ["purette", "purtte", "puret", "purratte"],
+      choicesHints: [
+        "Conjugation form (purette) is a correct form of (purra) in a second plural nominative form. ",
+        "Conjugation form (purtte) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette",
+        "Conjugation form (puret) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette",
+        "Conjugation form (purratte) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (hillitä) itsensä vihasta. - To restrain oneself from anger.",
+      choices: ["hillitset", "hillitsetät", "hillitsemme", "hillitsevät"],
+      choicesHints: [
+        "Conjugation form (hillitset) is a correct form of (hillitä) in a second singular nominative form. ",
+        "Conjugation form (hillitsetät) is a incorrect form of (hillitä) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitset",
+        "Conjugation form (hillitsemme) is a incorrect form of (hillitä) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitset",
+        "Conjugation form (hillitsevät) is a incorrect form of (hillitä) in a second singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hillitset"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (hoitaa) sairasta lasta. - To take care of a sick child.",
+      choices: ["hoitaa", "hoitaaa", "hoitamme", "hoita"],
+      choicesHints: [
+        "Conjugation form (hoitaa) is a correct form of (hoitaa) in a third singular nominative form. ",
+        "Conjugation form (hoitaaa) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa",
+        "Conjugation form (hoitamme) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa",
+        "Conjugation form (hoita) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (puhua) monta kieltä. - To speak many languages.",
+      choices: ["puhun", "puhutte", "puhn", "puhuvat"],
+      choicesHints: [
+        "Conjugation form (puhun) is a correct form of (puhua) in a first singular nominative form. ",
+        "Conjugation form (puhutte) is a incorrect form of (puhua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhun",
+        "Conjugation form (puhn) is a incorrect form of (puhua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhun",
+        "Conjugation form (puhuvat) is a incorrect form of (puhua) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is puhun"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (imuroida) lattiat viikoittain. - To vacuum the floors weekly.",
+      choices: ["imuroimme", "imuromme", "imuroitte", "imuroivat"],
+      choicesHints: [
+        "Conjugation form (imuroimme) is a correct form of (imuroida) in a first plural nominative form. ",
+        "Conjugation form (imuromme) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme",
+        "Conjugation form (imuroitte) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme",
+        "Conjugation form (imuroivat) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (vastata) kysymykseen. - To answer a question.",
+      choices: ["vastaa", "vasta", "vastaata", "vastaatte"],
+      choicesHints: [
+        "Conjugation form (vastaa) is a correct form of (vastata) in a third singular nominative form. ",
+        "Conjugation form (vasta) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa",
+        "Conjugation form (vastaata) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa",
+        "Conjugation form (vastaatte) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (tarvita) apua vaikeassa tilanteessa. - To need help in a difficult situation.",
+      choices: ["tarvitsevat", "tarvitsen", "tarvitsee", "tarvitset"],
+      choicesHints: [
+        "Conjugation form (tarvitsevat) is a correct form of (tarvita) in a third plural nominative form. ",
+        "Conjugation form (tarvitsen) is a incorrect form of (tarvita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsevat",
+        "Conjugation form (tarvitsee) is a incorrect form of (tarvita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsevat",
+        "Conjugation form (tarvitset) is a incorrect form of (tarvita) in a third plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (merkitä) tärkeitä sanoja sanakirjaan. - To mark important words in the dictionary.",
+      choices: ["merkitsee", "merkitsette", "merkitsetäe", "merkitsevät"],
+      choicesHints: [
+        "Conjugation form (merkitsee) is a correct form of (merkitä) in a third singular nominative form. ",
+        "Conjugation form (merkitsette) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee",
+        "Conjugation form (merkitsetäe) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee",
+        "Conjugation form (merkitsevät) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (hallita) taitavasti monia taitoja. - To master many skills skillfully.",
+      choices: ["hallitsemme", "hallitsen", "hallitsetamme", "hallitset"],
+      choicesHints: [
+        "Conjugation form (hallitsemme) is a correct form of (hallita) in a first plural nominative form. ",
+        "Conjugation form (hallitsen) is a incorrect form of (hallita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsemme",
+        "Conjugation form (hallitsetamme) is a incorrect form of (hallita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsemme",
+        "Conjugation form (hallitset) is a incorrect form of (hallita) in a first plural nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (kiistellä) periaatteistaan. - Arguing about their principles.",
+      choices: ["kiistelette", "kiistelee", "kiistellätte", "kiistelet"],
+      choicesHints: [
+        "Conjugation form (kiistelette) is a correct form of (kiistellä) in a second plural nominative form. ",
+        "Conjugation form (kiistelee) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette",
+        "Conjugation form (kiistellätte) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette",
+        "Conjugation form (kiistelet) is a incorrect form of (kiistellä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (hallita) maata viisaasti. - To rule a country wisely.",
+      choices: ["hallitsen", "hallitsetan", "hallitsee", "hallitsevat"],
+      choicesHints: [
+        "Conjugation form (hallitsen) is a correct form of (hallita) in a first singular nominative form. ",
+        "Conjugation form (hallitsetan) is a incorrect form of (hallita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsen",
+        "Conjugation form (hallitsee) is a incorrect form of (hallita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsen",
+        "Conjugation form (hallitsevat) is a incorrect form of (hallita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is hallitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Sinä (viedä) roskat ulos. - To take out the trash.",
+      choices: ["viet", "viette", "vit", "vie"],
+      choicesHints: [
+        "Conjugation form (viet) is a correct form of (viedä) in a second singular nominative form. ",
+        "Conjugation form (viette) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vit) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet",
+        "Conjugation form (vie) is a incorrect form of (viedä) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (vastata) sähköpostiviestiin. - To respond to an email message.",
+      choices: ["vastaat", "vastaatat", "vastaatte", "vastat"],
+      choicesHints: [
+        "Conjugation form (vastaat) is a correct form of (vastata) in a second singular nominative form. ",
+        "Conjugation form (vastaatat) is a incorrect form of (vastata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaat",
+        "Conjugation form (vastaatte) is a incorrect form of (vastata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaat",
+        "Conjugation form (vastat) is a incorrect form of (vastata) in a second singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (olla) onnellinen. - Being happy.",
+      choices: ["olevat", "olet", "olvat", "olen"],
+      choicesHints: [
+        "Conjugation form (olevat) is a correct form of (olla) in a third plural nominative form. ",
+        "Conjugation form (olet) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olvat) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat",
+        "Conjugation form (olen) is a incorrect form of (olla) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is olevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (surra) menetettyä ystävää. - Mourning a lost friend.",
+      choices: ["suret", "suree", "suremme", "surrat"],
+      choicesHints: [
+        "Conjugation form (suret) is a correct form of (surra) in a second singular nominative form. ",
+        "Conjugation form (suree) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (suremme) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret",
+        "Conjugation form (surrat) is a incorrect form of (surra) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is suret"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
+      choices: ["opiskelemme", "opiskelen", "opiskelevat", "opiskelmme"],
+      choicesHints: [
+        "Conjugation form (opiskelemme) is a correct form of (opiskella) in a first plural nominative form. ",
+        "Conjugation form (opiskelen) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
+        "Conjugation form (opiskelevat) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme",
+        "Conjugation form (opiskelmme) is a incorrect form of (opiskella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (tanssia) ilman musiikkia on vaikeaa. - Dancing without music is difficult.",
+      choices: ["tanssimme", "tanssiamme", "tanssit", "tanssmme"],
+      choicesHints: [
+        "Conjugation form (tanssimme) is a correct form of (tanssia) in a first plural nominative form. ",
+        "Conjugation form (tanssiamme) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
+        "Conjugation form (tanssit) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme",
+        "Conjugation form (tanssmme) is a incorrect form of (tanssia) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (luennoida) yliopistolla. - To lecture at the university.",
+      choices: ["luennoimme", "luennoitte", "luennoivat", "luennoidamme"],
+      choicesHints: [
+        "Conjugation form (luennoimme) is a correct form of (luennoida) in a first plural nominative form. ",
+        "Conjugation form (luennoitte) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoivat) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoidamme) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (viipaloida) leipää ohuiksi viipaleiksi. - To slice bread into thin slices.",
+      choices: ["viipaloit", "viipalot", "viipaloidat", "viipaloivat"],
+      choicesHints: [
+        "Conjugation form (viipaloit) is a correct form of (viipaloida) in a second singular nominative form. ",
+        "Conjugation form (viipalot) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit",
+        "Conjugation form (viipaloidat) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit",
+        "Conjugation form (viipaloivat) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (jäädä) kotiin sairaana. - To stay home when sick.",
+      choices: ["jään", "jäät", "jää", "jäävät"],
+      choicesHints: [
+        "Conjugation form (jään) is a correct form of (jäädä) in a first singular nominative form. ",
+        "Conjugation form (jäät) is a incorrect form of (jäädä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jään",
+        "Conjugation form (jää) is a incorrect form of (jäädä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jään",
+        "Conjugation form (jäävät) is a incorrect form of (jäädä) in a first singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is jään"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (etsiä) kadonnutta avainta. - To look for a lost key.",
+      choices: ["etsivät", "etsiävät", "etsii", "etsitte"],
+      choicesHints: [
+        "Conjugation form (etsivät) is a correct form of (etsiä) in a third plural nominative form. ",
+        "Conjugation form (etsiävät) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsii) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsitte) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (piffata) itsensä viikonloppuna. - To treat oneself over the weekend.",
+      choices: ["piffaa", "piffa", "piffaata", "piffaavat"],
+      choicesHints: [
+        "Conjugation form (piffaa) is a correct form of (piffata) in a third singular nominative form. ",
+        "Conjugation form (piffa) is a incorrect form of (piffata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is piffaa",
+        "Conjugation form (piffaata) is a incorrect form of (piffata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is piffaa",
+        "Conjugation form (piffaavat) is a incorrect form of (piffata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is piffaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (luennoida) yliopistolla. - To lecture at the university.",
+      choices: ["luennoimme", "luennoitte", "luennoivat", "luennoidamme"],
+      choicesHints: [
+        "Conjugation form (luennoimme) is a correct form of (luennoida) in a first plural nominative form. ",
+        "Conjugation form (luennoitte) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoivat) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoidamme) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (hymyillä) aurinkoisena päivänä. - Smiling on a sunny day.",
+      choices: ["hymyilette", "hymyillätte", "hymyilee", "hymyilet"],
+      choicesHints: [
+        "Conjugation form (hymyilette) is a correct form of (hymyillä) in a second plural nominative form. ",
+        "Conjugation form (hymyillätte) is a incorrect form of (hymyillä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilette",
+        "Conjugation form (hymyilee) is a incorrect form of (hymyillä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilette",
+        "Conjugation form (hymyilet) is a incorrect form of (hymyillä) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is hymyilette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (leipoa) herkullisia kakkuja. - Baking delicious cakes.",
+      choices: ["leipoo", "leipon", "leipo", "leipoao"],
+      choicesHints: [
+        "Conjugation form (leipoo) is a correct form of (leipoa) in a third singular nominative form. ",
+        "Conjugation form (leipon) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo",
+        "Conjugation form (leipo) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo",
+        "Conjugation form (leipoao) is a incorrect form of (leipoa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is leipoo"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
+      choices: ["opiskelet", "opiskelemme", "opiskelee", "opiskelt"],
+      choicesHints: [
+        "Conjugation form (opiskelet) is a correct form of (opiskella) in a second singular nominative form. ",
+        "Conjugation form (opiskelemme) is a incorrect form of (opiskella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelet",
+        "Conjugation form (opiskelee) is a incorrect form of (opiskella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelet",
+        "Conjugation form (opiskelt) is a incorrect form of (opiskella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (viipaloida) leipää ohuiksi viipaleiksi. - To slice bread into thin slices.",
+      choices: ["viipaloit", "viipalot", "viipaloidat", "viipaloivat"],
+      choicesHints: [
+        "Conjugation form (viipaloit) is a correct form of (viipaloida) in a second singular nominative form. ",
+        "Conjugation form (viipalot) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit",
+        "Conjugation form (viipaloidat) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit",
+        "Conjugation form (viipaloivat) is a incorrect form of (viipaloida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is viipaloit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (hoitaa) sairasta lasta. - To take care of a sick child.",
+      choices: ["hoitaa", "hoitaaa", "hoitamme", "hoita"],
+      choicesHints: [
+        "Conjugation form (hoitaa) is a correct form of (hoitaa) in a third singular nominative form. ",
+        "Conjugation form (hoitaaa) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa",
+        "Conjugation form (hoitamme) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa",
+        "Conjugation form (hoita) is a incorrect form of (hoitaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hoitaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtypes 1-5 KPT': [
+    Question(
+      questionText:
+          "Sinä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
+      choices: ["kuuntelet", "kuuntelelat", "kuunnelet", "kuuntelt"],
+      choicesHints: [
+        "Conjugation form (kuuntelet) is a correct form of (kuunnella) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelat) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuunnelet) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet",
+        "Conjugation form (kuuntelt) is a incorrect form of (kuunnella) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (työskennellä) kiireisenä toimistossa. - Working busy in the office.",
+      choices: [
+        "työskentelet",
+        "työskentelelät",
+        "työskentelemme",
+        "työskennelet"
+      ],
+      choicesHints: [
+        "Conjugation form (työskentelet) is a correct form of (työskennellä) in a second singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (työskentelelät) is a incorrect form of (työskennellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelet",
+        "Conjugation form (työskentelemme) is a incorrect form of (työskennellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelet",
+        "Conjugation form (työskennelet) is a incorrect form of (työskennellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (odottaa) junaa asemalla. - To wait for the train at the station.",
+      choices: ["odotamme", "odotmme", "odotaamme", "odotan"],
+      choicesHints: [
+        "Conjugation form (odotamme) is a correct form of (odottaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (odotmme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
+        "Conjugation form (odotaamme) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme",
+        "Conjugation form (odotan) is a incorrect form of (odottaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is odotamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (kirjoittaa) päiväkirjaa. - To write a diary.",
+      choices: ["kirjoitatte", "kirjoitaatte", "kirjoittte", "kirjoittatte"],
+      choicesHints: [
+        "Conjugation form (kirjoitatte) is a correct form of (kirjoittaa) in a second plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitaatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte",
+        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (kirjoittaa) runoja luonnosta. - Writing poems about nature.",
+      choices: ["kirjoitamme", "kirjoitmme", "kirjoittamme", "kirjoitaamme"],
+      choicesHints: [
+        "Conjugation form (kirjoitamme) is a correct form of (kirjoittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitmme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme",
+        "Conjugation form (kirjoittamme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme",
+        "Conjugation form (kirjoitaamme) is a incorrect form of (kirjoittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (jutella) vanhojen ystävien kanssa. - Chatting with old friends.",
+      choices: ["juttelevat", "juttelemme", "juttelelavat", "juttelee"],
+      choicesHints: [
+        "Conjugation form (juttelevat) is a correct form of (jutella) in a third plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (juttelemme) is a incorrect form of (jutella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelevat",
+        "Conjugation form (juttelelavat) is a incorrect form of (jutella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelevat",
+        "Conjugation form (juttelee) is a incorrect form of (jutella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (jutella) ystävien kanssa. - To chat with friends.",
+      choices: ["juttelette", "jutteltte", "juttelee", "jutelette"],
+      choicesHints: [
+        "Conjugation form (juttelette) is a correct form of (jutella) in a second plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (jutteltte) is a incorrect form of (jutella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelette",
+        "Conjugation form (juttelee) is a incorrect form of (jutella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelette",
+        "Conjugation form (jutelette) is a incorrect form of (jutella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is juttelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (kuunnella) lintujen laulua aamulla. - Listening to the birdsong in the morning.",
+      choices: ["kuuntelemme", "kuuntelelamme", "kuuntelmme", "kuunnelemme"],
+      choicesHints: [
+        "Conjugation form (kuuntelemme) is a correct form of (kuunnella) in a first plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelamme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuuntelmme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuunnelemme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (riidellä) perheenjäsenten kanssa. - Arguing with family members.",
+      choices: ["riitelet", "riitelee", "riitelette", "riidelet"],
+      choicesHints: [
+        "Conjugation form (riitelet) is a correct form of (riidellä) in a second singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelee) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riitelette) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riidelet) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (kuunnella) lintujen laulua aamulla. - Listening to the birdsong in the morning.",
+      choices: ["kuuntelemme", "kuuntelelamme", "kuuntelmme", "kuunnelemme"],
+      choicesHints: [
+        "Conjugation form (kuuntelemme) is a correct form of (kuunnella) in a first plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelamme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuuntelmme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuunnelemme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (suudella) intohimoisesti. - To kiss passionately.",
+      choices: ["suutelen", "suutelee", "suutelelan", "suuteln"],
+      choicesHints: [
+        "Conjugation form (suutelen) is a correct form of (suudella) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (suutelee) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suutelelan) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen",
+        "Conjugation form (suuteln) is a incorrect form of (suudella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is suutelen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (ommella) kaunis puku. - Sewing a beautiful dress.",
+      choices: ["ompelevat", "ompelvat", "ompelee", "ompelelavat"],
+      choicesHints: [
+        "Conjugation form (ompelevat) is a correct form of (ommella) in a third plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
+        "Conjugation form (ompelvat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelee) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat",
+        "Conjugation form (ompelelavat) is a incorrect form of (ommella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (kuunnella) lintujen laulua aamulla. - Listening to the birdsong in the morning.",
+      choices: ["kuuntelemme", "kuuntelelamme", "kuuntelmme", "kuunnelemme"],
+      choicesHints: [
+        "Conjugation form (kuuntelemme) is a correct form of (kuunnella) in a first plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelamme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuuntelmme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuunnelemme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (ajatella) omaa tulevaisuutta. - Thinking about one's own future.",
+      choices: ["ajattelette", "ajattelelatte", "ajatteltte", "ajatelette"],
+      choicesHints: [
+        "Conjugation form (ajattelette) is a correct form of (ajatella) in a second plural nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (ajattelelatte) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette",
+        "Conjugation form (ajatteltte) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette",
+        "Conjugation form (ajatelette) is a incorrect form of (ajatella) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is ajattelette"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (kuunnella) musiikkia. - To listen to music.",
+      choices: ["kuuntelevat", "kuuntelvat", "kuuntelelavat", "kuunnelevat"],
+      choicesHints: [
+        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuuntelelavat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (unohtaa) avaimet kotiin. - To forget the keys at home.",
+      choices: ["unohdan", "unohtan", "unohdaan", "unohdamme"],
+      choicesHints: [
+        "Conjugation form (unohdan) is a correct form of (unohtaa) in a first singular nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (unohtan) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan",
+        "Conjugation form (unohdaan) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan",
+        "Conjugation form (unohdamme) is a incorrect form of (unohtaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is unohdan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (riidellä) perheenjäsenten kanssa. - Arguing with family members.",
+      choices: ["riitelet", "riitelee", "riitelette", "riidelet"],
+      choicesHints: [
+        "Conjugation form (riitelet) is a correct form of (riidellä) in a second singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelee) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riitelette) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet",
+        "Conjugation form (riidelet) is a incorrect form of (riidellä) in a second singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelet"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (kirjoittaa) kirjeitä rakkaalle. - Writing letters to a loved one.",
+      choices: ["kirjoitat", "kirjoitavat", "kirjoittat", "kirjoitt"],
+      choicesHints: [
+        "Conjugation form (kirjoitat) is a correct form of (kirjoittaa) in a second singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (kirjoitavat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoittat) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat",
+        "Conjugation form (kirjoitt) is a incorrect form of (kirjoittaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is kirjoitat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (riidellä) perheen kanssa. - To argue with family.",
+      choices: ["riitelevät", "riitelelävät", "riidelevät", "riitelvät"],
+      choicesHints: [
+        "Conjugation form (riitelevät) is a correct form of (riidellä) in a third plural nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelelävät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät",
+        "Conjugation form (riidelevät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät",
+        "Conjugation form (riitelvät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (rakentaa) taloa omille lapsille. - Building a house for one's children.",
+      choices: ["rakennamme", "rakennmme", "rakennaamme", "rakentamme"],
+      choicesHints: [
+        "Conjugation form (rakennamme) is a correct form of (rakentaa) in a first plural nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (rakennmme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakennaamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme",
+        "Conjugation form (rakentamme) is a incorrect form of (rakentaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is rakennamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (opetella) soittamaan pianoa. - Learning to play the piano.",
+      choices: ["opettelee", "opetelee", "opettele", "opettelelae"],
+      choicesHints: [
+        "Conjugation form (opettelee) is a correct form of (opetella) in a third singular nominative form. It undergoes the following consonant gradation: t->tt. ",
+        "Conjugation form (opetelee) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettele) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee",
+        "Conjugation form (opettelelae) is a incorrect form of (opetella) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Te (alkaa) uusi kouluvuosi. - To start a new school year.",
+      choices: ["alatte", "alkatte", "alaatte", "altte"],
+      choicesHints: [
+        "Conjugation form (alatte) is a correct form of (alkaa) in a second plural nominative form. It undergoes the following consonant gradation: k->. ",
+        "Conjugation form (alkatte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte",
+        "Conjugation form (alaatte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte",
+        "Conjugation form (altte) is a incorrect form of (alkaa) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: k->. The correct form is alatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (kuunnella) lintujen laulua aamulla. - Listening to the birdsong in the morning.",
+      choices: ["kuuntelemme", "kuuntelelamme", "kuuntelmme", "kuunnelemme"],
+      choicesHints: [
+        "Conjugation form (kuuntelemme) is a correct form of (kuunnella) in a first plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelelamme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuuntelmme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme",
+        "Conjugation form (kuunnelemme) is a incorrect form of (kuunnella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelemme"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
           "Minä (kuunnella) musiikkia kuulokkeilla. - Listening to music with headphones.",
-      choices: ["kuuntelen", "kuunteln", "kuunnelen", "kuuntelelan"],
+      choices: ["kuuntelen", "kuunnelen", "kuuntelelan", "kuunteln"],
       choicesHints: [
         "Conjugation form (kuuntelen) is a correct form of (kuunnella) in a first singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
-        "Conjugation form (kuunteln) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen",
         "Conjugation form (kuunnelen) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen",
-        "Conjugation form (kuuntelelan) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen"
+        "Conjugation form (kuuntelelan) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen",
+        "Conjugation form (kuunteln) is a incorrect form of (kuunnella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelen"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText: "Sinä (terrorisoida) yhteiskuntaa. - To terrorize society.",
+      questionText: "Sinä (vaatia) oikeutta. - To demand justice.",
+      choices: ["vaadit", "vaadiat", "vaadt", "vaatit"],
+      choicesHints: [
+        "Conjugation form (vaadit) is a correct form of (vaatia) in a second singular nominative form. It undergoes the following consonant gradation: t->d. ",
+        "Conjugation form (vaadiat) is a incorrect form of (vaatia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadit",
+        "Conjugation form (vaadt) is a incorrect form of (vaatia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadit",
+        "Conjugation form (vaatit) is a incorrect form of (vaatia) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is vaadit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (soittaa) kitaraa rennosti. - Playing the guitar casually.",
+      choices: ["soitan", "soitn", "soitamme", "soittan"],
+      choicesHints: [
+        "Conjugation form (soitan) is a correct form of (soittaa) in a first singular nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (soitn) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan",
+        "Conjugation form (soitamme) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan",
+        "Conjugation form (soittan) is a incorrect form of (soittaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Te (nukkua) mukavasti omassa sängyssä. - Sleeping comfortably in one's own bed.",
+      choices: ["nukutte", "nuktte", "nukumme", "nukkutte"],
+      choicesHints: [
+        "Conjugation form (nukutte) is a correct form of (nukkua) in a second plural nominative form. It undergoes the following consonant gradation: kk->k. ",
+        "Conjugation form (nuktte) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte",
+        "Conjugation form (nukumme) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte",
+        "Conjugation form (nukkutte) is a incorrect form of (nukkua) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: kk->k. The correct form is nukutte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (kieltää) syytökset. - To deny the accusations.",
+      choices: ["kiellämme", "kieltämme", "kielläämme", "kiellät"],
+      choicesHints: [
+        "Conjugation form (kiellämme) is a correct form of (kieltää) in a first plural nominative form. It undergoes the following consonant gradation: lt->ll. ",
+        "Conjugation form (kieltämme) is a incorrect form of (kieltää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellämme",
+        "Conjugation form (kielläämme) is a incorrect form of (kieltää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellämme",
+        "Conjugation form (kiellät) is a incorrect form of (kieltää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: lt->ll. The correct form is kiellämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (soittaa) pianoa taitavasti. - Playing the piano skillfully.",
+      choices: ["soitamme", "soitmme", "soittamme", "soitaamme"],
+      choicesHints: [
+        "Conjugation form (soitamme) is a correct form of (soittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (soitmme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
+        "Conjugation form (soittamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
+        "Conjugation form (soitaamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (antaa) lahjoja ystäville. - To give gifts to friends.",
+      choices: ["annat", "annaat", "annamme", "annatte"],
+      choicesHints: [
+        "Conjugation form (annat) is a correct form of (antaa) in a second singular nominative form. It undergoes the following consonant gradation: nt->nn. ",
+        "Conjugation form (annaat) is a incorrect form of (antaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annat",
+        "Conjugation form (annamme) is a incorrect form of (antaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annat",
+        "Conjugation form (annatte) is a incorrect form of (antaa) in a second singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: nt->nn. The correct form is annat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+  ],
+  'Verbtypes 1-5 mixed': [
+    Question(
+      questionText:
+          "Hän (merkitä) tärkeitä sanoja sanakirjaan. - To mark important words in the dictionary.",
+      choices: ["merkitsee", "merkitsette", "merkitsetäe", "merkitsevät"],
+      choicesHints: [
+        "Conjugation form (merkitsee) is a correct form of (merkitä) in a third singular nominative form. ",
+        "Conjugation form (merkitsette) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee",
+        "Conjugation form (merkitsetäe) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee",
+        "Conjugation form (merkitsevät) is a incorrect form of (merkitä) in a third singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is merkitsee"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (vastata) kysymykseen. - To answer a question.",
+      choices: ["vastaa", "vasta", "vastaata", "vastaatte"],
+      choicesHints: [
+        "Conjugation form (vastaa) is a correct form of (vastata) in a third singular nominative form. ",
+        "Conjugation form (vasta) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa",
+        "Conjugation form (vastaata) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa",
+        "Conjugation form (vastaatte) is a incorrect form of (vastata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is vastaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (avata) kirje varovasti. - To open the letter carefully.",
+      choices: ["avaamme", "avaat", "avaatamme", "avaa"],
+      choicesHints: [
+        "Conjugation form (avaamme) is a correct form of (avata) in a first plural nominative form. ",
+        "Conjugation form (avaat) is a incorrect form of (avata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaamme",
+        "Conjugation form (avaatamme) is a incorrect form of (avata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaamme",
+        "Conjugation form (avaa) is a incorrect form of (avata) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is avaamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (ostaa) lahjoja jouluna. - Buying gifts for Christmas.",
+      choices: ["ostaa", "ostan", "ostamme", "osta"],
+      choicesHints: [
+        "Conjugation form (ostaa) is a correct form of (ostaa) in a third singular nominative form. ",
+        "Conjugation form (ostan) is a incorrect form of (ostaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostaa",
+        "Conjugation form (ostamme) is a incorrect form of (ostaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostaa",
+        "Conjugation form (osta) is a incorrect form of (ostaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is ostaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (haluta) enemmän elämältä. - To want more from life.",
+      choices: ["haluan", "haluat", "haluatan", "haluaa"],
+      choicesHints: [
+        "Conjugation form (haluan) is a correct form of (haluta) in a first singular nominative form. ",
+        "Conjugation form (haluat) is a incorrect form of (haluta) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluan",
+        "Conjugation form (haluatan) is a incorrect form of (haluta) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluan",
+        "Conjugation form (haluaa) is a incorrect form of (haluta) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is haluan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (mainita) nimi kiitospuheessa. - To mention a name in a thank-you speech.",
+      choices: ["mainitsen", "mainitsette", "mainitset", "mainitsemme"],
+      choicesHints: [
+        "Conjugation form (mainitsen) is a correct form of (mainita) in a first singular nominative form. ",
+        "Conjugation form (mainitsette) is a incorrect form of (mainita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsen",
+        "Conjugation form (mainitset) is a incorrect form of (mainita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsen",
+        "Conjugation form (mainitsemme) is a incorrect form of (mainita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is mainitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (tavata) vanhoja kavereita. - Meeting old friends.",
+      choices: ["tapaa", "tapaavat", "tapaan", "tapa"],
+      choicesHints: [
+        "Conjugation form (tapaa) is a correct form of (tavata) in a third singular nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (tapaavat) is a incorrect form of (tavata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaa",
+        "Conjugation form (tapaan) is a incorrect form of (tavata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaa",
+        "Conjugation form (tapa) is a incorrect form of (tavata) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (ratkaista) vaikea matemaattinen pulma. - Solving a difficult mathematical puzzle.",
+      choices: ["ratkaisevat", "ratkaisemme", "ratkaiset", "ratkaisvat"],
+      choicesHints: [
+        "Conjugation form (ratkaisevat) is a correct form of (ratkaista) in a third plural nominative form. ",
+        "Conjugation form (ratkaisemme) is a incorrect form of (ratkaista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisevat",
+        "Conjugation form (ratkaiset) is a incorrect form of (ratkaista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisevat",
+        "Conjugation form (ratkaisvat) is a incorrect form of (ratkaista) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is ratkaisevat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (lakata) satamasta. - To cease from the harbor.",
+      choices: ["lakkaan", "lakkaatan", "lakaan", "lakkan"],
+      choicesHints: [
+        "Conjugation form (lakkaan) is a correct form of (lakata) in a first singular nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (lakkaatan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan",
+        "Conjugation form (lakaan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan",
+        "Conjugation form (lakkan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (juoda) kuppi kuumaa teetä. - To drink a cup of hot tea.",
+      choices: ["juo", "juon", "ju", "juoda"],
+      choicesHints: [
+        "Conjugation form (juo) is a correct form of (juoda) in a third singular nominative form. ",
+        "Conjugation form (juon) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo",
+        "Conjugation form (ju) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo",
+        "Conjugation form (juoda) is a incorrect form of (juoda) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is juo"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (lakata) satamasta. - To cease from the harbor.",
+      choices: ["lakkaan", "lakkaatan", "lakaan", "lakkan"],
+      choicesHints: [
+        "Conjugation form (lakkaan) is a correct form of (lakata) in a first singular nominative form. It undergoes the following consonant gradation: k->kk. ",
+        "Conjugation form (lakkaatan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan",
+        "Conjugation form (lakaan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan",
+        "Conjugation form (lakkan) is a incorrect form of (lakata) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: k->kk. The correct form is lakkaan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (tarvita) uutta tietoa. - To need new information.",
+      choices: ["tarvitsen", "tarvitsn", "tarvitsette", "tarvitset"],
+      choicesHints: [
+        "Conjugation form (tarvitsen) is a correct form of (tarvita) in a first singular nominative form. ",
+        "Conjugation form (tarvitsn) is a incorrect form of (tarvita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsen",
+        "Conjugation form (tarvitsette) is a incorrect form of (tarvita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsen",
+        "Conjugation form (tarvitset) is a incorrect form of (tarvita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is tarvitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (kuulla) kaukaa ääniä. - Hearing distant sounds.",
+      choices: ["kuulen", "kuulemme", "kuuln", "kuullan"],
+      choicesHints: [
+        "Conjugation form (kuulen) is a correct form of (kuulla) in a first singular nominative form. ",
+        "Conjugation form (kuulemme) is a incorrect form of (kuulla) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulen",
+        "Conjugation form (kuuln) is a incorrect form of (kuulla) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulen",
+        "Conjugation form (kuullan) is a incorrect form of (kuulla) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kuulen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (soittaa) pianoa taitavasti. - To play the piano skillfully.",
+      choices: ["soitamme", "soitmme", "soittamme", "soitaamme"],
+      choicesHints: [
+        "Conjugation form (soitamme) is a correct form of (soittaa) in a first plural nominative form. It undergoes the following consonant gradation: tt->t. ",
+        "Conjugation form (soitmme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
+        "Conjugation form (soittamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme",
+        "Conjugation form (soitaamme) is a incorrect form of (soittaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: tt->t. The correct form is soitamme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Sinä (uida) järvessä kesällä. - To swim in the lake during the summer.",
+      choices: ["uit", "ut", "uivat", "ui"],
+      choicesHints: [
+        "Conjugation form (uit) is a correct form of (uida) in a second singular nominative form. ",
+        "Conjugation form (ut) is a incorrect form of (uida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uit",
+        "Conjugation form (uivat) is a incorrect form of (uida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uit",
+        "Conjugation form (ui) is a incorrect form of (uida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is uit"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "He (valmistaa) herkullista lounasta ystäville. - Cooking a delicious lunch for friends.",
+      choices: ["valmistavat", "valmistvat", "valmistatte", "valmistaavat"],
+      choicesHints: [
+        "Conjugation form (valmistavat) is a correct form of (valmistaa) in a third plural nominative form. ",
+        "Conjugation form (valmistvat) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat",
+        "Conjugation form (valmistatte) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat",
+        "Conjugation form (valmistaavat) is a incorrect form of (valmistaa) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is valmistavat"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (imuroida) lattiat viikoittain. - To vacuum the floors weekly.",
+      choices: ["imuroimme", "imuromme", "imuroitte", "imuroivat"],
+      choicesHints: [
+        "Conjugation form (imuroimme) is a correct form of (imuroida) in a first plural nominative form. ",
+        "Conjugation form (imuromme) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme",
+        "Conjugation form (imuroitte) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme",
+        "Conjugation form (imuroivat) is a incorrect form of (imuroida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is imuroimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Me (luennoida) yliopistolla. - To lecture at the university.",
+      choices: ["luennoimme", "luennoitte", "luennoivat", "luennoidamme"],
+      choicesHints: [
+        "Conjugation form (luennoimme) is a correct form of (luennoida) in a first plural nominative form. ",
+        "Conjugation form (luennoitte) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoivat) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme",
+        "Conjugation form (luennoidamme) is a incorrect form of (luennoida) in a first plural nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoimme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Hän (saada) hyviä arvosanoja koulussa. - To get good grades in school.",
+      choices: ["saa", "sa", "saatte", "saat"],
+      choicesHints: [
+        "Conjugation form (saa) is a correct form of (saada) in a third singular nominative form. ",
+        "Conjugation form (sa) is a incorrect form of (saada) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saa",
+        "Conjugation form (saatte) is a incorrect form of (saada) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saa",
+        "Conjugation form (saat) is a incorrect form of (saada) in a third singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is saa"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (riidellä) perheen kanssa. - To argue with family.",
+      choices: ["riitelevät", "riitelelävät", "riidelevät", "riitelvät"],
+      choicesHints: [
+        "Conjugation form (riitelevät) is a correct form of (riidellä) in a third plural nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (riitelelävät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät",
+        "Conjugation form (riidelevät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät",
+        "Conjugation form (riitelvät) is a incorrect form of (riidellä) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: d->t. The correct form is riitelevät"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Me (hypätä) esteen yli. - To jump over an obstacle.",
+      choices: ["hyppäämme", "hyppämme", "hyppäätämme", "hypäämme"],
+      choicesHints: [
+        "Conjugation form (hyppäämme) is a correct form of (hypätä) in a first plural nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (hyppämme) is a incorrect form of (hypätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppäämme",
+        "Conjugation form (hyppäätämme) is a incorrect form of (hypätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppäämme",
+        "Conjugation form (hypäämme) is a incorrect form of (hypätä) in a first plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: p->pp. The correct form is hyppäämme"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (pudota) korkealta puusta. - To fall from a tall tree.",
+      choices: ["putoan", "putoavat", "puton", "putoamme"],
+      choicesHints: [
+        "Conjugation form (putoan) is a correct form of (pudota) in a first singular nominative form. It undergoes the following consonant gradation: d->t. ",
+        "Conjugation form (putoavat) is a incorrect form of (pudota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is putoan",
+        "Conjugation form (puton) is a incorrect form of (pudota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is putoan",
+        "Conjugation form (putoamme) is a incorrect form of (pudota) in a first singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: d->t. The correct form is putoan"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText:
+          "Minä (havaita) piilevä vaara. - To perceive a hidden danger.",
+      choices: ["havaitsen", "havaitsee", "havaitsemme", "havaitsetan"],
+      choicesHints: [
+        "Conjugation form (havaitsen) is a correct form of (havaita) in a first singular nominative form. ",
+        "Conjugation form (havaitsee) is a incorrect form of (havaita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsen",
+        "Conjugation form (havaitsemme) is a incorrect form of (havaita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsen",
+        "Conjugation form (havaitsetan) is a incorrect form of (havaita) in a first singular nominative form. Verb of type 5. Verbtype 5 is quite rare compared to the other Finnish verbtypes. Verbs belonging to this verbtype end in -ita/-itä. To find this type of verb’s infinitive stem, you remove the final -ta/-tä. To this stem, you then add -tse- before adding the personal ending! The correct form is havaitsen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Minä (työskennellä) ahkerasti. - To work diligently.",
       choices: [
-        "terrorisoit",
-        "terrorisoidat",
-        "terrorisoivat",
-        "terrorisoimme"
+        "työskentelen",
+        "työskentelelän",
+        "työskenteln",
+        "työskennelen"
       ],
       choicesHints: [
-        "Conjugation form (terrorisoit) is a correct form of (terrorisoida) in a second singular nominative form. ",
-        "Conjugation form (terrorisoidat) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit",
-        "Conjugation form (terrorisoivat) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit",
-        "Conjugation form (terrorisoimme) is a incorrect form of (terrorisoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is terrorisoit"
+        "Conjugation form (työskentelen) is a correct form of (työskennellä) in a first singular nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (työskentelelän) is a incorrect form of (työskennellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelen",
+        "Conjugation form (työskenteln) is a incorrect form of (työskennellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelen",
+        "Conjugation form (työskennelen) is a incorrect form of (työskennellä) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is työskentelen"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "Hän (juoruta) naapureista. - To gossip about neighbors.",
+      choices: ["juoruaa", "juoruan", "juoruavat", "juoruatte"],
+      choicesHints: [
+        "Conjugation form (juoruaa) is a correct form of (juoruta) in a third singular nominative form. ",
+        "Conjugation form (juoruan) is a incorrect form of (juoruta) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruaa",
+        "Conjugation form (juoruavat) is a incorrect form of (juoruta) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruaa",
+        "Conjugation form (juoruatte) is a incorrect form of (juoruta) in a third singular nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. The correct form is juoruaa"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "He (pysyä) positiivisena vaikeina aikoina. - Staying positive during tough times.",
-      choices: ["pysyvät", "pysvät", "pysyt", "pysyävät"],
+          "Minä (tapella) koulun pihalla. - Fighting in the schoolyard.",
+      choices: ["tappelen", "tappelelan", "tapelen", "tappelet"],
       choicesHints: [
-        "Conjugation form (pysyvät) is a correct form of (pysyä) in a third plural nominative form. ",
-        "Conjugation form (pysvät) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
-        "Conjugation form (pysyt) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät",
-        "Conjugation form (pysyävät) is a incorrect form of (pysyä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is pysyvät"
+        "Conjugation form (tappelen) is a correct form of (tapella) in a first singular nominative form. It undergoes the following consonant gradation: p->pp. ",
+        "Conjugation form (tappelelan) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tapelen) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen",
+        "Conjugation form (tappelet) is a incorrect form of (tapella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: p->pp. The correct form is tappelen"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Hän (kiistellä) periaatteistaan. - Arguing about their principles.",
-      choices: ["kiistelee", "kiistelette", "kiistelläe", "kiistele"],
+          "Te (tavata) uusia ihmisiä matkoilla. - To meet new people while traveling.",
+      choices: ["tapaatte", "tapaatatte", "tavaatte", "tapatte"],
       choicesHints: [
-        "Conjugation form (kiistelee) is a correct form of (kiistellä) in a third singular nominative form. ",
-        "Conjugation form (kiistelette) is a incorrect form of (kiistellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelee",
-        "Conjugation form (kiistelläe) is a incorrect form of (kiistellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelee",
-        "Conjugation form (kiistele) is a incorrect form of (kiistellä) in a third singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is kiistelee"
+        "Conjugation form (tapaatte) is a correct form of (tavata) in a second plural nominative form. It undergoes the following consonant gradation: v->p. ",
+        "Conjugation form (tapaatatte) is a incorrect form of (tavata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaatte",
+        "Conjugation form (tavaatte) is a incorrect form of (tavata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaatte",
+        "Conjugation form (tapatte) is a incorrect form of (tavata) in a second plural nominative form. Verb of type 4. Verbs belonging to verbtype 4 end in -ata/-ätä, -ota/-ötä, -uta/-ytä. To find this type of verb’s infinitive stem, you remove the -t (so NOT the final -a!). Some sources will tell you to remove the -ta and then add an -a. This comes down to the same thing. It undergoes the following consonant gradation: v->p. The correct form is tapaatte"
+      ],
+      correctAnswerIndex: 0,
+    ),
+    Question(
+      questionText: "He (etsiä) kadonnutta avainta. - To look for a lost key.",
+      choices: ["etsivät", "etsiävät", "etsii", "etsitte"],
+      choicesHints: [
+        "Conjugation form (etsivät) is a correct form of (etsiä) in a third plural nominative form. ",
+        "Conjugation form (etsiävät) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsii) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät",
+        "Conjugation form (etsitte) is a incorrect form of (etsiä) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is etsivät"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
       questionText:
-          "Me (opetella) soittamaan pianoa. - Learning to play the piano.",
-      choices: ["opettelemme", "opettelet", "opettelette", "opetelemme"],
+          "Te (purra) kynsiä hermostuneena. - Biting nails nervously.",
+      choices: ["purette", "purtte", "puret", "purratte"],
       choicesHints: [
-        "Conjugation form (opettelemme) is a correct form of (opetella) in a first plural nominative form. It undergoes the following consonant gradation: t->tt. ",
-        "Conjugation form (opettelet) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme",
-        "Conjugation form (opettelette) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme",
-        "Conjugation form (opetelemme) is a incorrect form of (opetella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: t->tt. The correct form is opettelemme"
+        "Conjugation form (purette) is a correct form of (purra) in a second plural nominative form. ",
+        "Conjugation form (purtte) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette",
+        "Conjugation form (puret) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette",
+        "Conjugation form (purratte) is a incorrect form of (purra) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is purette"
       ],
       correctAnswerIndex: 0,
     ),
     Question(
-      questionText:
-          "Sinä (luennoida) yliopistolla. - To lecture at the university.",
-      choices: ["luennoit", "luennoidat", "luennoitte", "luennot"],
+      questionText: "He (kuunnella) musiikkia. - To listen to music.",
+      choices: ["kuuntelevat", "kuuntelvat", "kuuntelelavat", "kuunnelevat"],
       choicesHints: [
-        "Conjugation form (luennoit) is a correct form of (luennoida) in a second singular nominative form. ",
-        "Conjugation form (luennoidat) is a incorrect form of (luennoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoit",
-        "Conjugation form (luennoitte) is a incorrect form of (luennoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoit",
-        "Conjugation form (luennot) is a incorrect form of (luennoida) in a second singular nominative form. Verb of type 2. This verbtype consists of verbs that end in -da/-dä. To find this type of verb’s infinitive stem, you remove the -da/-dä. The correct form is luennoit"
+        "Conjugation form (kuuntelevat) is a correct form of (kuunnella) in a third plural nominative form. It undergoes the following consonant gradation: nn->nt. ",
+        "Conjugation form (kuuntelvat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuuntelelavat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat",
+        "Conjugation form (kuunnelevat) is a incorrect form of (kuunnella) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: nn->nt. The correct form is kuuntelevat"
       ],
       correctAnswerIndex: 0,
     ),
-    Question(
-      questionText: "Me (ommella) vaatteita. - To sew clothes.",
-      choices: ["ompelemme", "ommelemme", "ompelmme", "ompelelamme"],
-      choicesHints: [
-        "Conjugation form (ompelemme) is a correct form of (ommella) in a first plural nominative form. It undergoes the following consonant gradation: mm->mp. ",
-        "Conjugation form (ommelemme) is a incorrect form of (ommella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelemme",
-        "Conjugation form (ompelmme) is a incorrect form of (ommella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelemme",
-        "Conjugation form (ompelelamme) is a incorrect form of (ommella) in a first plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! It undergoes the following consonant gradation: mm->mp. The correct form is ompelemme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Te (haista) pahalta. - Smelling bad.",
-      choices: ["haisette", "haistatte", "haistte", "haisee"],
-      choicesHints: [
-        "Conjugation form (haisette) is a correct form of (haista) in a second plural nominative form. ",
-        "Conjugation form (haistatte) is a incorrect form of (haista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisette",
-        "Conjugation form (haistte) is a incorrect form of (haista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisette",
-        "Conjugation form (haisee) is a incorrect form of (haista) in a second plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is haisette"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Minä (opiskella) ahkerasti koko vuoden. - Studying diligently all year.",
-      choices: ["opiskelen", "opiskeln", "opiskelette", "opiskelemme"],
-      choicesHints: [
-        "Conjugation form (opiskelen) is a correct form of (opiskella) in a first singular nominative form. ",
-        "Conjugation form (opiskeln) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen",
-        "Conjugation form (opiskelette) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen",
-        "Conjugation form (opiskelemme) is a incorrect form of (opiskella) in a first singular nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is opiskelen"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "Me (kiertää) maailmaa. - To go around the world.",
-      choices: ["kierrämme", "kierrmme", "kierräämme", "kiertämme"],
-      choicesHints: [
-        "Conjugation form (kierrämme) is a correct form of (kiertää) in a first plural nominative form. It undergoes the following consonant gradation: rt->rr. ",
-        "Conjugation form (kierrmme) is a incorrect form of (kiertää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is kierrämme",
-        "Conjugation form (kierräämme) is a incorrect form of (kiertää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is kierrämme",
-        "Conjugation form (kiertämme) is a incorrect form of (kiertää) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: rt->rr. The correct form is kierrämme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "He (tanssia) sateessa on hauskaa. - Dancing in the rain is fun.",
-      choices: ["tanssivat", "tanssiavat", "tanssvat", "tanssii"],
-      choicesHints: [
-        "Conjugation form (tanssivat) is a correct form of (tanssia) in a third plural nominative form. ",
-        "Conjugation form (tanssiavat) is a incorrect form of (tanssia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssivat",
-        "Conjugation form (tanssvat) is a incorrect form of (tanssia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssivat",
-        "Conjugation form (tanssii) is a incorrect form of (tanssia) in a third plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is tanssivat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText: "He (panna) ruoka uuniin. - Putting food in the oven.",
-      choices: ["panevat", "pannavat", "panet", "panette"],
-      choicesHints: [
-        "Conjugation form (panevat) is a correct form of (panna) in a third plural nominative form. ",
-        "Conjugation form (pannavat) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat",
-        "Conjugation form (panet) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat",
-        "Conjugation form (panette) is a incorrect form of (panna) in a third plural nominative form. Verb of type 3. Verbs belonging to this verbtype end in -lla/-llä, -nna/-nnä, -rra/-rrä, -sta/-stä (in other words: in two consonants and a vowel). To find these verbs’ infinitive stem, remove the -la/-lä, -na/-nä, -ra/-rä, or -ta/-tä. To this stem, you add an -e- before adding the personal ending! The correct form is panevat"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Minä (laulaa) ystävien kanssa karaokea. - Singing karaoke with friends.",
-      choices: ["laulan", "laulat", "laulavat", "lauln"],
-      choicesHints: [
-        "Conjugation form (laulan) is a correct form of (laulaa) in a first singular nominative form. ",
-        "Conjugation form (laulat) is a incorrect form of (laulaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulan",
-        "Conjugation form (laulavat) is a incorrect form of (laulaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulan",
-        "Conjugation form (lauln) is a incorrect form of (laulaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is laulan"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Minä (rakastaa) eläimiä sydämestään. - Loving animals with all one's heart.",
-      choices: ["rakastan", "rakastatte", "rakastamme", "rakastaan"],
-      choicesHints: [
-        "Conjugation form (rakastan) is a correct form of (rakastaa) in a first singular nominative form. ",
-        "Conjugation form (rakastatte) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
-        "Conjugation form (rakastamme) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan",
-        "Conjugation form (rakastaan) is a incorrect form of (rakastaa) in a first singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is rakastan"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Te (hiihtää) nopeasti rinteessä. - Skiing quickly down the slope.",
-      choices: ["hiihtätte", "hiihtät", "hiihtäätte", "hiihttte"],
-      choicesHints: [
-        "Conjugation form (hiihtätte) is a correct form of (hiihtää) in a second plural nominative form. ",
-        "Conjugation form (hiihtät) is a incorrect form of (hiihtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtätte",
-        "Conjugation form (hiihtäätte) is a incorrect form of (hiihtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtätte",
-        "Conjugation form (hiihttte) is a incorrect form of (hiihtää) in a second plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is hiihtätte"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Me (hoitaa) sairasta lasta. - To take care of a sick child.",
-      choices: ["hoidamme", "hoitamme", "hoidaamme", "hoidmme"],
-      choicesHints: [
-        "Conjugation form (hoidamme) is a correct form of (hoitaa) in a first plural nominative form. It undergoes the following consonant gradation: t->d. ",
-        "Conjugation form (hoitamme) is a incorrect form of (hoitaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hoidamme",
-        "Conjugation form (hoidaamme) is a incorrect form of (hoitaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hoidamme",
-        "Conjugation form (hoidmme) is a incorrect form of (hoitaa) in a first plural nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. It undergoes the following consonant gradation: t->d. The correct form is hoidamme"
-      ],
-      correctAnswerIndex: 0,
-    ),
-    Question(
-      questionText:
-          "Hän (kirjoittaa) runoja luonnosta. - Writing poems about nature.",
-      choices: ["kirjoittaa", "kirjoittaaa", "kirjoittatte", "kirjoittavat"],
-      choicesHints: [
-        "Conjugation form (kirjoittaa) is a correct form of (kirjoittaa) in a third singular nominative form. ",
-        "Conjugation form (kirjoittaaa) is a incorrect form of (kirjoittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittaa",
-        "Conjugation form (kirjoittatte) is a incorrect form of (kirjoittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittaa",
-        "Conjugation form (kirjoittavat) is a incorrect form of (kirjoittaa) in a third singular nominative form. Verb of type 1. Verbs belonging to this verbtype have an infinitive that ends in 2 vowels (-aa, -ea, -eä, -ia, -iä, -oa, -ua, -yä, -ää, -öä). To find this type of verb’s infinitive stem, you remove the final -a or -ä from the infinitive. The correct form is kirjoittaa"
-      ],
-      correctAnswerIndex: 0,
-    ),
-  ]
+  ],
 };
